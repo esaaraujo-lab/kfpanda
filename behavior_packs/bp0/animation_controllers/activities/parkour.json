@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.parkour_dumpling_give":{"states":{"default":{"transitions":[{"collected":"q.property('noxcrew:collected')"}]},"collected":{"on_entry":["@s noxcrew:despawn"]}}}}}

@@ -1,0 +1,30 @@
+import { Entrypoint, SequenceManager, TitleManagerV2 } from "noxcrew.common.scripting/index.js";
+import { PlayerDoubleJumpManager } from "./player/doubleJump.js";
+import { PlayerDodgeManager } from "./player/dodge.js";
+import { PlayerProtectionManager } from "./player/protection.js";
+import { TeleportScrollModule } from "./ui/teleportScroll.js";
+import { CollectablesModule } from "./collectables.js";
+import { TreeSling } from "./player/treeSling.js";
+import { GameManager } from "./game/GameManager.js";
+import { GameStartScrollManager } from "./ui/gameStartScroll.js";
+import { ClaimableManager } from "./util/claimable.js";
+import { createJip } from "./joinInProgress.js";
+import { MapStart } from "./mapStart.js";
+import { MapManager } from "./map/mapManager.js";
+async function main() {
+    this.bindAndRegister(new SequenceManager(this));
+    this.bindAndRegister(new TitleManagerV2(this));
+    this.bind(new ClaimableManager());
+    this.bindAndRegister(new MapManager(this));
+    this.bindAndRegister(new GameManager(this));
+    this.bindAndRegister(createJip(this));
+    this.bindAndRegister(new TreeSling(this));
+    this.bindAndRegister(new PlayerDoubleJumpManager(this));
+    this.bindAndRegister(new PlayerDodgeManager(this));
+    this.bindAndRegister(new PlayerProtectionManager(this));
+    this.register(new MapStart(this));
+    this.register(new TeleportScrollModule(this));
+    this.register(new GameStartScrollManager(this));
+    this.register(new CollectablesModule(this));
+}
+Entrypoint.launch(main);

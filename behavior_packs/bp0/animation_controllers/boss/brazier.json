@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.brazier_light":{"states":{"default":{"transitions":[{"add_light":"q.property('noxcrew:light')"}]},"add_light":{"transitions":[{"default":"!q.property('noxcrew:light')"}],"on_entry":["/setblock ~ ~ ~ light_block[\"block_light_level\"=15]"],"on_exit":["/fill ~ ~ ~ ~ ~ ~ air replace light_block"]}}}}}

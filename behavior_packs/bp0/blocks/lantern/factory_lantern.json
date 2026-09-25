@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:block":{"description":{"identifier":"noxcrew.kp:factory_lantern","menu_category":{"category":"construction"}},"components":{"minecraft:material_instances":{"*":{"render_method":"alpha_test","ambient_occlusion":true,"face_dimming":true,"texture":"factory_lantern"}},"minecraft:geometry":"geometry.factory_lantern"}}}

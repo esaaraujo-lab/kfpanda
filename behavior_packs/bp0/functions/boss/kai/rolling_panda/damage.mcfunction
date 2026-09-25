@@ -1,0 +1,1 @@
+damage @e[family=jombie,r=3] 5 contact entity @s

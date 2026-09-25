@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"noxcrew.kp:chopped_pak_choi","textures":{"default":"textures/entity/attachable/pak_choi_chopped"},"geometry":{"default":"geometry.n.kp.pak_choi_chopped"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"render_controllers":["controller.render.base_alpha"]}}}

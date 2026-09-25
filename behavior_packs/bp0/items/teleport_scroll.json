@@ -1,0 +1,1 @@
+{"format_version":"1.20.50","minecraft:item":{"description":{"identifier":"noxcrew.kp:teleport_scroll_att","category":"equipment"},"components":{"minecraft:icon":{"texture":"kp.teleport_scroll"},"minecraft:max_stack_size":1}}}

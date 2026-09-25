@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:kai_skybox","textures":{"default":"textures/entity/N/boss/kai/kai_skybox"},"geometry":{"default":"geometry.n.kp.kai_skybox"},"materials":{"default":"noxcrew_alpha"},"scripts":{"scale":"50"},"render_controllers":["controller.render.custom_player.skybox"]}}}

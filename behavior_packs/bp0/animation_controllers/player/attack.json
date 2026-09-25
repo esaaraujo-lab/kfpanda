@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.player_attack":{"states":{"default":{"transitions":[{"attack":"variable.attack_time > 0"}]},"attack":{"transitions":[{"default":"!(variable.attack_time > 0)"}],"on_entry":["@s noxcrew:cycle.attack"]}}}}}

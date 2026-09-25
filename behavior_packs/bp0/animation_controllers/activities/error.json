@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.player_cooking_error":{"states":{"default":{"transitions":[{"error":"q.property('noxcrew:cooking_error')"}]},"error":{"transitions":[{"default":"!q.property('noxcrew:cooking_error')"}],"animations":["cooking_error_reset"],"on_entry":["/scriptevent noxcrew.kp:cooking_error"]}}}}}

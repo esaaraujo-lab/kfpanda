@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:dragon_panda","textures":{"default":"textures/entity/N/boss/kai/dragon_panda"},"geometry":{"default":"geometry.n.kp.dragon_panda"},"materials":{"default":"noxcrew_base"},"render_controllers":["controller.render.base"]}}}

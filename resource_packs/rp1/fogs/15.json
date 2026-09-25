@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"noxcrew.kp:fog_fifteen"},"distance":{"air":{"fog_start":40,"fog_end":230,"fog_color":"#bbe3e9","render_distance_type":"fixed"}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12.0","minecraft:geometry":[{"description":{"identifier":"geometry.kp.gongmen_shutter_center","texture_width":64,"texture_height":64,"visible_bounds_width":3,"visible_bounds_height":3.5,"visible_bounds_offset":[0,1.25,0]},"bones":[{"name":"root","pivot":[-19,-1.5,2],"cubes":[{"origin":[-8,0,6],"size":[16,16,2],"uv":[16,18]}]}]}]}

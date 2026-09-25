@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:restaurant_exit","materials":{"default":"noxcrew_alpha"},"geometry":{"default":"geometry.n.kp.invisible"},"textures":{"default":"textures/entity/invisible"},"render_controllers":["controller.render.base"]}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12.0","minecraft:geometry":[{"description":{"identifier":"geometry.kp.gongmen_painting_row1_b","texture_width":256,"texture_height":256,"visible_bounds_width":3,"visible_bounds_height":5,"visible_bounds_offset":[0,0.5,0]},"bones":[{"name":"row1_b","pivot":[0,-32,0],"cubes":[{"origin":[-8,0,-2],"size":[16,12,5],"uv":[42,58]}]}]}]}

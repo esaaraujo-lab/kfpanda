@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.roll_panda.ctrl":{"initial_state":"default","states":{"default":{"transitions":[{"spawn":"v.spawned == 0"},{"roll":"v.spawned == 1"}]},"spawn":{"animations":["spawn"],"transitions":[{"roll":"q.any_animation_finished"}]},"roll":{"animations":["roll"]}}}}}

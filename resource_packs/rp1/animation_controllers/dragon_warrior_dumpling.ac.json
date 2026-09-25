@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.dwd.ctrl":{"initial_state":"default","states":{"default":{"animations":["spinbob"],"transitions":[{"collect":"q.property('noxcrew:collected')"}]},"collect":{"animations":["collect"],"transitions":[{"default":"!q.property('noxcrew:collected')"}]}}}}}

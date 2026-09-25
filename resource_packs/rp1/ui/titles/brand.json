@@ -1,0 +1,251 @@
+{
+	"namespace": "nox_brand",
+	"factory": {
+		"type": "panel",
+		"factory": {
+			"name": "hud_title_text_factory",
+			"control_ids": {
+				"hud_title_text": "map@nox_brand.root_panel"
+			}
+		}
+	},
+	"root_panel": {
+		"type": "panel",
+		"$is_visible|default": false,
+		"$brand|default": "invisible",
+		"visible": "$is_visible",
+		"variables": [
+			{
+				"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+				"$is_visible": true
+			}
+		],
+		"controls": [
+			{
+				"background@background_panel": {}
+			},
+			{
+				"logo@logo_panel": {}
+			}
+		]
+	},
+	"safe_background": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/letterbox/black",
+		"keep_ratio": false,
+		"size": ["300%", "300%"],
+		"layer": 1000000
+	},
+	"background": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/letterbox/black",
+		"fill": true,
+		"layer": 1100000
+	},
+	"logo_image": {
+		"type": "image",
+		"texture": "('textures/ui/noxcrew/brand/' + $brand)",
+		"size": ["50%", "50%"],
+		"layer": 1111000
+	},
+	"logo_panel": {
+		"type": "panel",
+		"anchor_from": "center",
+		"anchor_to": "center",
+		"controls": [
+			{
+				"logos@logo_image": {
+					"alpha": 0,
+					"$anim|default": "nox_brand.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+							"$brand": "dwa",
+							"$anim": "nox_brand.anim_dwa"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"nox@logo_image": {
+					"alpha": 0,
+					"$anim|default": "nox_brand.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+							"$brand": "nox",
+							"$anim": "nox_brand.anim_nox"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"kfp@logo_image": {
+					"alpha": 0,
+					"$anim|default": "nox_brand.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+							"$brand": "kfp",
+							"$anim": "nox_brand.anim_kfp"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	"background_panel": {
+		"type": "panel",
+		"anchor_from": "center",
+		"anchor_to": "center",
+		"controls": [
+			{
+				"safe_back@safe_background": {
+					"alpha": 0,
+					"$anim|default": "nox_map.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+							"$anim": "nox_brand.anim_background_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"black@background": {
+					"alpha": 0,
+					"$anim|default": "nox_brand.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:brand' = $title_text)))",
+							"$anim": "nox_brand.anim_background_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	// anims
+	"anim_none": {
+		"anim_type": "wait",
+		"duration": 0
+	},
+	// Background
+	"anim_background_in": {
+		"anim_type": "wait",
+		"duration": 0,
+		"next": "@nox_brand.anim_background_fade"
+	},
+	"anim_background_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_brand.anim_background_wait"
+	},
+	"anim_background_wait": {
+		"anim_type": "wait",
+		"duration": 17,
+		"next": "@nox_brand.anim_background_out"
+	},
+	"anim_background_out": {
+		"anim_type": "alpha",
+		"from": 1,
+		"to": 0,
+		"duration": 1.5
+	},
+	// icon
+	"anim_dwa": {
+		"anim_type": "wait",
+		"duration": 1.5,
+		"next": "@nox_brand.anim_dwa_in"
+	},
+	"anim_dwa_in": {
+		"anim_type": "alpha",
+		"easing": "in_cubic",
+		"from": 0,
+		"to": 1,
+		"duration": 1,
+		"next": "@nox_brand.anim_dwa_wait"
+	},
+	"anim_dwa_wait": {
+		"anim_type": "wait",
+		"duration": 3,
+		"next": "@nox_brand.anim_dwa_out"
+	},
+	"anim_dwa_out": {
+		"anim_type": "alpha",
+		"easing": "out_cubic",
+		"from": 1,
+		"to": 0,
+		"duration": 1
+	},
+	"anim_nox": {
+		"anim_type": "wait",
+		"duration": 8,
+		"next": "@nox_brand.anim_nox_in"
+	},
+	"anim_nox_in": {
+		"anim_type": "alpha",
+		"easing": "in_cubic",
+		"from": 0,
+		"to": 1,
+		"duration": 1,
+		"next": "@nox_brand.anim_nox_wait"
+	},
+	"anim_nox_wait": {
+		"anim_type": "wait",
+		"duration": 3,
+		"next": "@nox_brand.anim_nox_out"
+	},
+	"anim_nox_out": {
+		"anim_type": "alpha",
+		"easing": "out_cubic",
+		"from": 1,
+		"to": 0,
+		"duration": 1
+	},
+	"anim_kfp": {
+		"anim_type": "wait",
+		"duration": 13,
+		"next": "@nox_brand.anim_kfp_in"
+	},
+	"anim_kfp_in": {
+		"anim_type": "alpha",
+		"easing": "in_cubic",
+		"from": 0,
+		"to": 1,
+		"duration": 1,
+		"next": "@nox_brand.anim_kfp_wait"
+	},
+	"anim_kfp_wait": {
+		"anim_type": "wait",
+		"duration": 3,
+		"next": "@nox_brand.anim_kfp_move"
+	},
+	"anim_kfp_move": {
+		"anim_type": "offset",
+		"easing": "out_sine",
+		"from": [0, "0%"],
+		"to": [0, "-30%"],
+		"duration": 1.5,
+		"next": "@nox_brand.anim_kfp_wait_two"
+	},
+	"anim_kfp_wait_two": {
+		"anim_type": "wait",
+		"duration": 2,
+		"next": "@nox_brand.anim_kfp_out"
+	},
+	"anim_kfp_out": {
+		"anim_type": "alpha",
+		"easing": "out_cubic",
+		"from": 1,
+		"to": 0,
+		"duration": 1
+	}
+}

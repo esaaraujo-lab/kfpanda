@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hub_door_open":{"loop":true,"animation_length":2.5,"timeline":{"0.0":["/clone ~ ~ ~ ~3 ~2 ~ ~ ~1 ~ masked move","/playsound start_door @a ~2 ~1 ~ 1 1 0"],"0.5":["/clone ~ ~ ~ ~3 ~2 ~ ~ ~1 ~ masked move"],"1.0":["/clone ~ ~ ~ ~3 ~2 ~ ~ ~1 ~ masked move"],"1.5":["@s noxcrew:despawn"]}}}}

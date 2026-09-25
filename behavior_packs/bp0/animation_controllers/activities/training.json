@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.training_dummy_hit":{"states":{"default":{"transitions":[{"hit":"q.property('noxcrew:hit')"}]},"hit":{"on_entry":["/scriptevent noxcrew.kp:dummy_hit"]}}}}}

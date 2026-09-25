@@ -1,0 +1,1 @@
+{"format_version":"1.19.50","minecraft:camera_preset":{"identifier":"noxcrew_kp:cutscene_area_village_start","inherit_from":"minecraft:free","listener":"player","pos_x":4037,"pos_y":133,"pos_z":126,"rot_x":8,"rot_y":-35}}

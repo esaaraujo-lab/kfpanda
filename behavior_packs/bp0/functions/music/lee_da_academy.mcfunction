@@ -1,0 +1,1 @@
+music play music_area_academy

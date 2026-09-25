@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:statue_hippo","textures":{"default":"textures/entity/N/props/statue_hippo"},"geometry":{"default":"geometry.n.kp.statue_hippo"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"render_controllers":["controller.render.base_alpha"]}}}

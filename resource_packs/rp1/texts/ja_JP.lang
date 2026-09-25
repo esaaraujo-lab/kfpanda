@@ -1,0 +1,1233 @@
+﻿pack.name=『カンフー・パンダ』RP	###
+pack.description=作者 : ノックスクルー	###
+##INTERACT TEXTS
+
+action.interact.interact=インタラクト	###
+action.interact.take=取る	###
+action.interact.boil=茹でる	###
+action.interact.steam=スチーム	###
+action.interact.chop=切る	###
+action.interact.combine=結合	###
+action.interact.serve=提供する	###
+action.interact.trash=ゴミ	###
+action.interact.place=置く	###
+action.interact.return=リターン	###
+action.interact.press=押す	###
+##ACTION HINTS
+
+action.hint.exit.noxcrew.kp:firework_cart=:_input_key.sneak: をタップして出る	###
+action.hint.exit.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+action.hint.exit.noxcrew.kp:temp_dragondance_suit=オオカミを追い詰めろ!	###
+action.hint.exit.scheme.noxcrew.kp:firework_cart=:_input_key.sneak: をタップして出る	###
+action.hint.exit.scheme.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+action.hint.exit.console.noxcrew.kp:firework_cart=:_input_key.sneak: を押して終了	###
+action.hint.exit.console.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##ITEMS
+
+item.noxcrew.kp:wok.name=投げられる中華鍋	###
+item.noxcrew.kp:axe.name=投げられる斧	###
+item.noxcrew.kp:wolf_weapon.name=投げられる剣	###
+item.noxcrew.kp:fireworks.name=爆竹	###
+item.noxcrew.kp:dragon_spirit.name=ドラゴン ウォリアーの魂	###
+item.noxcrew.kp:noodle_bowl.name=どんぶり鉢	###
+item.noxcrew.kp:noodle_bowl_daikon.name=大根入りの麺	###
+item.noxcrew.kp:noodle_bowl_pak_choi.name=パク・チョイ入りの麺	###
+item.noxcrew.kp:daikon.name=大根	###
+item.noxcrew.kp:chopped_daikon.name=刻んだ大根	###
+item.noxcrew.kp:pak_choi.name=パク・チョイ	###
+item.noxcrew.kp:chopped_pak_choi.name=刻んだパク・チョイ	###
+item.noxcrew.kp:dumpling_bowl.name=餃子の丼ぶり	###
+item.noxcrew.kp:dumpling_bowl_bamboo.name=竹入りの餃子の丼ぶり	###
+item.noxcrew.kp:dumpling_bowl_radish.name=大根入りの餃子の丼ぶり	###
+item.noxcrew.kp:red_radish.name=紅大根	###
+item.noxcrew.kp:chopped_red_radish.name=刻んだ紅大根	###
+item.noxcrew.kp:bamboo_shoots.name=タケノコ	###
+item.noxcrew.kp:chopped_bamboo_shoots.name=刻んだタケノコ	###
+item.noxcrew.kp:teleport_scroll_att.name=旅の巻物	###
+item.noxcrew.kp:rubble_throwable.name=ガレキ	###
+##Attachments
+
+item.noxcrew.kp:wok=投げられる中華鍋	###
+item.noxcrew.kp:axe=投げられる斧	###
+item.noxcrew.kp:wolf_weapon=投げられる剣	###
+item.noxcrew.kp:fireworks=爆竹	###
+item.noxcrew.kp:dragon_spirit=ドラゴン ウォリアーの魂	###
+item.noxcrew.kp:noodle_bowl=どんぶり鉢	###
+item.noxcrew.kp:noodle_bowl_daikon=大根入りの麺	###
+item.noxcrew.kp:noodle_bowl_pak_choi=パク・チョイ入りの麺	###
+item.noxcrew.kp:daikon=大根	###
+item.noxcrew.kp:chopped_daikon=刻んだ大根	###
+item.noxcrew.kp:pak_choi=パク・チョイ	###
+item.noxcrew.kp:chopped_pak_choi=刻んだパク・チョイ	###
+item.noxcrew.kp:dumpling_bowl=餃子の丼ぶり	###
+item.noxcrew.kp:dumpling_bowl_bamboo=竹入りの餃子の丼ぶり	###
+item.noxcrew.kp:dumpling_bowl_radish=大根入りの餃子の丼ぶり	###
+item.noxcrew.kp:red_radish=紅大根	###
+item.noxcrew.kp:chopped_red_radish=刻んだ紅大根	###
+item.noxcrew.kp:bamboo_shoots=タケノコ	###
+item.noxcrew.kp:chopped_bamboo_shoots=刻んだタケノコ	###
+item.noxcrew.kp:teleport_scroll_att=旅の巻物	###
+item.noxcrew.kp:rubble_throwable=ガレキ	###
+##ENTITIES
+
+entity.noxcrew.kp:start_button.name=ゲーム開始	###
+entity.noxcrew.kp:po.name=マスター・ポー	###
+entity.noxcrew.kp:mr_ping.name=ピンさん	###
+entity.noxcrew.kp:master_oogway.name=マスター・ウーグウェイ	###
+entity.noxcrew.kp:master_shifu.name=マスター・シーフー	###
+entity.noxcrew.kp:tigress.name=タイガー	###
+entity.noxcrew.kp:monkey.name=サル	###
+entity.noxcrew.kp:mantis.name=カマキリ	###
+entity.noxcrew.kp:crane.name=Crane	###
+entity.noxcrew.kp:viper.name=バイパー	###
+entity.noxcrew.kp:tai_lung.name=タイ・ラン	###
+entity.noxcrew.kp:chameleon.name=カメレオン	###
+entity.noxcrew.kp:chameleon_po.name=カメレオン	###
+entity.noxcrew.kp:chameleon_tai.name=カメレオン	###
+entity.noxcrew.kp:chameleon_kai.name=カメレオン	###
+entity.noxcrew.kp:chameleon_shen.name=カメレオン	###
+entity.noxcrew.kp:chameleon_dragon.name=カメレオン	###
+entity.noxcrew.kp:chameleon_dragon_shadow.name=カメレオン	###
+entity.noxcrew.kp:lord_shen.name=シェン大老	###
+entity.noxcrew.kp:boss_wolf.name=ボス オオカミ	###
+entity.noxcrew.kp:soothsayer.name=占い師	###
+entity.noxcrew.kp:master_ox.name=マスター・ウシ	###
+entity.noxcrew.kp:master_croc.name=マスター・ワニ	###
+entity.noxcrew.kp:warrior_wolf.name=オオカミのウォリアー	###
+entity.noxcrew.kp:li_shan.name=リー・シェン	###
+entity.noxcrew.kp:big_fun.name=ビッグ・ファン	###
+entity.noxcrew.kp:grandma_panda.name=グランマ・パンダ	###
+entity.noxcrew.kp:mei_mei.name=メイメイ	###
+entity.noxcrew.kp:dim.name=暗い	###
+entity.noxcrew.kp:sum.name=サム	###
+entity.noxcrew.kp:lei_lei.name=レイレイ	###
+entity.noxcrew.kp:bao.name=バオ	###
+entity.noxcrew.kp:general_kai.name=コレクターのカイ	###
+entity.noxcrew.kp:pig.name=ブタ	###
+entity.noxcrew.kp:geese.name=ガチョウ	###
+entity.noxcrew.kp:rabbit.name=ウサギ	###
+entity.noxcrew.kp:gazelle.name=ガゼル	###
+entity.noxcrew.kp:palace_guard.name=近衛兵	###
+entity.noxcrew.kp:panda.name=パンダ	###
+entity.noxcrew.kp:academy_student.name=アカデミー生徒	###
+entity.noxcrew.kp:academy_instructor.name=アカデミー講師	###
+entity.noxcrew.eg:training_boxing.name=訓練用のボクシング バッグ	###
+entity.noxcrew.eg:training_arrow.name=トレーニング目標	###
+entity.noxcrew.eg:training_wood.name=訓練用の木	###
+entity.noxcrew.eg:training_rack.name=トレーニング ラック	###
+entity.noxcrew.eg:training_bamboo.name=訓練用の竹	###
+entity.noxcrew.kp:jombie_badger.name=ジョンビー マスターの Badger ツインズ	###
+entity.noxcrew.kp:jombie_porcupine.name=ジョンビー マスターのヤマアラシ	###
+entity.noxcrew.kp:jombie_porcupine<>.name=ジョンビー マスターのヤマアラシ	###
+entity.noxcrew.kp:jombie_gorilla.name=ジョンビー マスターのゴリラ	###
+entity.noxcrew.kp:jombie_boar.name=ジョンビー マスターのイノシシ	###
+entity.noxcrew.kp:jombie_bear.name=ジョンビー マスターのクマ	###
+entity.noxcrew.kp:jombie_chicken.name=ジョンビー マスターのニワトリ	###
+entity.noxcrew.kp:jombie_croc.name=ジョンビー マスターのワニ	###
+entity.noxcrew.kp:brazier.name=かがり火	###
+entity.noxcrew.kp:flying_glaives.name=グレイブ	###
+entity.noxcrew.kp:tai_rock.name=ロック	###
+entity.noxcrew.kp:wok_pile.name=中華鍋の山	###
+entity.noxcrew.kp:firework_cart.name=花火のカート	###
+entity.noxcrew.kp:shen_boat.name=シェン大老のボート	###
+entity.noxcrew.kp:axe_pile.name=斧の山	###
+entity.noxcrew.kp:canal_boats.name=運河のボート	###
+entity.noxcrew.kp:furious_boat.name=荒れ狂う 5 つの刑務所ボート	###
+entity.noxcrew.kp:cannons.name=大砲	###
+entity.noxcrew.kp:cannon_balls.name=砲弾	###
+entity.noxcrew.kp:sword_rack.name=剣の棚	###
+entity.noxcrew.kp:feather_dagger.name=羽根のダガー	###
+entity.noxcrew.kp:shen_cannon.name=シェンの大砲	###
+entity.noxcrew.kp:tnt_stockpile.name=TNT 火薬備蓄	###
+entity.noxcrew.kp:roll_panda.name=春巻き部隊	###
+entity.noxcrew.kp:firework_panda.name=爆竹パンダ	###
+entity.noxcrew.kp:dragon_panda.name=ドラゴン ウォリアーの魂	###
+entity.noxcrew.kp:firework_crate.name=爆竹クレート	###
+entity.noxcrew.kp:dragon_warrior_spirit.name=ドラゴン ウォリアーの気	###
+entity.noxcrew.kp:fiery_cage.name=炎の翡翠の檻	###
+entity.noxcrew.kp:fiery_cage<>.name=炎の翡翠の檻	###
+entity.noxcrew.kp:dragon_fireball.name=カメレオンの気の炎	###
+entity.noxcrew.kp:dragon_fireball<>.name=カメレオンの気の炎	###
+entity.noxcrew.kp:chameleon_rubble_shadow.name=落石の影	###
+entity.noxcrew.kp:chameleon_rubble.name=落下する瓦礫	###
+entity.noxcrew.kp:chameleon_rubble<>.name=落下する瓦礫	###
+entity.noxcrew.kp:target_dummies.name=ターゲット ダミー	###
+entity.noxcrew.kp:swinging_trap.name=すぐに忘れ去られるスウィンギング・クラブ	###
+entity.noxcrew.kp:arrow_trap.name=千羽のガチョウの矢	###
+entity.noxcrew.kp:arrow_trap<>.name=千羽のガチョウの矢	###
+entity.noxcrew.kp:arrow_trap_projectile.name=千羽のガチョウの矢	###
+entity.noxcrew.kp:rotating_trap.name=木のウォリアーのガントレット	###
+entity.noxcrew.kp:fire_trap.name=灼熱の死のフィールド	###
+entity.noxcrew.kp:gongmen_brazier.name=火鉢	###
+entity.noxcrew.kp:customers.name=お客	###
+entity.noxcrew.kp:boiling_station.name=ボイリング ステーション	###
+entity.noxcrew.kp:steaming_station.name=蒸し場	###
+entity.noxcrew.kp:work_station.name=作業場	###
+entity.noxcrew.kp:serving_station.name=給仕作業場	###
+entity.noxcrew.kp:restaurant_seat.name=ダイニング チェア	###
+entity.noxcrew.kp:bin_station.name=ゴミ箱	###
+entity.noxcrew.kp:daikon_crate.name=大根クレート	###
+entity.noxcrew.kp:pakchoi_sack.name=パク・チョイの袋	###
+entity.noxcrew.kp:redradish_crate.name=紅大根クレート	###
+entity.noxcrew.kp:bamboo_sack.name=タケノコの袋	###
+entity.noxcrew.kp:dragondance_suit.name=ドラゴン ダンス スーツ	###
+entity.noxcrew.kp:sheep.name=ヒツジ	###
+entity.noxcrew.kp:wolf_munchable.name=オオカミのウォリアー	###
+entity.noxcrew.kp:wolf_collector.name=オオカミのコレクター	###
+entity.noxcrew.kp:arrow_volley.name=矢の一斉放射	###
+entity.noxcrew.kp:arrow_flare.name=矢の一斉放射	###
+entity.noxcrew.kp:tree_sling.name=ツリー スリング	###
+entity.noxcrew.kp:dragon_warrior_dumpling.name=ドラゴン ウォリアー 餃子	###
+entity.noxcrew.kp:komodo_warrior.name=コモドのウォリアー	###
+entity.noxcrew.kp:komodo_warrior<>.name=コモドのウォリアー	###
+entity.noxcrew.kp:komodo_spear.name=コモドの槍	###
+entity.noxcrew.kp:komodo_spear_ground.name=コモドの槍	###
+entity.noxcrew.kp:game_scroll.name=ゲーム スクロール	###
+entity.noxcrew.kp:teleport_scroll.name=旅の巻物	###
+entity.noxcrew.kp:outfit_change.name=服装変更画面	###
+entity.noxcrew.kp:outfit_screen.name=服装を着替えましょう!	###
+entity.noxcrew.kp:flag_academy.name=リー・ダ功夫養成所の旗	###
+entity.noxcrew.kp:flag_ttos.name=聖なる炎の旗のタワー	###
+entity.noxcrew.kp:collect_sacred_hammer.name=聖なるウォーハンマー	###
+entity.noxcrew.kp:collect_sacred_dragon_scroll.name=ドラゴンの巻物	###
+entity.noxcrew.kp:collect_battle_helmets.name=マスター・ネズミのバトル ヘルメット	###
+entity.noxcrew.kp:collect_crossbow.name=マスター・ヒツジの石弓	###
+entity.noxcrew.kp:collect_dolphin_armor.name=マスター・イルカの防水鎧	###
+entity.noxcrew.kp:collect_rhino_armor.name=空飛ぶマスター・サイの鎧	###
+entity.noxcrew.kp:collect_SoH.name=英雄の剣	###
+entity.noxcrew.kp:collect_golden_spear.name=黄金の槍	###
+entity.noxcrew.kp:collect_rickshaw.name=タカ皇帝の戦場用人力車	###
+entity.noxcrew.kp:collect_ring_blades.name=風火輪	###
+entity.noxcrew.kp:collect_tea_set.name=マスター・ガゼルのティーセット	###
+entity.noxcrew.kp:collect_trident.name=運命の透明三つ又ヤリ	###
+entity.noxcrew.kp:collect_egg.name=とげ付きのタマゴ	###
+entity.noxcrew.kp:collect_fan.name=レディ・ウインド・ソンの扇子	###
+entity.noxcrew.kp:collect_iron_fist.name=正義の鉄拳	###
+entity.noxcrew.kp:collect_shield.name=黄金の盾	###
+entity.noxcrew.kp:collect_urn.name=ささやく戦士のツボ	###
+entity.noxcrew.kp:collect_dagger.name=デン・ワの短剣	###
+entity.noxcrew.kp:collect_ninja_weapons.name=マスター・イヌの忍者武器	###
+entity.noxcrew.kp:collect_ostrich.name=マスター・ダチョウの卵	###
+entity.noxcrew.kp:collect_pangolin.name=マスター・センザンコウの鎖ハンマー	###
+entity.noxcrew.kp:collect_.name=マスター・シマリスのウォーハンマー	###
+##MESSAGES
+
+txt.announce.1=『カンフー・パンダ』	###
+txt.announce.2=作者: §cNoxcrew	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Titles
+
+txt.title.jade_palace=翡翠宮	###
+txt.title.valley_of_peace=平和の谷	###
+txt.title.gongmen_city=ゴンメン市	###
+txt.title.panda_village=パンダ村	###
+txt.title.harbor=ジュニパー・シティ	###
+txt.title.spirit_realm=魂の王国	###
+txt.title.academy=リー・ダ功夫アカデミー	###
+txt.title.tai_lung=タイ•ラン	###
+txt.title.lord_shen=シェン大老	###
+txt.title.general_kai=蒐集家カイ	###
+txt.title.chameleon=カメレオン	###
+txt.title.teleport_scroll=トラベルスクロール	###
+##Reserved
+
+txt.res.msg0=§6----------------	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg1=[§6§l!§r]: §4警告!§r ゲームモード スワップが検出されました。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg2=[§6§l!§r]: §2このマップはアドベンチャー モード用です。機能によっては正常に動作しない場合があります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg3=[§6§l!§r]: §6アドベンチャー モードに戻りました。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg4=[§6§l!§r] : §6 クリエイティブ モードに入りました。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg5=[§6§l!§r] §4プレイ可能なエリアから離れています! 引き返して!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg6=[§6§l!§r]: §6あなたはプレイ可能エリアに戻されました。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Game State
+
+txt.gs.msg1=[§6§l!§r]: §6半分の時間が経過しました! オオカミを倒すために残されている時間は 2 分 30 秒です。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg2=[§6§l!§r]: §6残り 30 秒!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg3=次のウェーブ: %s - 残りメタル: %s	### **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.gs.msg4=[§6§l!§r]: §6リーダーがアクションを選択するのを待っています...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg5=[§6§l!§r]: §6アカデミー講師に話しかける	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg6=[§6§l!§r]: §6出発の準備ができたら、旅の巻物を使用してください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg7=[§6 §l!§r]: §a ベスト スコア!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.peace=[§6§l!§r]: §e平和の谷のアーティファクトをすべて集めました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.gongmen=[§6§l!§r]: §eゴンメン市のアーティファクトをすべて集めました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.panda=[§6§l!§r]: §eパンダ村のアーティファクトをすべて集めました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.harbor=[§6§l!§r]: §eジュニパー・シティのアーティファクトをすべて集めました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.palace=[§6§l!§r]: §e翡翠宮のアーティファクトをすべて集めました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.all=[§6§l!§r]: §eアーティファクトをすべて集めて返却しました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Error Messages
+
+txt.error.msg1=[§6§l!§r]: §6麺はまだ茹でられていません。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg2=[§6§l!§r]: §6餃子はまだ蒸しています。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg3=[§6§l!§r]: §6これらの野菜は、麺に加える前にみじん切りにする必要があります	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg4=[§6§l!§r]: §6これらの野菜は餃子に加える前にみじん切りにする必要があります!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg5=[§6§l!§r]: §6§oここには配置できません。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg6=[§6§l!§r]: §6§o今は使えない。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+##Collectables (Printed in chat)
+
+txt.co.sacred_hammer=§a聖なるウォーハンマーを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.sacred_dragon_scroll=§aドラゴンの巻物を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.battle_helmets=§aマスター・ネズミのバトル ヘルメットを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.crossbow=§aマスター・ヒツジの石弓を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.dolphin_armor=§aマスター・イルカの防水鎧を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.rhino_armor=§a空飛ぶマスター・サイの鎧を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.soh=§a英雄の剣を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.golden_spear=§a黄金の槍を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.rickshaw=§aタカ皇帝の戦場用人力車を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ring_blades=§aリング ブレードを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.tea_set=§aマスター・ガゼルのティー セットを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.trident=§a運命の透明三つ又ヤリを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.egg=§aトゲトゲのタマゴを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.fan=§aレディ・ウインド・ソンの扇子を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.iron_fist=§a正義の鉄拳を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.shield=§a黄金の盾を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.urn=§aささやく戦士のツボを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.dagger=§aデン・ワの短剣を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ninja_weapons=§aマスター・イヌの忍者武器を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ostrich=§aマスター・ダチョウの卵を収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.pangolin=§aマスター・センザンコウの鎖ハンマーを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.warhammer=§aマスター・シマリスのウォーハンマーを収集した!§r §o翡翠宮のウォリアーの殿堂で見てみよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Collectables (Printed in the Actionbar)
+
+txt.co_ab.sacred_hammer=§6聖なるウォーハンマーを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.sacred_dragon_scroll=§6ドラゴンの巻物を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.battle_helmets=§6マスター・ネズミのバトル ヘルメットを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.crossbow=§6マスター・ヒツジの石弓を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.dolphin_armor=§6マスター・イルカの防水鎧を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.rhino_armor=§6空飛ぶマスター・サイの鎧を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.soh=§6英雄の剣を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.golden_spear=§6黄金の槍を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.rickshaw=§6タカ皇帝の戦場用人力車を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ring_blades=§6リング ブレードを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.tea_set=§6マスター・ガゼルのティー セットを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.trident=§6運命の透明三つ又ヤリを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.egg=§6トゲトゲのタマゴを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.fan=§6レディ・ウインド・ソンの扇子を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.iron_fist=§6正義の鉄拳を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.shield=§6黄金の盾を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.urn=§6ささやく戦士のツボを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.dagger=§6デン・ワの短剣を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ninja_weapons=§6マスター・イヌの忍者武器を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ostrich=§6マスター・ダチョウの卵を収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.pangolin=§6マスター・センザンコウの鎖ハンマーを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.warhammer=§6マスター・シマリスのウォーハンマーを収集した!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Tutorial
+
+txt.tut.msg0=[§6§l!§r]: §6アカデミー講師に話しかけよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg1=[§6§l!§r]: 翡翠宮へようこそ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg2=[§6§l!§r]: 私たちの偉大なスピリチュアルリーダー、ポーに率いられています!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg3=[§6§l!§r]: アクティビティでカンフーの方法を学ぶ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg4=[§6§l!§r]: 学生兵舎でファッションスタイルを変えよう	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg5=[§6§l!§r]: 英雄たちの殿堂の行方不明のアーティファクトを回収する	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg6=[§6§l!§r]: トラベルスクロールを使って手軽に移動しよう	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg7=[§6§l!§r]: カンフーパンダの世界を解き明かそう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Boss Fights
+
+##Tai Lung
+
+txt.boss_tai.ab1=[§6§l!§r]: §6タイ・ランを宮殿から追い出せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.ab2=[§6§l!§r]: §6タイ・ランを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.context1=[§6§l!§r]: タイ・ランは龍の巻物を求めて翡翠城寺院の神聖さを冒涜した。彼をとめて下さい！	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.context2=[§6§l!§r]: タイ・ランを倒し、龍の戦士とは何たるかを見せつけましょう。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tai_lung.end=タイ・ラン討伐!	###
+##Shen
+
+txt.boss_shen.ab1=[§6§l!§r]: §6斧を投げて、フューリアス・ファイブを解放せよ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.ab2=[§6§l!§r]: §6ボートを破壊せよ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.ab3=[§6§l!§r]: §6シェン大老を倒す	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context1=[§6§l!§r]: シェン大老がフューリアス・ファイブを捕らえ、砲艦艦隊を編成した! 5人を解放し、艦隊を止めろ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context2=[§6§l!§r]: ファイブは自由になったが、砲艦艦隊が残っている。侵略を開始する前に、艦隊を破壊しろ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context3=[§6§l!§r]: 残りはシェン大老のみ... 彼を倒すんだ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.fail=シェン大老の艦隊を止められなかった…	###
+txt.lord_shen.end=シェン大老を倒しました!	###
+txt.boss_shen.warning1=[§6§l!§r]: §6彼らのボートに斧を投げつけ、フューリアス・ファイブを解放せよ！	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.boss_shen.warning2=[§6§l!§r]: §6斧を投げてボートを破壊してください。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+##Kai
+
+txt.boss_kai.ab1=[§6§l!§r]: §6手下のジョンビーたちを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab2=[§6§l!§r]: §6蒐集家カイを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab3=[§6§l!§r]: §a春巻部隊登場!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab4=[§6§l!§r]: §aビッグファン、抱きしめ準備完了!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab5=[§6§l!§r]: §a爆竹班が発射準備完了!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.context1=[§6§l!§r]: あなたの気を盗むため、蒐集家のカイがパンダ村を襲撃した! 手下のジョンビーたちを阻止し、村の壊滅を防げ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.context2=[§6§l!§r]: あなたはカイを魂の王国に叩き込んだ... 二度と逃げられないようにここで倒すんだ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.general_kai.end=コレクターのカイを倒しました!	###
+##Chameleon
+
+txt.boss_cham.ab1=[§6§l!§r]: §6カメレオンのシェイプシフトを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.ab2=[§6§l!§r]: §6カメレオンドラゴンを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.ab3=[§6§l!§r]: §6カメレオン・ポーを倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context1=[§6§l!§r]: カメレオンがあなたの最大の宿敵の気を盗みました! 彼女がさらに強くなる前に彼女を倒してください!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context2=[§6§l!§r]: カメレオンが巨大な怪物に変身した! 瓦礫と岩で倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context3=[§6§l!§r]: カメレオンが... あなたの姿に変身した? 自分を倒せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.chameleon.end=カメレオン討伐!	###
+##Activities
+
+##Parkour
+
+txt.activity_parkour.tut1=§e餃子パルクールへようこそ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut2=[§6§l!§r]: 駆け抜けて、できるだけ多くの餃子を手に入れよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut3=[§6§l!§r]: 制限時間は 2 分 30 秒	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut4=[§6§l!§r]: あの餃子に気をつけろ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier0=[§6§l!§r]: 餃子を集められませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier0_1=[§6§l!§r]: メダル獲得に必要な餃子を集められませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier1=[§6§l!§r]: §e銅メダル餃子コレクター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier2=[§6§l!§r]: §e銀メダル餃子コレクター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier3=[§6§l!§r]: §e金メダル餃子コレクター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.counter=[§6§l!§r]: 餃子: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Cooking Dumplings
+
+txt.activity_dumplings.tut1=§e餃子を調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut2=[§6§l!§r]: 餃子を調理してお客さんに提供しよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut3=[§6§l!§r]:キッチンで餃子を作ることができます!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut4=[§6§l!§r]: 餃子を蒸そう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut5=[§6§l!§r]: 野菜を切ろう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut6=[§6§l!§r]: お客さんが欲しいものを確認...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut7=[§6§l!§r]: サービングステーションで注文を処理します	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut8=[§6§l!§r]: 次に、お客さんに提供します	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut9=[§6§l!§r]: 早く、さもないと怒られてしまいます	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut10=[§6§l!§r]: できるだけ多くのお客さんに提供しよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier0=[§6§l!§r]: 餃子を提供できませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier0_1=[§6§l!§r]: メダル獲得に必要な餃子を提供できませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier1=[§6§l!§r]: §e銅メダル餃子調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier2=[§6§l!§r]: §e銀メダル餃子調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier3=[§6§l!§r]: §e金メダル餃子調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.counter=[§6§l!§r]: 提供済みの顧客: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Cooking Noodle
+
+txt.activity_noodle.tut1=§e麺を調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut2=[§6§l!§r]: 麺を調理してお客さんに提供しよう	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut3=[§6§l!§r]:キッチンで麺を作ることができます	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut4=[§6§l!§r]: 麺を茹でよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut5=[§6§l!§r]: 野菜を切ろう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut6=[§6§l!§r]: お客さんが欲しいものを確認...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut7=[§6§l!§r]: サービングステーションで注文を処理します	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut8=[§6§l!§r]: 次に、お客さんに提供します	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut9=[§6§l!§r]: 早く、さもないと怒られてしまいます	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut10=[§6§l!§r]: できるだけ多くのお客さんに提供しよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier0=[§6§l!§r]: 麺を提供できませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier0_1=[§6§l!§r]: メダル獲得に必要な麺を提供できませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier1=[§6§l!§r]: §e銅メダル麺調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier2=[§6§l!§r]: §e銀メダル麺調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier3=[§6§l!§r]: §e金メダル麺調理!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.counter=[§6§l!§r]: 提供済みの顧客: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##DRAGON_DANCE
+
+txt.activity_dragon_dance.tut1=§eドラゴンむしゃむしゃ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut2=[§6§l!§r]: ゴンメン市の街を駆けめぐり、オオカミを食べましょう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut3=[§6§l!§r]: 制限時間内に、できるだけ多くのオオカミを食べよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut4=[§6§l!§r]: 制限時間は 1 分 30 秒!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut5=[§6§l!§r]: ドラゴンむしゃむしゃスタート!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier0=[§6§l!§r]: オオカミを食べることができませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier0_1=[§6§l!§r]: メダル獲得に必要なオオカミを食べることができませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier1=[§6§l!§r]: §e銅メダル大食いドラゴン!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier2=[§6§l!§r]: §e銀メダル大食いドラゴン!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier3=[§6§l!§r]: §e金メダル大食いドラゴン!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.counter=[§6§l!§r]: むしゃむしゃ食べたオオカミ: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Training
+
+txt.activity_training.tut1=§e達人の修行!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut2=[§6§l!§r]: 訓練用ダミーを殴り、トラップを避けよう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut3=[§6§l!§r]: 時間切れになる前にできるだけ多くのパンチを繰り出せ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut4=[§6§l!§r]:残り時間2分30秒!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut5=[§6§l!§r]: トレーニングを始めましょう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier0=[§6§l!§r]: ダミーを殴ってはいない...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier0_1=[§6§l!§r]: メダルを獲るのに十分な数のダミーを殴らなかった...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier1=[§6§l!§r]: §e銅メダルダミーパンチャー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier2=[§6§l!§r]: §e銀メダルダミーパンチャー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier3=[§6§l!§r]: §e金メダルダミーパンチャー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.counter=[§6§l!§r]: ヒットしたダミーの数: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##WOLF_GONGMEN
+
+txt.activity_wolf_gongmen.tut1=§eオオカミ泥棒を止めろ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut2=[§6§l!§r]: 金属を盗もうとする蒐集家を止めろ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut3=[§6§l!§r]: 金属がすべて盗まれたらゲームオーバーだ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut4=[§6§l!§r]: オオカミのボスが到着するまで蒐集家を倒し続けてください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut5=[§6§l!§r]: 武器を使うのを忘れないで!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut6=[§6§l!§r]: オオカミ泥棒を追い出せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier0=[§6§l!§r]: 金属を一つも救っていません…	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier0_1=[§6§l!§r]: メダルを獲るのに十分な数の金属を救っていません…	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier1=[§6§l!§r]:§e銅メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier2=[§6§l!§r]: §e銀メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier3=[§6§l!§r]: §e金メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.counter=[§6§l!§r]: 残りの金属: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##WOLF_PEACE
+
+txt.activity_wolf_peace.tut1=§eオオカミ泥棒を止めろ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut2=[§6§l!§r]: 金属を盗もうとする蒐集家を止めろ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut3=[§6§l!§r]: 金属がすべて盗まれたらゲームオーバーだ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut4=[§6§l!§r]: オオカミのボスが到着するまで蒐集家を倒し続けてください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut5=[§6§l!§r]: 中華鍋を投げるのを忘れないで!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut6=[§6§l!§r]: オオカミ泥棒を追い出せ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier0=[§6§l!§r]: 金属を一つも救っていません…	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier0_1=[§6§l!§r]: メダルを獲るのに十分な数の金属を救っていません…	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier1=[§6§l!§r]:§e銅メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier2=[§6§l!§r]: §e銀メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier3=[§6§l!§r]: §e金メダルメタルディフェンダー!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.counter=[§6§l!§r]: 残りの金属: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_wolf_boss=[§6§l!§r]: ウルフボスが現れた！	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+##KOMODO
+
+txt.activity_komodo.tut1=§eコモドクラッシュ!	###
+txt.activity_komodo.tut2=[§6§l!§r]: コモドクラッシュを生き延びよう!	###
+txt.activity_komodo.tut3=[§6§l!§r]: たくさんのコモドを倒して、高いスコアを獲得しよう!	###
+txt.activity_komodo.tut4=[§6§l!§r]: 武器を使うのを忘れずに	###
+txt.activity_komodo.tut5=[§6§l!§r]: コモドたちにカンフーをお見舞いしよう!	###
+txt.activity_komodo.complete1=[§6§l!§r]: §f%s §eコモドを §f%s §e倒して §e生き延びました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.complete2=[§6§l!§r]: §f%s §eコモドを倒して、§eその攻撃から生き延びました!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.ab1=コモドス討伐数: %s	### **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.tier0=[§6§l!§r]: コモドを倒すことができませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier0_1=[§6§l!§r]: メダル獲得に必要なコモドを倒すことができませんでした...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier1=[§6§l!§r]: §e銅メダル コモドファイター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier2=[§6§l!§r]: §e銀メダルコモドファイター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier3=[§6§l!§r]: §e金メダルコモドファイター!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.counter=[§6§l!§r]: 倒したコモド: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##BOOKS
+
+txt.bk.thank_you=このマップをプレイしていただきありがとうございます!	###
+##DIALOGUES
+
+##Titles
+
+txt.title.dia.start_button=ゲーム開始	###
+txt.title.dia.collectible_empty_peace=アーティファクトが行方不明です!	###
+txt.title.dia.collectible_empty_gongmen=アーティファクトが行方不明です!	###
+txt.title.dia.collectible_empty_panda=アーティファクトが行方不明です!	###
+txt.title.dia.collectible_empty_harbor=アーティファクトが行方不明です!	###
+txt.title.dia.collectible_empty_palace=アーティファクトが行方不明です!	###
+txt.title.dia.collectible_battle_helmets=マスター・ネズミのバトルヘルメット	###
+txt.title.dia.collectible_crossbow=マスター・ヒツジの石弓	###
+txt.title.dia.collectible_dolphin_armor=マスター・イルカの防水鎧	###
+txt.title.dia.collectible_rhino_armor=空飛ぶマスター・サイの鎧	###
+txt.title.dia.collectible_SoH=英雄の剣	###
+txt.title.dia.collectible_golden_spear=黄金の槍	###
+txt.title.dia.collectible_rickshaw=タカ皇帝の戦場用人力車	###
+txt.title.dia.collectible_ring_blades=風火輪	###
+txt.title.dia.collectible_tea_set=マスター・ガゼルのティーセット	###
+txt.title.dia.collectible_trident=運命の透明三つ又ヤリ	###
+txt.title.dia.collectible_egg=スパイクエッグ	###
+txt.title.dia.collectible_fan=レディ・ウインド・ソンの扇子	###
+txt.title.dia.collectible_iron_fist=正義の鉄拳	###
+txt.title.dia.collectible_shield=黄金の盾	###
+txt.title.dia.collectible_urn=ささやく戦士のツボ	###
+txt.title.dia.collectible_dagger=デン・ワの短剣	###
+txt.title.dia.collectible_ninja_weapons=マスター・イヌの忍者武器	###
+txt.title.dia.collectible_ostrich=マスター・ダチョウの卵	###
+txt.title.dia.collectible_pangolin=マスター・センザンコウの鎖ハンマー	###
+txt.title.dia.collectible_warhammer=マスターシマリスのウォーハンマー	###
+txt.title.dia.collectible_sacred_hammer=聖なるウォーハンマー	###
+txt.title.dia.collectible_sacred_dragon_scroll=龍の巻物	###
+txt.title.dia.area_palace=翡翠宮	###
+txt.title.dia.area_peace=平和の谷	###
+txt.title.dia.area_gongmen=ゴンメン市	###
+txt.title.dia.area_village=パンダ村	###
+txt.title.dia.area_harbor=ジュニパー・シティの港	###
+txt.title.dia.area_castle=ジュニパー・シティ城	###
+txt.title.dia.activity_cooking_dumplings=餃子クッキング!	###
+txt.title.dia.activity_cooking_noodles=麺クッキング!	###
+txt.title.dia.activity_dragon_dance=ドラゴンムシャムシャ!	###
+txt.title.dia.activity_parkour=餃子パルクール！	###
+txt.title.dia.activity_wolf_gongmen=オオカミ泥棒を止めろ!	###
+txt.title.dia.activity_wolf_peace=オオカミ泥棒を止めろ!	###
+txt.title.dia.activity_training=達人の修行	###
+txt.title.dia.activity_komodo=コモドスからの脱出	###
+txt.title.dia.activity_boss_tai=対決: タイ・ラン	###
+txt.title.dia.activity_boss_shen=対決: シェン大老	###
+txt.title.dia.activity_boss_kai=対決: 蒐集家カイ	###
+txt.title.dia.activity_boss_chameleon=対決: カメレオン	###
+txt.title.dia.boss_tai=対決: タイ・ラン	###
+txt.title.dia.boss_shen=対決: シェン大老	###
+txt.title.dia.boss_kai=対決: 蒐集家カイ	###
+txt.title.dia.boss_chameleon=対決: カメレオン	###
+txt.title.dia.character_po=ポー	###
+txt.title.dia.character_tigress=タイガー	###
+txt.title.dia.character_mantis=カマキリ	###
+txt.title.dia.character_viper=バイパー	###
+txt.title.dia.character_monkey=サル	###
+txt.title.dia.character_crane=Crane	###
+txt.title.dia.character_shifu=マスター・シーフ―	###
+txt.title.dia.character_ping=ピンさん	###
+txt.title.dia.character_oogway=マスター・ウーグウェイ	###
+txt.title.dia.character_soothsayer=占い師	###
+txt.title.dia.character_master_ox=マスター・ウシ	###
+txt.title.dia.character_master_croc=マスター・ワニ	###
+txt.title.dia.character_li_shan=リー・シェン	###
+txt.title.dia.character_big_fun=ビッグファン	###
+txt.title.dia.character_grandma_panda=グランマ・パンダ	###
+txt.title.dia.character_mei_mei=メイメイ	###
+txt.title.dia.character_dim=暗い	###
+txt.title.dia.character_sum=サム	###
+txt.title.dia.character_lei_lei=レイレイ	###
+txt.title.dia.character_bao=バオ	###
+txt.title.dia.character_zhen=ジェン	###
+txt.title.dia.character_han=ハン	###
+txt.title.dia.character_triplet_rabbit=バッドバニーズ	###
+txt.title.dia.character_instructor=アカデミー講師	###
+txt.title.dia.character_palace_guard=近衛兵	###
+txt.title.dia.character_student=学生	###
+##Buttons
+
+txt.button.ok=OK	###
+txt.button.yes=はい	###
+txt.button.no=いいえ	###
+txt.button.back=戻る	###
+txt.button.exit=終了	###
+txt.button.close=閉じる	###
+txt.button.random=ランダム	###
+txt.button.choice_1=1 キー	###
+txt.button.choice_2=2.	###
+txt.button.choice_3=3.	###
+txt.button.choice_4=4 キー	###
+txt.button.choice_5=5 キー	###
+txt.button.outfit_1=服装 1	###
+txt.button.outfit_2=服装 2	###
+txt.button.outfit_3=服装 3	###
+txt.button.outfit_4=服装 4	###
+txt.button.outfit_5=服装 5	###
+txt.button.bye=それじゃ	###
+txt.button.how_to=やり方	###
+txt.button.travel=移動	###
+txt.button.kungfu_q=カンフー?	###
+txt.button.dodge=回避	###
+txt.button.weapons=武器	###
+txt.button.fighting=戦闘中	###
+txt.button.jump=ジャンプ	###
+txt.button.way_q=方法?	###
+txt.button.symbols_q=シンボル?	###
+txt.button.artifacts_q=アーティファクト?	###
+txt.button.start_game=ゲーム開始	###
+txt.button.start=ゲーム開始	###
+##Character Select
+
+txt.title.dia.character_select=外見を変更	###
+txt.c_select.1_0.dia1=外見を変えてみませんか？	###
+txt.c_select.2_0.dia1=どのタイプがお好みですか？	###
+txt.c_select.3_0.dia1=どの服装がお好みですか？	###
+txt.c_select.4_0.dia1=どのアクセサリーが欲しいですか？	###
+txt.button.char.1_1=ボディ タイプ	###
+txt.button.char.1_2=衣服	###
+txt.button.char.1_3=アクセサリー	###
+##Start Button
+
+txt.start_button.dia1=下のボタンを押してゲームを開始してください!	###
+##Game Warnings
+
+txt.gamemode_notice_npc.name=§6警告	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gamemode_notice_npc.dia1=ゲームモードのスワップが検出されました!	###
+txt.gamemode_notice_npc.dia2=このマップは §l アドベンチャー モード §r でプレイするよう設計されていますので、違うモードでプレイすると機能によっては正しく動作しなくなる可能性があります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##UI Messages
+
+txt.ui.tp.choice1=どこに行きたいですか?	###
+txt.ui.tp.choice2=§o 下のボタンを選択してください！	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.tp.confirm1=よろしいですか?	###
+txt.ui.tp.confirm2=これにより、§o全員§r が %s にテレポートします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.tp.leave1=本当に離脱しますか?	###
+txt.ui.tp.leave2=これにより、§o全員§r が %s にテレポートします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.wolf.actionbar=§c §l 残りの金属 §r: %s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.waiting.actionbar=§6リードプレイヤーの選択を待っています...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+## Pre-Game Stasis
+
+txt.ui.stasis.btn.start=開始	###
+txt.ui.stasis.btn.cancel=キャンセル	###
+txt.ui.stasis.btn.tutorial=チュートリアル	###
+txt.ui.stasis.cooking_dumplings.title=餃子クッキング!	###
+txt.ui.stasis.cooking_noodles.title=麺クッキング	###
+txt.ui.stasis.dragon_dance.title=ドラゴンムシャムシャ!	###
+txt.ui.stasis.parkour.title=餃子パルクール!	###
+txt.ui.stasis.wolf_gongmen.title=オオカミ泥棒を止めろ!	###
+txt.ui.stasis.wolf_peace.title=オオカミ泥棒を止めろ!	###
+txt.ui.stasis.training.title=達人の修行	###
+txt.ui.stasis.komodo.title=コモドクラッシュ!	###
+txt.ui.stasis.boss_tai.title=対決: タイ・ラン	###
+txt.ui.stasis.boss_shen.title=対決: シェン大老	###
+txt.ui.stasis.boss_kai.title=対決: 蒐集家カイ	###
+txt.ui.stasis.boss_chameleon.title=対決: カメレオン	###
+txt.ui.stasis.cooking_dumplings.body1=調理し、レストランに訪れる客に提供しましょう。	###
+txt.ui.stasis.cooking_dumplings.body2=できるだけ多くの餃子を提供して、ベストスコアを達成しましょう!	###
+txt.ui.stasis.cooking_dumplings.body3=§oゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.cooking_noodles.body1=調理し、ピンさんのレストランに訪れる客に提供しましょう。	###
+txt.ui.stasis.cooking_noodles.body2=できるだけ多くの麺を出して、ベストスコアを達成しましょう!	###
+txt.ui.stasis.cooking_noodles.body3=§oゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.dragon_dance.body1=ドラゴンスーツを着てオオカミ戦士たちを追い詰めよう!	###
+txt.ui.stasis.dragon_dance.body2=できるだけ多くを刈り取って、ベストスコアを達成しましょう!	###
+txt.ui.stasis.dragon_dance.body3=§oゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.parkour.body1=屋上を駆け抜けて、できるだけ多くの餃子を集めましょう。	###
+txt.ui.stasis.parkour.body2=制限時間内に全部集められるか試してみよう!	###
+txt.ui.stasis.parkour.body3=§o ゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.wolf_gongmen.body1=制限時間内にオオカミの蒐集家を追い詰めて倒そう。	###
+txt.ui.stasis.wolf_gongmen.body2=金属をすべて守り通し、ベストスコア目指そう!	###
+txt.ui.stasis.wolf_gongmen.body3=§o ゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.wolf_peace.body1=制限時間内にオオカミの蒐集家を追い詰めて倒そう。	###
+txt.ui.stasis.wolf_peace.body2=金属をすべて守り通し、ベストスコア目指そう!	###
+txt.ui.stasis.wolf_peace.body3=§o ゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.training.body1=罠を避けて訓練用ダミーを殴り飛ばそう!	###
+txt.ui.stasis.training.body2=できるだけ多くを殴り、ベストスコアを目指そう!	###
+txt.ui.stasis.training.body3=§o ゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.komodo.body1=コモドの襲撃を生き残れ!	###
+txt.ui.stasis.komodo.body2=全員倒してハイスコアを目指そう!	###
+txt.ui.stasis.komodo.body3=§o ゲームを開始するか、下のクイックヘルプをご覧ください	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Collectibles
+
+##Peace Valley Empty
+
+txt.collectible_peace.dia1=このアーティファクトはまだ見つかっていません。	###
+txt.collectible_peace.dia2=平和の谷に探しに行こう!	###
+##Gongmen City Empty
+
+txt.collectible_gongmen.dia1=このアーティファクトはまだ見つかっていません。	###
+txt.collectible_gongmen.dia2=ゴンメン市に探しに行こう!	###
+##Panda Village Empty
+
+txt.collectible_panda.dia1=このアーティファクトはまだ見つかっていません。	###
+txt.collectible_panda.dia2=パンダ村に探しに行こう!	###
+##Harbor Empty
+
+txt.collectible_harbor.dia1=このアーティファクトはまだ見つかっていません。	###
+txt.collectible_harbor.dia2=ジュニパー・シティに探しに行こう!	###
+##Jade Palace Empty
+
+txt.collectible_palace.dia1=このアーティファクトはまだ見つかっていません。	###
+txt.collectible_palace.dia2=翡翠宮に探しに行こう!	###
+##Master Rat's Battle Helmets
+
+txt.collectible_battle_helmets.dia1=このヘルメットはネズミ軍のために特別に作られ、これを身につけて彼らはたくさんのバトルに挑みました。	###
+txt.collectible_battle_helmets.dia2=有名なゴールデン・パス・ブリッジのバトルでは、ネズミ軍がヘルメットを使って敵の目に太陽の光を反射させ、ネズミが突進する間、敵の目をくらませて見えない状態にしました。	###
+##Master Ram's Crossbow
+
+txt.collectible_crossbow.dia1=無限ゲート スマッシャーとしても知られるこのクロスボウは、マスター・ヒツジのために特別に作られたものです。	###
+txt.collectible_crossbow.dia2=マスター・ヒツジが初めてこれを依頼したのは、彼らが要塞化された 5 つのゲートのある防衛の行き届いた盗賊の野営地を包囲することを余儀なくされた時でした。	###
+txt.collectible_crossbow.dia3=防衛網を突破することができずにいたマスター・ヒツジが思いつき、非常に熟練した職人にこれを作らせました。	###
+txt.collectible_crossbow.dia4=できあがると、マスター・ヒツジはこのクロスボウを使い、盗賊を守っていた 5 つの要塞化された門を一つ一つ破壊しました。	###
+##Master Dolphin's Waterproof Armor
+
+txt.collectible_dolphin_armor.dia1=伝説の海の怪物を倒した際に、マスター・イルカのために作成された金色の防水鎧のセット。	###
+txt.collectible_dolphin_armor.dia2=伝説によると、巨大なアサリの怪物が沿岸の村々を恐怖に陥れ、殻の開閉で津波を発生させることで物資を盗んで食べたと言われています。	###
+txt.collectible_dolphin_armor.dia3=マスター・イルカは、モンスターが貝を開いたときに渦潮を起こし、モンスターを倒すことに成功しました。	###
+##Master Flying Rhino's Armor
+
+txt.collectible_rhino_armor.dia1=広東省の戦士たちとの血なまぐさい戦いで一度だけ着用されたと言われています。	###
+txt.collectible_rhino_armor.dia2=伝説のマスター フライング・ライノの防具には、ステルス トカゲの暗殺者に回転バタフライ ナイフでつけられた傷跡が残っています (彼らは攻撃できる距離に近づいた唯一の戦士でした) 。	###
+##Sword of Heroes
+
+txt.collectible_SoH.dia1=4 人兄弟のうちの 1 人だった鍛冶職人が作った刀。他の 3 人の兄弟は村をあらゆる危害から守り、自分たちの勇敢さを自慢して兄弟を嘲笑っていましたが、ある日、 3 人の恐ろしい山の巨人が現れて村で暴れ回り、物資を盗みました。	###
+txt.collectible_SoH.dia2=3 人の兄弟は巨人を倒しに行きましたが、それぞれが失敗し、ひどい怪我を負いました。	###
+txt.collectible_SoH.dia3=残された鍛冶屋の兄弟は何日も閉じこもり、それぞれの兄弟の長所と武器を組み合わせた新しい武器を作り始めました。幅広の剣、短剣、そしてハルバード。	###
+txt.collectible_SoH.dia4=彼が姿を見せた時、これまでに見たことのないような強力な武器を持っていました。3 つの武器は剣に形作られていましたが、短刀と短剣に分割することも、双刃のハルバードに変形することもできました。	###
+txt.collectible_SoH.dia5=負傷した兄弟は鍛冶職人に武器の使い方を訓練し、巨人が戻ってくる頃には、彼が準備をして待ち構えていました。武器の3 つの形態を切り替えて、彼は巨人を一人残らず倒しました。	###
+txt.collectible_SoH.dia6=村は兄弟の勝利を祝い、彼は最も勇敢で偉大なウォリアーとしてヒーローと呼ばれました。	###
+txt.collectible_SoH.dia7=この素晴らしい武器は「英雄の剣」として知られるようになり、3 人の兄弟はそれぞれ使い方を学び、村を守りました。彼らは鍛冶職人に戻った兄弟を嘲笑うことはなく、幸せに暮らしました。	###
+##The Golden Spear
+
+txt.collectible_golden_spear.dia1=この神秘的な武器は、ドラゴンの山の火から鍛造されたと言われています。	###
+txt.collectible_golden_spear.dia2=その刃はドラゴンの息吹の凍てつく炎を映し出し、戦士の心の中にある悪を探し当てることができると考えられています。	###
+txt.collectible_golden_spear.dia3=最も純粋で最も勇敢な者だけがこの剣を振るうことができ、価値がないと見なされた者はこの剣によって焼かれます。	###
+##Battle Rickshaw of Emperor Hawk
+
+txt.collectible_rickshaw.dia1=かつて皇帝ホークが使用していた戦車で、彼はこの戦車に乗って戦いに赴き、敵に大きな恐怖を与えました。	###
+txt.collectible_rickshaw.dia2=皇帝ホークの雄叫びはあまりにも大きく、戦車がその金切り声を増幅させ、敵を麻痺させたと言われています。	###
+##The Ring Blades
+
+txt.collectible_ring_blades.dia1=グランド マスター ツイン・ウィーゼルが携行する伝説の武器であるこれらの恐るべき刃は、あらゆる防具や石を切り裂くことで知られていました。	###
+txt.collectible_ring_blades.dia2=その恐ろしい評判は、戦闘が始まる前にその結果を決めてしまうほどであり、この湾曲した炎を一目見ただけで敵は恐怖のあまり逃げ出してしまいます。	###
+##Master Gazelle’s Tea Set
+
+txt.collectible_tea_set.dia1=かつてマスター・ガゼルが 2 つの氏族の指導者間の争いを解決する助けとなった、精巧な作りのティーセット。	###
+txt.collectible_tea_set.dia2=幼い頃から両指導者は些細なことで口論し常に対立していましたが、その些細な口論がやがて激しい戦いに発展しました。	###
+txt.collectible_tea_set.dia3=事態が悪化する前に、マスター・ガゼルが介入し、お茶を振舞って二人のリーダーの間で会談を行いました。	###
+txt.collectible_tea_set.dia4=武将たちがお茶を飲みながら話し合ううちに、彼らの怒りは静まり、友情へと変わっていきました。	###
+##Invisible Trident of Destiny
+
+txt.collectible_trident.dia1=このトライデントについては、目に見えないこと以外、ほとんど知られていません。	###
+txt.collectible_trident.dia2=それがどこから来たのか、なぜ目に見えないのか、どのように運命の一部となっているのかは不明ですが、それでもトライデントは偉大なパワーを発しています。	###
+txt.collectible_trident.dia3=§o「人はしばしば、運命を避けようと選んだ道で運命に出会う。」 - マスター・ウーグウェイ	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Spiked Egg
+
+txt.collectible_egg.dia1=古代の村で発見された謎のタマゴ。	###
+txt.collectible_egg.dia2=その物語を知る者はありません。タマゴのことは何も書き残されていませんでした。	###
+txt.collectible_egg.dia3=孵化することがあれば、いつの日か解放されるであろう大きなパワーを感じるだけです。	###
+##Lady Wind Song's Fan
+
+txt.collectible_fan.dia1=至福の香りの街のレディ・ウインド・ソンは、片思いの歌を歌いながら、扇子の影に慎みを隠した有名な美女でした。	###
+txt.collectible_fan.dia2=彼女は昼間は優雅で控えめだ。しかし夜になると、彼女は月の影となり、銀の扇子を唯一の武器として過ちを正し、不正と戦う謎の戦士となる。	###
+txt.collectible_fan.dia3=その扇子は神秘的な金属で作られており、石を切るほど鋭いと言われていました。	###
+txt.collectible_fan.dia4=レディ・ウィンド・ソンは 60 年間、至福の香りの街の平和を保ちました。彼女が満月の夜に亡くなったとき、彼女の街の通りは蓮の花の香りで満たされました。	###
+##Iron Fist of Justice
+
+txt.collectible_iron_fist.dia1=花の川のほとりの村の鍛冶屋の牛、ジン・フーは、ハジン地方の略奪者たちから家族を守ろうとして右手を失いました。	###
+txt.collectible_iron_fist.dia2=彼は鉄の道具を溶かし、金属製の手を自分で鍛え、それを腕に溶接しました。	###
+txt.collectible_iron_fist.dia3=山賊たちが戻ってきたとき、ジン・フーは正義の鉄拳で単独で襲撃者たちを倒し、彼らを荒野に追いやりました。	###
+txt.collectible_iron_fist.dia4=ジン・フーとその家族、そして花の川のほとりの村は、二度と盗賊に悩まされることはありませんでした。	###
+##Golden Shield
+
+txt.collectible_shield.dia1=この黄金の盾は、伝説的なファイア モンキー パスの戦いの唯一の遺物でした。	###
+txt.collectible_shield.dia2=戦い自体は単なる噂に過ぎず、壮大な戦いの熾烈さを目撃した生存者は誰もおらず、なぜこの戦いが行われたのか、そして誰が灼熱の戦いに巻き込まれたのかを覚えている人は誰もいませんでした。	###
+txt.collectible_shield.dia3=知られているのは、満月の夜、陸に静寂が戻ってくる前に、山地が鋼鉄の音に揺れたということだけです。	###
+##Urn of Whispering Warriors
+
+txt.collectible_urn.dia1=天守の 500 人の戦士は、平和な陶工たちの孤立した村を緋色の月の 1 万の悪魔の攻撃から守るために召集されました。	###
+txt.collectible_urn.dia2=数では 20 対 1 と劣勢でしたが、勇敢な戦士たちは 100 日間にわたって闇の大群を食い止め、隊列を組んで肩を並べて戦い、「兄弟よ、しっかりしなさい」と声を掛け合って勇気を保ちました。	###
+txt.collectible_urn.dia3=彼らは最後まで戦い、暗殺者を追い返すことに成功しました。村人たちは感謝の気持ちを込めて、力を合わせて戦場の粘土を涙で濡らして成形し、これまでで最も完璧な陶器の花瓶を作りました。	###
+txt.collectible_urn.dia4=天守の高貴な戦士たちの魂が花瓶の中に生き続け、いざという時に再び呼び出されるのを待っていると言われています。耳を澄ますと、彼らが「しっかり、兄弟よ、しっかりしなさい...」と言っているのが聞こえるかもしれません。	###
+##Dagger of Deng Wa
+
+txt.collectible_dagger.dia1=デン・ワの短剣は、偉大なウォリアー「デン・ワ」がかつて所持していた伝説の剣です。	###
+txt.collectible_dagger.dia2=デン・ワは平穏な生活を送りたいと願うウォリアーだったそうですが、村が征服しにやってきた将軍に襲われたときには、デン・ワは再びウォリアーの役割を引き受けました。	###
+txt.collectible_dagger.dia3=一夜のうちに、デン・ワは将軍の部隊を壊滅させ、将軍との決闘に臨み、彼も打ち負かしました。	###
+##Master Dog's Ninja Weapons
+
+txt.collectible_ninja_weapons.dia1=これらの輝くダブルアクションの剣は、美しい女性ロータス ブロッサムの救出における役割を果たした偉大なマスター・ドッグに贈られたものです。	###
+txt.collectible_ninja_weapons.dia2=彼女の父親は旅の鍛冶屋で、計り知れないほど熟練した技を持っており、この刃物を鍛造する際には、感謝のあまり溶けた金属に向かって涙を流したと言われています。	###
+##Master Ostrich's Egg
+
+txt.collectible_ostrich.dia1=ジャスミン・シティの犯罪王を倒すために、尊敬されるマスター・ダチョウに贈られた儀式用のタマゴ。	###
+txt.collectible_ostrich.dia2=マスター・ダチョウが彼らの隠れ家を見つけて彼らを倒すまで、この町は長い間犯罪者によって苦しめられていました。	###
+txt.collectible_ostrich.dia3=市長は彼女に敬意を表して市の最高の金属職人と宝石商にタマゴを作らせました。	###
+##Master Pangolin's Chain Hammer
+
+txt.collectible_pangolin.dia1=隕石から発見された金属で作られた、長くて壊れにくいチェーンハンマー。	###
+txt.collectible_pangolin.dia2=マスター・センザンコウは、山のふもとの村を旅しているときにハンマーを受け取りました。彼は武器の修理のため、村の鍛冶屋の家に一晩滞在しました。	###
+txt.collectible_pangolin.dia3=鍛冶屋とお茶を飲みながら、二人は話を交わしました。鍛冶屋は、マスター・センザンコウは立派な戦士であり、その名誉にふさわしい武器を作るから 3 日以内にまた来るようにと言いました。	###
+txt.collectible_pangolin.dia4=3 日後、不滅のチェーンハンマーは贈られました。センザンコウが理由を尋ねると、鍛冶屋は「ふさわしい人を待っていた」とだけ答えました。	###
+##The Warhammer of Master Chipmunk
+
+txt.collectible_warhammer.dia1=マスター・シマリスのために作られた小さなウォーハンマー。	###
+txt.collectible_warhammer.dia2=サイズは小さいですが、最高級の金属で作られており、ドングリのハンマーヘッドには大木の樹液と精気が注入されていると言われています。	###
+txt.collectible_warhammer.dia3=§o「大きさには関係なく、最も強力な敵も最も優れた戦士に倒されるかもしれません。」 - マスター・シマリス	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Sacred Warhammer
+
+txt.collectible_sacred_hammer.dia1=巨大な破壊兵器である危険なハンマー。地面を叩きつけると、建物、丘、さらには山さえも破壊される可能性があります。	###
+txt.collectible_sacred_hammer.dia2=かつては、悪名高い犯罪者により忌まわしい行為を引き起こすために使用されていましたが、彼らはマスター・ファイブに敗北しました。	###
+txt.collectible_sacred_hammer.dia3=マスター・シーフーはこのハンマーが偽物であることを暴きましたが、本物の聖戦ハンマーは犯罪者が裁かれる前に隠されたと考えられています。	###
+##The Dragon Scroll
+
+txt.collectible_sacred_dragon_scroll.dia1=無限の力の秘密があると噂されており、その秘密を知る十分な資格を持つのはドラゴンの戦士だけです。	###
+txt.collectible_sacred_dragon_scroll.dia2=その秘密は、ポーがドラゴンの巻物を受け取り、ドラゴンの戦士になったときについに明らかになりました。	###
+txt.collectible_sacred_dragon_scroll.dia3=§o「隠された材料なんてありません。あるのはあなただけです。」 - ポー	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Activity NPCs
+
+##Dumpling Cooking
+
+##activity.cooking.dumpling.enter
+
+txt.activity_cooking_dumplings_start.dia1=餃子の調理と提供を体験してみよう!	###
+txt.activity_cooking_dumplings_start.dia2=§o下のボタンを押してゲームを読み込みます。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.cooking.dumpling.help
+
+txt.activity_cooking_dumplings_help.dia1=餃子に問題がありますか?	###
+txt.activity_cooking_dumplings_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.cooking.dumpling.exit
+
+txt.activity_cooking_dumplings_exit.dia1=餃子料理ゲームを終了しますか?	###
+txt.activity_cooking_dumplings_exit.dia2=§oこれにより、すべてのプレイヤーがパンダ村に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Noodle CookingCooking Noodles
+
+##activity.cooking.noodle.enter
+
+txt.activity_cooking_noodles_start.dia1=麺の調理と提供を体験してみよう!	###
+txt.activity_cooking_noodles_start.dia2=§o下のボタンを押してゲームを読み込みます。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.cooking.noodle.help
+
+txt.activity_cooking_noodles_help.dia1=麺の調理に関してヘルプが必要ですか?	###
+txt.activity_cooking_noodles_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.cooking.noodle.exit
+
+txt.activity_cooking_noodles_exit.dia1=クッキング麺ゲームを終了しますか?	###
+txt.activity_cooking_noodles_exit.dia2=§oこれにより、すべてのプレイヤーが平和の谷に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Dragon Munching Dragon Munching!
+
+##activity.dragon.enter
+
+txt.activity_dragon_dance_start.dia1=シェン大老の支配下にあるゴンメン市の街に帰還せよ!	###
+txt.activity_dragon_dance_start.dia2=ドラゴンスーツを着て、シェンのオオカミウォリアーズをむしゃむしゃ食べよう!	###
+txt.activity_dragon_dance_start.dia3=§o下のボタンを押してゲームを読み込みます。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.dragon.help
+
+txt.activity_dragon_dance_help.dia1=オオカミウォリアーをすべて食べるのにヘルプが必要ですか?	###
+txt.activity_dragon_dance_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.dragon.exit
+
+txt.activity_dragon_dance_exit.dia1=ドラゴンむしゃむしゃゲームを終了しますか?	###
+txt.activity_dragon_dance_exit.dia2=§oこれにより、すべてのプレイヤーがゴンメン市の街に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Dumpling ParkourDumpling Parkour!
+
+##activity.parkour.enter
+
+txt.activity_parkour_start.dia1=餃子パルクールでカンフーを鍛える時が来ました!	###
+txt.activity_parkour_start.dia2=屋上を跳びまわって餃子を集めよう!	###
+txt.activity_parkour_start.dia3=§o下のボタンを押してゲームにロードします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.parkour.help
+
+txt.activity_parkour_help.dia1=餃子が手に入りませんか?	###
+txt.activity_parkour_help.dia2=心配しないでください、ポーもそうでした!	###
+txt.activity_parkour_help.dia3=下の簡単な説明をご覧ください。	###
+##activity.parkour.exit
+
+txt.activity_parkour_exit.dia1=餃子パルクールゲームを終了しますか?	###
+txt.activity_parkour_exit.dia2=§oこれにより、すべてのプレイヤーがパンダ村に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Wolf Thieves - GongmenStop the Wolf Thieves!
+
+##activity.thieves.gong.enter
+
+txt.activity_wolf_gongmen_start.dia1=シェン大老の支配下にあるゴンメン市の街に帰還せよ!	###
+txt.activity_wolf_gongmen_start.dia2=オオカミ泥棒がゴンメンの市民の金属を盗んでおり、彼らを止めるかどうかはあなたにかかっています!	###
+txt.activity_wolf_gongmen_start.dia3=§o下のボタンを押してゲームにロードします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.thieves.gong.help
+
+txt.activity_wolf_gongmen_help.dia1=泥棒を捕まえることができませんか?	###
+txt.activity_wolf_gongmen_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.thieves.gong.exit
+
+txt.activity_wolf_gongmen_exit.dia1=オオカミ泥棒ゲームを終了しますか?	###
+txt.activity_wolf_gongmen_exit.dia2=§oこれにより、すべてのプレイヤーがゴンメン市の街に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Wolf Thieves - ValleyStop the Wolf Thieves!
+
+##activity.thieves.valley.enter
+
+txt.activity_wolf_peace_start.dia1=シェン大老の脅威にさらされている平和の谷に帰還せよ!	###
+txt.activity_wolf_peace_start.dia2=オオカミ泥棒は谷の市民から金属を盗んでおり、彼らを止めるかどうかはあなたにかかっています!	###
+txt.activity_wolf_peace_start.dia3=§o下のボタンを押してゲームにロードします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.thieves.valley.help
+
+txt.activity_wolf_peace_help.dia1=泥棒を捕まえることができませんか?	###
+txt.activity_wolf_peace_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.thieves.valley.exit
+
+txt.activity_wolf_peace_exit.dia1=オオカミ泥棒ゲームを終了しますか?	###
+txt.activity_wolf_peace_exit.dia2=§oこれにより、すべてのプレイヤーが平和の谷の街に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Training HallA Master's Training
+
+##activity.training.enter
+
+txt.activity_training_start.dia1=ポーが旅を始めたホールでカンフーを訓練しましょう!	###
+txt.activity_training_start.dia2=§o下のボタンを押してゲームにロードします。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.training.help
+
+txt.activity_training_help.dia1=レベルゼロで苦労していますか?	###
+txt.activity_training_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.training.exit
+
+txt.activity_training_exit.dia1=トレーニングホールゲームから退出しますか?	###
+txt.activity_training_exit.dia2=§oこれにより、すべてのプレイヤーが翡翠城に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Komodo ClashKomodo Clash
+
+##activity.komodo.enter
+
+txt.activity_komodo_start.dia1=カメレオンの支配下にあるジュニパー・シティに戻ろう!	###
+txt.activity_komodo_start.dia2=ポーの目を通して、コモドウォリアーを倒そう!	###
+txt.activity_komodo_start.dia3=§o下のボタンを押してゲームを読み込みます。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.komodo.help
+
+txt.activity_komodo_help.dia1=コモドを倒せませんか?	###
+txt.activity_komodo_help.dia2=下の簡単な説明をご覧ください。	###
+##activity.komodo.exit
+
+txt.activity_komodo_exit.dia1=コモドクラッシュゲームを終了しますか?	###
+txt.activity_komodo_exit.dia2=§oこれにより、すべてのプレイヤーがジュニパー・シティの街に戻ります。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Boss Fight NPCs
+
+##Showdown: Tai Lung
+
+txt.activity_boss_tai_start.dia1=過去を振り返り、恐るべきタイ・ランに立ち向かおう!	###
+txt.activity_boss_tai_start.dia2=かつてポーがしたように彼と戦い、ポーの経験を通して、ドラゴンの戦士になることが何を意味するかを学ぼう。	###
+##Showdown: Lord Shen
+
+txt.activity_boss_shen_start.dia1=過去を振り返り、極悪非道なシェン大老を倒そう!	###
+txt.activity_boss_shen_start.dia2=ポーがシェンの砲艦艦隊からマスター・ファイブを救出し、シェンの旗艦での最後の対決を追体験しよう!	###
+##Showdown: Kai the Collector
+
+txt.activity_boss_kai_start.dia1=過去を振り返り、偉大なコレクターのカイを倒そう!	###
+txt.activity_boss_kai_start.dia2=ポーの目を通してジェイド ゾンビの大群を倒し、魂の王国のドラゴンの戦士の力を呼び起こそう。	###
+##Showdown: The Chameleon
+
+txt.activity_boss_chameleon_start.dia1=過去を振り返り、強力な魔術師カメレオンを倒そう!	###
+txt.activity_boss_chameleon_start.dia2=ポーの最大の宿敵の変身形態との対決を体験しよう!	###
+##Po Dialogues
+
+##po.AREA.generics
+
+##po.AREA.kungfu
+
+txt.po_kungfu.dia1=ヒントやコツが欲しいですか?	###
+txt.po_kungfu.dia2=さて、ここはあなたにぴったりな場所です!	###
+txt.po_kungfu.dia3=何を知りたいんだ?	###
+##po.AREA.dodge
+
+txt.po_dodge.dia1=すべてのカンフー マスターはかわす必要があり、§1スニーク§rを使用するだけです	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_dodge.dia2=向いている方向に素早く動いてかわします。	###
+##po.AREA.weapons
+
+txt.po_weapons.dia1=カンフーの達人は手元にあるものすべてを利用します!	###
+txt.po_weapons.dia2=斧、剣、さらには中華鍋などの武器の山を探してください!	###
+txt.po_weapons.dia3=それらを拾い上げてから、§1インタラクト§r で投げることができます。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##po.AREA.fighting
+
+txt.po_fighting.dia1=カンフーマスターは必要なときに戦います。	###
+txt.po_fighting.dia2=そこに入ってパンチ、キック、そしてハイヤー!	###
+##po.AREA.jump
+
+txt.po_jump.dia1=すべてのカンフー マスターは非常に素晴らしい敏捷性を備えています。	###
+txt.po_jump.dia2=§1ジャンプ§r§oを2回タップしてダブル ジャンプ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_jump.dia3=最大 3.5 ブロックまで到達できます!	###
+##po.palace
+
+txt.po_palace.dia1=ワオ！ 新しい生徒ですね！	###
+txt.po_palace.dia2=私はポー。もちろん私を知ってますよね…私がカンフー界のレジェンドです!	###
+txt.po_palace.dia3=なんにせよ、私があなたの新たな師ですので、あなたに§o道をお見せしましょう…§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##po.palace.way
+
+txt.po_palace_way.dia1=どのマスターにも旅があり、あなたに私の旅を紹介します。	###
+txt.po_palace_way.dia2=私の最も有名な戦いと、有名でない戦いを紹介します。	###
+txt.po_palace_way.dia3=道を §o獲得§rするため、外を探しましょう!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_palace_way.dia4=私のシンボルが目印ですよ！	###
+##po.palace.symbols_q
+
+txt.po_palace_symbols.dia1=ええ、巻物をいくつか送りました。それらには私のシンボルがついています。	###
+txt.po_palace_symbols.dia2=それぞれがカンフーマスターになるための私の旅の異なる部分です。	###
+txt.po_palace_symbols.dia3=すぐ近く、研修場に1つあります!	###
+txt.po_palace_symbols.dia4=巻物に注意してください!	###
+##po.palace.artifacts_q
+
+txt.po_palace_artifacts.dia1=さすがですね!	###
+txt.po_palace_artifacts.dia2=すべてのアーティファクトの気の本質を英雄たちの殿堂に隠したので、見つけてください!	###
+txt.po_palace_artifacts.dia3=それらの§oかっこよさ§rと§oすばらしさ§rを学びましょう！	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_palace_artifacts.dia4=どこかに2つあるはずです…	###
+##po.peace
+
+txt.po_peace.dia1=平和の谷へようこそ！	###
+txt.po_peace.dia2=私はここで育ちました。超クールです。大したことではありません。本当に人気のパンダ...	###
+txt.po_peace.dia3=父のラーメン屋にはぜひとも一度足を運んでください! 最高の麺を味わえますよ。	###
+##po.peace.artifacts_q
+
+txt.po_peace_artifacts.dia1=アーティファクトはどこでしょうか?	###
+txt.po_peace_artifacts.dia2=ここにあるよ。どこかに、ね。少なくとも5個は。	###
+txt.po_peace_artifacts.dia3=私は言わないよ。	###
+##po.peace.symbols_q
+
+txt.po_peace_symbols.dia1=ここのシンボルスクロールについて知りたいのですか?	###
+txt.po_peace_symbols.dia2=さて、一つは恐ろしいタイ・ランとの有名な戦いです!	###
+txt.po_peace_symbols.dia3=もう一つは、父のラーメン屋での手伝いです。超重要です。	###
+txt.po_peace_symbols.dia4=そして、シェン大老のオオカミの盗みを阻止したときのこと!	###
+##po.gongmen
+
+txt.po_gongmen.dia1=ゴンメン市へようこそ!	###
+txt.po_gongmen.dia2=再建された聖なる炎のタワーとこの素晴らしいマーケットプレイスをぜひチェックしてください。	###
+txt.po_gongmen.dia3=また、私のシンボルの巻物にも気をつけてください。	###
+##po.gongmen.artifacts_q
+
+txt.po_gongmen_artifacts.dia1=アーティファクトはどこでしょうか?	###
+txt.po_gongmen_artifacts.dia2=路地で、屋根で! そのうちの 5 つを探さなければなりません。	###
+txt.po_gongmen_artifacts.dia3=だって、ジッピディティ スクワットをしてないんですから!	###
+##po.gongmen.symbols_q
+
+txt.po_gongmen_symbols.dia1=シンボルの巻物を探してるんですか? 見つけました!	###
+txt.po_gongmen_symbols.dia2=1つは、クレイジーのシェン大老とその船団を止めたときです。	###
+txt.po_gongmen_symbols.dia3=そのとき私とマスター・ファイブはドラゴンスーツを着て隠れました...	###
+txt.po_gongmen_symbols.dia4=そして、私たちのものを盗んだシェン大老のオオカミと戦ったときのことです!	###
+##po.panda
+
+txt.po_panda.dia1=パンダ村へようこそ!	###
+txt.po_panda.dia2=ここはパンダのお父さんが住んでいるところです…挨拶に行こう!	###
+txt.po_panda.dia3=彼らはここでのんびりと過ごす方法をよく知っています。ぜひとも餃子をお試しください!	###
+##po.panda.artifacts_q
+
+txt.po_panda_artifacts.dia1=アーティファクトはどこでしょうか?	###
+txt.po_panda_artifacts.dia2=木々の下、小川のほとり、とかかもしれませんね?! そのうちの5つを探す必要があります。	###
+txt.po_panda_artifacts.dia3=そりゃあ、知ってるよ…でも、言わないからね。	###
+##po.gongmen.symbols_q
+
+txt.po_panda_symbols.dia1=ここのシンボルスクロールはすごいものですよ!	###
+txt.po_panda_symbols.dia2=一つは蒐集家のカイを魂の王国へと送り返したとき、私が気のドラゴンを召喚したときのものです!	###
+txt.po_panda_symbols.dia3=次は、私のお気に入りの「餃子クッキング」です!	###
+txt.po_panda_symbols.dia4=おお! そうだ! この他にも「餃子パルクール」もありますよ! 餃子を全部集めるんですよ!	###
+##po.harbor
+
+txt.po_harbor.dia1=ジュニパー・シティへようこそ!	###
+txt.po_harbor.dia2=前回、私は指名手配のポスターに書かれているときここに来ました!	###
+txt.po_harbor.dia3=ハ!	###
+##po.harbor.artifacts_q
+
+txt.po_harbor_artifacts.dia1=アーティファクトはどこでしょうか?	###
+txt.po_harbor_artifacts.dia2=ジュニパー・シティの通りを探索する必要があります...	###
+txt.po_harbor_artifacts.dia3=言ってないですから。	###
+####po.harbor.symbols_q
+
+txt.po_harbor_symbols.dia1=シンボルの巻物が見つかりませんか? 大丈夫です!	###
+txt.po_harbor_symbols.dia2=城の頂上で、強力な魔術師カメレオンと戦ったときのことです!	###
+txt.po_harbor_symbols.dia3=そしてもう 1つは、同じ城から脱出するときに彼女のコモド戦士たちと戦ったときです。	###
+##Character NPCS
+
+##character_tigress
+
+txt.character_tigress.dia1=若い学生、訓練に励みなさい。体はその魂と同じくらい強固でなければなりません。	###
+txt.character_tigress.dia2=私は宮殿のそばの鉄の木を殴り、訓練していたものです。	###
+txt.character_tigress.dia3=もう何も感じません。	###
+##character_mantis
+
+txt.character_mantis.dia1=カンフーにおける第一のルール: 戦士を体格で判断しない!	###
+txt.character_mantis.dia2=つまり…私を見なさい!	###
+txt.character_mantis.dia3=でも実のところ、それは3つ目です。あるいは4つ目でしたっけ?	###
+##character_viper
+
+txt.character_viper.dia1=あなたはアカデミーの出身ですか？	###
+txt.character_viper.dia2=家族と連絡を取り合うことは大切です。	###
+txt.character_viper.dia3=以前は姉妹と一緒に料理をするのが大好きでした。	###
+##character_monkey
+
+txt.character_monkey.dia1=やあ、どうも。	###
+txt.character_monkey.dia2=私のアーモンドクッキーを見ませんでしたか?	###
+txt.character_monkey.dia3=ポーがまた見つけたのでしょうね。	###
+##character_crane
+
+txt.character_crane.dia1=正義の翼は、おそらく私が一番気に入っている技です。	###
+txt.character_crane.dia2=正義を勝ち取るなら、巨大な突風が吹く...	###
+txt.character_crane.dia3=それはとても柔軟なものです。	###
+##character_shifu
+
+txt.character_shifu.dia1=ああ、新しい生徒ですね。	###
+txt.character_shifu.dia2=トレーニング中はマインドフルに過ごし、瞑想することを忘れずに。	###
+txt.character_shifu.dia3=内なる平和... 内なる平和...	###
+##character_ping
+
+txt.character_ping.dia1=ドラゴンの戦士に会いに来たのか!?	###
+txt.character_ping.dia2=それは私の息子のポーですが、今は谷全体のスピリチュアル リーダーです!	###
+txt.character_ping.dia3=彼のことを誇りに思うよ。	###
+txt.character_ping.dia4=麺はいかがですか?	###
+##character_oogway
+
+txt.character_oogway.dia1=新しい生徒か、うーん、...?	###
+txt.character_oogway.dia2=偶然というものはない、ということ忘れてはなりませんよ…	###
+txt.character_oogway.dia3=それと他にも忘れてはいけないことが…なんなのか忘れてしまったよ。まったく!	###
+##character_soothsayer
+
+txt.character_soothsayer.dia1=あなたはきっとポーの生徒ですね。	###
+txt.character_soothsayer.dia2=あなたの将来には、多くのストレス... と痛みが待っていると思います...	###
+txt.character_soothsayer.dia3=詠春拳の訓練用ダミー... から? いえ、そんなことはありえませんよね...	###
+##character_master_ox
+
+txt.character_master_ox.dia1=カンフーの生徒でしょ?	###
+txt.character_master_ox.dia2=私が学生だった頃... マスター・サンダリング・サイに訓練された時のことを覚えています。	###
+txt.character_master_ox.dia3=王宮に忍び込んだ私は彼に見つかり... それで私は今のようなまっとうな牛となったわけですよ。	###
+##character_master_croc
+
+txt.character_master_croc.dia1=偉大なマスターは、どこからでも生まれます。	###
+txt.character_master_croc.dia2=私は過去に.....ウール盗みのワニ盗賊団と交流があり…§oそれはやんちゃなものでした§r…	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.character_master_croc.dia3=しかし、サンダリング・ライノ師は私にもっと良い道を示してくれました。そして今、私はここにいます!	###
+##character_li_shan
+
+txt.character_li_shan.dia1=こんにちは！私の息子のポーは知っているだろう!	###
+txt.character_li_shan.dia2=実は、何年か前に、平和の谷で彼と再会したんだ!	###
+txt.character_li_shan.dia3=彼は完璧だ。猛烈で、強く、食欲が旺盛! なんと私と同じぐらいの餃子を食べるんだ。	###
+##character_big_fun
+
+txt.character_big_fun.dia1=あなたはハガーですか？	###
+txt.character_big_fun.dia2=私はハガーです。	###
+##character_grandma_panda
+
+txt.character_grandma_panda.dia1=あらららら! これまた大きなものですね。	###
+txt.character_grandma_panda.dia2=餃子もたくさん食べられるのでしょうね!	###
+##character_mei_mei
+
+txt.character_mei_mei.dia1=わ…私はメイメイ…	###
+txt.character_mei_mei1.dia2=世界一のリボン ダンサー。	###
+txt.character_mei_mei1.dia3=危険と共に…踊るんです!	###
+
+##character_dim
+
+txt.character_dim.dia1=ねえ! いとこのポーのことを知ってますか?	###
+txt.character_dim.dia2=彼って本当にすごいんですよ…	###
+txt.character_dim.dia3=ねぇ、夕食の準備がいつ終わるか知りませんか?	###
+##character_sum
+
+txt.character_sum.dia1=ねえ! 私のいとこのポーを知っているでしょう!	###
+txt.character_sum.dia2=彼は素晴らしいカンフーの達人で、パンダのウォリアー...	###
+txt.character_sum.dia3=やあ、タケノコはいかがですか?	###
+##character_lei_lei4083 126 167
+
+txt.character_lei_lei.dia1=やあ!	###
+txt.character_lei_lei.dia2=君は僕に似ているけど、大きい。	###
+txt.character_lei_lei.dia3=いつの日か、私もあなたと同じくらい大きくなります!	###
+##character_bao
+
+txt.character_bao.dia1=彼らは私を爆竹バオと呼んでいます! なぜなら私はカンフー爆竹の達人だからです...	###
+txt.character_bao.dia2=はいはい、私はカンフー爆竹の達人なんかじゃありませんよ...	###
+txt.character_bao.dia3=でもちょっとは信じましたよね!	###
+##character_zhen
+
+txt.character_zhen.dia1=こんにちは、大きなパンダ!	###
+txt.character_zhen.dia2=写真を気に入りましたか? もしよければ一枚どうぞ。	###
+txt.character_zhen.dia3=街のあちこちにいるぞ!	###
+##character_han
+
+txt.character_han.dia1=大きなパンダを見失った?	###
+txt.character_han.dia2=ここでは2つの方法で物事を行います...	###
+txt.character_han.dia3=素早く痛みを伴わない方法か、またはゆっくりと痛みを伴う方法か......	###
+##character_triplet_rabbit
+
+txt.character_triplet_rabbit.dia1=暴力は腹が疼くぜ!	###
+##character_instructor
+
+txt.character_instructor.dia1=時が来た! 翡翠城の寺院から次の修行へと進むための召喚状が届きました!	###
+txt.character_instructor.dia2=出発前に必ずトレーニングを行い、準備をしてください!	###
+txt.character_instructor.dia3=§oトラベルスクロールを使って翡翠城へ向かう。	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard1
+
+txt.character_palace_guard1.dia1=私はかつてカンフーの生徒でしたが、回避の仕方を知りませんでした。	###
+txt.character_palace_guard1.dia2=§o§1スニーク§r§oを使って素早く攻撃をかわせ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard2
+
+txt.character_palace_guard2.dia1=英雄たちの殿堂に入ったことがありますか?	###
+txt.character_palace_guard2.dia2=一度そこにメッセージを伝えるために入ったのですが... すごかったですよ!	###
+##character_palace_guard3
+
+txt.character_palace_guard3.dia1=別のカンフー生徒?	###
+txt.character_palace_guard3.dia2=渓谷を守るためにここにいてくれて本当にうれしいです。	###
+##character_palace_guard4
+
+txt.character_palace_guard4.dia1=ある時、龍の戦士は私が良い仕事をしていると言ってくれました。	###
+txt.character_palace_guard4.dia2=それは人生で最高の日でした。	###
+##character_palace_guard5
+
+txt.character_palace_guard5.dia1=私もカンフーの学生やマスターのように跳べたらいいのにと思います。あなたは跳べるんですね!	###
+txt.character_palace_guard5.dia2=§o§1ジャンプ§r§oを2回タップしてダブル ジャンプ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard6
+
+txt.character_palace_guard6.dia1=えっ?	###
+txt.character_palace_guard6.dia2=寝てません。ただ目を休めているだけです。	###
+##character_palace_guard7
+
+txt.character_palace_guard7.dia1=翡翠城に仕えることを光栄に思います。	###
+##character_palace_guard8
+
+txt.character_palace_guard8.dia1=ゴンメン市から来ましたが、両親に会うためとはいえ長い旅路でした。	###
+txt.character_palace_guard8.dia2=§oトラベルスクロールを使えば、エリア間を素早く移動できます!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student1
+
+txt.character_student1.dia1=敵の攻撃をかわしてください！	###
+txt.character_student1.dia2=§o§1スニーク§r§oを使って素早く攻撃をかわせ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student2
+
+txt.character_student2.dia1=今朝は日が昇る前に起きてトレーニングを始めました! それにしてもあれは本当に朝だったのでしょうか?	###
+txt.character_student2.dia2=マスターが休んだ方がいいと言うので、今は休息中。でも、明日は寝る前に起きて追いつきます!	###
+##character_student3
+
+txt.character_student3.dia1=翡翠宮へ向かうのですか?	###
+txt.character_student3.dia2=渓谷の下に、とてもおいしい麺が食べられる場所がいくつかあると聞きました。	###
+##character_student4
+
+txt.character_student4.dia1=敏捷性は重要です。つま先を軽く保つようにしてください。	###
+txt.character_student4.dia2=§o§1ジャンプ§r§oを2回タップしてダブル ジャンプ!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student5
+
+txt.character_student5.dia1=努力と献身によって、いつの日かカンフーマスターになります!	###
+##character_student6
+
+txt.character_student6.dia1=マスターになったら、マスターのチームに入るつもりです。	###
+txt.character_student6.dia2=「スーパー セブン」と呼ばれています! あるいはシックスだったかも? 何人いるかによりますが...	###
+##character_student7
+
+txt.character_student7.dia1=カンフーは、拳でパンチしたり、足で蹴ったりするだけではありません。	###
+txt.character_student7.dia2=環境を利用しましょう! 中華鍋でさえ武器になります...	###
+##character_student8
+
+txt.character_student8.dia1=敵の武器を注意して見ましょう。	###
+txt.character_student8.dia2=前回の戦いでは、敵の武器を使って戦いました! 敵が武器棚なんかに置いておくから!	###

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.wolf_collect":{"states":{"default":{"transitions":[{"collect":"q.property('noxcrew:collect')"}]},"collect":{"transitions":[{"default":"!q.property('noxcrew:collect')"}],"on_exit":["/scriptevent noxcrew.kp:collect_metal"]}}}}}

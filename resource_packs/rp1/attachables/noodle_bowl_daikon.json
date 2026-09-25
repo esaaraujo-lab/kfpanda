@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"noxcrew.kp:noodle_bowl_daikon","textures":{"default":"textures/entity/attachable/noodle_bowl"},"geometry":{"default":"geometry.n.kp.noodle_bowl_daikon"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"render_controllers":["controller.render.base_alpha"]}}}

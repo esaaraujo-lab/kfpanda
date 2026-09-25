@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"noxcrew.kp:rubble_throwable","textures":{"default":"textures/entity/attachable/rubble_throwable"},"geometry":{"default":"geometry.n.kp.rubble_throwable"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"render_controllers":["controller.render.base_alpha"]}}}

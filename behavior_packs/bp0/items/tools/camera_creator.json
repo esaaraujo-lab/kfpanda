@@ -1,0 +1,1 @@
+{"format_version":"1.20.40","minecraft:item":{"description":{"identifier":"noxcrew.common.devtools:camera_creator"},"components":{"minecraft:display_name":{"value":"Open Camera Creator"},"minecraft:icon":{"texture":"noxcrew.common.devtools.camera_creator"},"minecraft:max_stack_size":1}}}

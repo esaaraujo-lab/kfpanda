@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"noxcrew.kp:axe","textures":{"default":"textures/entity/attachable/axe"},"geometry":{"default":"geometry.n.kp.axe"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"sound_effects":{"throw_axe":"throw"},"render_controllers":["controller.render.base_alpha"]}}}

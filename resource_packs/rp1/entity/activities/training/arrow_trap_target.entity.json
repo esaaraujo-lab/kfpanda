@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:arrow_trap_target","textures":{"default":"textures/entity/invisible"},"geometry":{"default":"geometry.n.kp.invisible"},"materials":{"default":"noxcrew_alpha"},"render_controllers":["controller.render.base"]}}}

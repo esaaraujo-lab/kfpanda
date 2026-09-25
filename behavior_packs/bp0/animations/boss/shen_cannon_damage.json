@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.shen_cannon_damage":{"loop":false,"animation_length":1.5,"timeline":{"0.5":["/execute positioned ~ ~ ~-5 run damage @e[type=noxcrew.kp:lord_shen,dx=-13,dy=5,dz=9] 15 contact","@s noxcrew:add.despawn_timer"]}}}}

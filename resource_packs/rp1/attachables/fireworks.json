@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:attachable":{"description":{"identifier":"noxcrew.kp:fireworks","textures":{"default":"textures/entity/attachable/firework"},"geometry":{"default":"geometry.n.kp.firework"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"sound_effects":{"throw_firework":"throw_firework"},"render_controllers":["controller.render.base_alpha"]}}}

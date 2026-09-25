@@ -1,0 +1,209 @@
+{
+	"namespace": "nox_boss",
+	"factory": {
+		"type": "panel",
+		"factory": {
+			"name": "hud_title_text_factory",
+			"control_ids": {
+				"hud_title_text": "boss@nox_boss.root_panel"
+			}
+		}
+	},
+	"root_panel": {
+		"type": "panel",
+		"$is_visible|default": false,
+		"visible": "$is_visible",
+		"variables": [
+			{
+				"requires": "((not ($title_text - 'nox:boss' = $title_text)))",
+				"$is_visible": true
+			}
+		],
+		"controls": [
+			{
+				"boss_in@panels": {}
+			},
+			{
+				"boss_text@panels_text": {}
+			}
+		]
+	},
+	"bar_top": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/letterbox/black",
+		"size": ["200%", "50%"],
+		"offset": [0, "-25%"],
+		"layer": 1000
+	},
+	"bar_btm": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/letterbox/black",
+		"size": ["200%", "50%"],
+		"offset": [0, "25%"],
+		"layer": 1000
+	},
+	"boss_text": {
+		"type": "label",
+		"text": "$boss_name",
+		"font_size": "large",
+		"localize": true,
+		"font_type": "MinecraftTen",
+		"shadow": true,
+		"layer": 1001,
+		"$text_wait|default": 5,
+		"offset": [0, "50%"],
+		"color": [0.8, 0.3, 0.2]
+	},
+	"panels_text": {
+		"type": "panel",
+		"size": ["350%", "150%"],
+		"$boss_name|default": "test",
+		"anchor_from": "bottom_middle",
+		"anchor_to": "bottom_middle",
+		"controls": [
+			{
+				"text@boss_text": {
+					"alpha": 0,
+					"$anim|default": "nox_boss.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_in_tai' = $title_text)))",
+							"$anim": "nox_boss.anim_in_text",
+							"$boss_name": "entity.noxcrew.kp:tai_lung.name"
+						},
+						{
+							"requires": "((not ($title_text - 'nox:boss_in_shen' = $title_text)))",
+							"$anim": "nox_boss.anim_in_text",
+							"$boss_name": "entity.noxcrew.kp:lord_shen.name",
+							"$text_wait": 22
+						},
+						{
+							"requires": "((not ($title_text - 'nox:boss_in_kai' = $title_text)))",
+							"$anim": "nox_boss.anim_in_text",
+							"$boss_name": "entity.noxcrew.kp:general_kai.name",
+							"$text_wait": 11
+						},
+						{
+							"requires": "((not ($title_text - 'nox:boss_in_chameleon' = $title_text)))",
+							"$anim": "nox_boss.anim_in_text",
+							"$boss_name": "entity.noxcrew.kp:chameleon.name"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	"panels": {
+		"type": "panel",
+		"size": ["350%", "150%"],
+		"anchor_from": "center",
+		"anchor_to": "center",
+		"controls": [
+			{
+				"_bar_top@bar_top": {
+					"alpha": 0,
+					"$anim|default": "nox_boss.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_in' = $title_text)))",
+							"$anim": "nox_boss.anim_in_top"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"_bar_btm@bar_btm": {
+					"alpha": 0,
+					"$anim|default": "nox_boss.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_in' = $title_text)))",
+							"$anim": "nox_boss.anim_in_btm"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	// anims
+	"anim_none": {
+		"anim_type": "wait",
+		"duration": 0
+	},
+	//top
+	"anim_in_top": {
+		"anim_type": "wait",
+		"duration": 0,
+		"next": "@nox_boss.anim_in_top_1"
+	},
+	"anim_in_top_1": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss.anim_in_top_2"
+	},
+	"anim_in_top_2": {
+		"anim_type": "offset",
+		"easing": "in_out_quint",
+		"from": [0, "-25%"],
+		"to": [0, "-50%"],
+		"duration": 2
+	},
+	//bottom
+	"anim_in_btm": {
+		"anim_type": "wait",
+		"duration": 0,
+		"next": "@nox_boss.anim_in_btm_1"
+	},
+	"anim_in_btm_1": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss.anim_in_btm_2"
+	},
+	"anim_in_btm_2": {
+		"anim_type": "offset",
+		"easing": "in_out_quint",
+		"from": [0, "25%"],
+		"to": [0, "48%"],
+		"duration": 2
+	},
+	// Text
+	"anim_in_text": {
+		"anim_type": "wait",
+		"duration": "$text_wait",
+		"next": "@nox_boss.anim_in_text_1"
+	},
+	"anim_in_text_1": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss.anim_in_text_2"
+	},
+	"anim_in_text_2": {
+		"anim_type": "offset",
+		"easing": "out_cubic",
+		"from": ["-50%", "45%"],
+		"to": ["0%", "45%"],
+		"duration": 1,
+		"next": "@nox_boss.anim_in_text_3"
+	},
+	"anim_in_text_3": {
+		"anim_type": "wait",
+		"duration": 4,
+		"next": "@nox_boss.anim_in_text_4"
+	},
+	"anim_in_text_4": {
+		"anim_type": "alpha",
+		"easing": "out_cubic",
+		"from": 1,
+		"to": 0,
+		"duration": 0.5
+	}
+}

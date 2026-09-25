@@ -1,0 +1,1 @@
+{"format_version":"1.20.70","minecraft:client_entity":{"description":{"identifier":"noxcrew.kp:training_wood","textures":{"default":"textures/entity/N/props/training_wood"},"geometry":{"default":"geometry.n.kp.training_wood"},"materials":{"default":"noxcrew_base","alpha":"noxcrew_alpha"},"render_controllers":["controller.render.base_alpha"]}}}
