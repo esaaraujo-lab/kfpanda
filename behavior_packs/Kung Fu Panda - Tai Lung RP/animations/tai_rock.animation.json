@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.tai_rock.projectile":{"loop":true,"bones":{"rock":{"rotation":["query.anim_time*360","query.anim_time*120","query.anim_time*90"]}}}}}

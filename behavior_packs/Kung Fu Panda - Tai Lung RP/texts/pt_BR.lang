@@ -1,0 +1,1235 @@
+﻿pack.name=PR Kung Fu Panda	###
+pack.description=por Noxcrew	###
+
+##INTERACT TEXTS
+
+action.interact.interact=Interagir	###
+action.interact.take=Pegar	###
+action.interact.boil=Ferver	###
+action.interact.steam=Vapor	###
+action.interact.chop=Cortar	###
+action.interact.combine=Combinar	###
+action.interact.serve=Servir	###
+action.interact.trash=Lixo	###
+action.interact.place=Colocar	###
+action.interact.return=Retorno	###
+action.interact.press=Pressionar	###
+##ACTION HINTS
+
+action.hint.exit.noxcrew.kp:firework_cart=Toque em :_input_key.sneak: para sair	###
+action.hint.exit.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+action.hint.exit.noxcrew.kp:temp_dragondance_suit=Persiga os lobos!	###
+action.hint.exit.scheme.noxcrew.kp:firework_cart=Toque em :_input_key.sneak: para sair	###
+action.hint.exit.scheme.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+action.hint.exit.console.noxcrew.kp:firework_cart=Pressione :_input_key.sneak: para sair	###
+action.hint.exit.console.noxcrew.kp:dragondance_suit=§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##ITEMS
+
+item.noxcrew.kp:wok.name=Wok Arremessável	###
+item.noxcrew.kp:axe.name=Machado Arremessável	###
+item.noxcrew.kp:wolf_weapon.name=Espada Arremessável	###
+item.noxcrew.kp:fireworks.name=Bombinhas	###
+item.noxcrew.kp:dragon_spirit.name=Espírito do Guerreiro Dragão	###
+item.noxcrew.kp:noodle_bowl.name=Tigela de Macarrão	###
+item.noxcrew.kp:noodle_bowl_daikon.name=Macarrão com Daikon	###
+item.noxcrew.kp:noodle_bowl_pak_choi.name=Macarrão com Pak-choi	###
+item.noxcrew.kp:daikon.name=Daikon	###
+item.noxcrew.kp:chopped_daikon.name=Daikon Picado	###
+item.noxcrew.kp:pak_choi.name=Pak-chois	###
+item.noxcrew.kp:chopped_pak_choi.name=Pak-choi Picado	###
+item.noxcrew.kp:dumpling_bowl.name=Tigela de Bolinhos	###
+item.noxcrew.kp:dumpling_bowl_bamboo.name=Tigela de Bolinhos com Bambu	###
+item.noxcrew.kp:dumpling_bowl_radish.name=Vasilha de Bolinhos com Rabanete	###
+item.noxcrew.kp:red_radish.name=Rabanete Vermelho	###
+item.noxcrew.kp:chopped_red_radish.name=Rabanete Vermelho Picado	###
+item.noxcrew.kp:bamboo_shoots.name=Brotos de Bambu	###
+item.noxcrew.kp:chopped_bamboo_shoots.name=Brotos de Bambu Picados	###
+item.noxcrew.kp:teleport_scroll_att.name=Pergaminho de Viagem	###
+item.noxcrew.kp:rubble_throwable.name=Escombros	###
+##Attachments
+
+item.noxcrew.kp:wok=Wok Arremessável	###
+item.noxcrew.kp:axe=Machado Arremessável	###
+item.noxcrew.kp:wolf_weapon=Espada Arremessável	###
+item.noxcrew.kp:fireworks=Bombinhas	###
+item.noxcrew.kp:dragon_spirit=Espírito do Guerreiro Dragão	###
+item.noxcrew.kp:noodle_bowl=Tigela de Macarrão	###
+item.noxcrew.kp:noodle_bowl_daikon=Macarrão com Daikon	###
+item.noxcrew.kp:noodle_bowl_pak_choi=Macarrão com Pak-choi	###
+item.noxcrew.kp:daikon=Daikon	###
+item.noxcrew.kp:chopped_daikon=Daikon Picado	###
+item.noxcrew.kp:pak_choi=Pak-Choi	###
+item.noxcrew.kp:chopped_pak_choi=Pak-choi Picado	###
+item.noxcrew.kp:dumpling_bowl=Tigela de Bolinhos	###
+item.noxcrew.kp:dumpling_bowl_bamboo=Tigela de Bolinhos com Bambu	###
+item.noxcrew.kp:dumpling_bowl_radish=Tigela de Bolinhos com Rabanete	###
+item.noxcrew.kp:red_radish=Rabanete Vermelho	###
+item.noxcrew.kp:chopped_red_radish=Rabanete Vermelho Picado	###
+item.noxcrew.kp:bamboo_shoots=Brotos de Bambu	###
+item.noxcrew.kp:chopped_bamboo_shoots=Brotos de Bambu Picados	###
+item.noxcrew.kp:teleport_scroll_att=Pergaminho de Viagem	###
+item.noxcrew.kp:rubble_throwable=Escombros	###
+##ENTITIES
+
+entity.noxcrew.kp:start_button.name=Começar Jogo	###
+entity.noxcrew.kp:po.name=Mestre Po	###
+entity.noxcrew.kp:mr_ping.name=Sr. Ping	###
+entity.noxcrew.kp:master_oogway.name=Mestre Oogway	###
+entity.noxcrew.kp:master_shifu.name=Mestre Shifu	###
+entity.noxcrew.kp:tigress.name=Tigresa	###
+entity.noxcrew.kp:monkey.name=Macaco	###
+entity.noxcrew.kp:mantis.name=Louva-a-deus	###
+entity.noxcrew.kp:crane.name=Guindaste	###
+entity.noxcrew.kp:viper.name=Viper	###
+entity.noxcrew.kp:tai_lung.name=Tai Lung	###
+entity.noxcrew.kp:chameleon.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_po.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_tai.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_kai.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_shen.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_dragon.name=O Camaleão	###
+entity.noxcrew.kp:chameleon_dragon_shadow.name=O Camaleão	###
+entity.noxcrew.kp:lord_shen.name=Lorde Shen	###
+entity.noxcrew.kp:boss_wolf.name=Chefe Lobo	###
+entity.noxcrew.kp:soothsayer.name=Fala Macia	###
+entity.noxcrew.kp:master_ox.name=Mestre Boi	###
+entity.noxcrew.kp:master_croc.name=Mestre Crocodilo	###
+entity.noxcrew.kp:warrior_wolf.name=Guerreiro Lobo	###
+entity.noxcrew.kp:li_shan.name=Li Shan	###
+entity.noxcrew.kp:big_fun.name=Diversão	###
+entity.noxcrew.kp:grandma_panda.name=Vovó Panda	###
+entity.noxcrew.kp:mei_mei.name=Mei Mei	###
+entity.noxcrew.kp:dim.name=Apagar	###
+entity.noxcrew.kp:sum.name=Soma	###
+entity.noxcrew.kp:lei_lei.name=Lei Lei	###
+entity.noxcrew.kp:bao.name=Bao	###
+entity.noxcrew.kp:general_kai.name=Kai, o Coletor	###
+entity.noxcrew.kp:pig.name=Porco	###
+entity.noxcrew.kp:geese.name=Gansos	###
+entity.noxcrew.kp:rabbit.name=Coelho	###
+entity.noxcrew.kp:gazelle.name=Gazela	###
+entity.noxcrew.kp:palace_guard.name=Guarda do Palácio	###
+entity.noxcrew.kp:panda.name=Panda	###
+entity.noxcrew.kp:academy_student.name=Estudante da Academia	###
+entity.noxcrew.kp:academy_instructor.name=Instrutor da Academia	###
+entity.noxcrew.eg:training_boxing.name=Saco de Pancada de Treinamento	###
+entity.noxcrew.eg:training_arrow.name=Alvo de Treinamento	###
+entity.noxcrew.eg:training_wood.name=Madeira de Treinamento	###
+entity.noxcrew.eg:training_rack.name=Estante de Treinamento	###
+entity.noxcrew.eg:training_bamboo.name=Bambu de Treinamento	###
+entity.noxcrew.kp:jombie_badger.name=Zumbis de Jade Mestres Texugos Gêmeos	###
+entity.noxcrew.kp:jombie_porcupine.name=Mestre Porco-espinho Zumbi	###
+entity.noxcrew.kp:jombie_porcupine<>.name=Mestre Porco-espinho Zumbi	###
+entity.noxcrew.kp:jombie_gorilla.name=Mestre Gorila Zumbi	###
+entity.noxcrew.kp:jombie_boar.name=Mestre Javali Zumbi	###
+entity.noxcrew.kp:jombie_bear.name=Zumbi de Jade Mestre Urso	###
+entity.noxcrew.kp:jombie_chicken.name=Mestre Galinha Zumbi	###
+entity.noxcrew.kp:jombie_croc.name=Mestre Crocodilo Zumbi	###
+entity.noxcrew.kp:brazier.name=Braseiro	###
+entity.noxcrew.kp:flying_glaives.name=Archas	###
+entity.noxcrew.kp:tai_rock.name=Rocha	###
+entity.noxcrew.kp:wok_pile.name=Pilha de Wok	###
+entity.noxcrew.kp:firework_cart.name=Carrinho de Fogos de Artifício	###
+entity.noxcrew.kp:shen_boat.name=Barco do Lorde Shen	###
+entity.noxcrew.kp:axe_pile.name=Pilha de Machados	###
+entity.noxcrew.kp:canal_boats.name=Barco do Canal	###
+entity.noxcrew.kp:furious_boat.name=Barco da Prisão dos Cinco Furiosos	###
+entity.noxcrew.kp:cannons.name=Canhão	###
+entity.noxcrew.kp:cannon_balls.name=Bala de Canhão	###
+entity.noxcrew.kp:sword_rack.name=Estante de Espadas	###
+entity.noxcrew.kp:feather_dagger.name=Adaga de Penas	###
+entity.noxcrew.kp:shen_cannon.name=Canhão de Shen	###
+entity.noxcrew.kp:tnt_stockpile.name=Estoque de Dinamite	###
+entity.noxcrew.kp:roll_panda.name=Esquadrão do Rolinho Primavera	###
+entity.noxcrew.kp:firework_panda.name=Pandas de Bombinhas	###
+entity.noxcrew.kp:dragon_panda.name=Espírito do Guerreiro Dragão	###
+entity.noxcrew.kp:firework_crate.name=Caixa de Bombinhas	###
+entity.noxcrew.kp:dragon_warrior_spirit.name=Chi do Guerreiro Dragão	###
+entity.noxcrew.kp:fiery_cage.name=Gaiola de Jade Flamejante	###
+entity.noxcrew.kp:fiery_cage<>.name=Gaiola de Jade Flamejante	###
+entity.noxcrew.kp:dragon_fireball.name=Fogo de Chi do Camaleão	###
+entity.noxcrew.kp:dragon_fireball<>.name=Fogo de Chi do Camaleão	###
+entity.noxcrew.kp:chameleon_rubble_shadow.name=Sombra da Pedra em Queda	###
+entity.noxcrew.kp:chameleon_rubble.name=Escombros em Queda	###
+entity.noxcrew.kp:chameleon_rubble<>.name=Escombros em Queda	###
+entity.noxcrew.kp:target_dummies.name=Boneco-Alvo	###
+entity.noxcrew.kp:swinging_trap.name=Clava Oscilante do Momento do Esquecimento	###
+entity.noxcrew.kp:arrow_trap.name=Flechas de Mil Gansos	###
+entity.noxcrew.kp:arrow_trap<>.name=Flechas de Mil Gansos	###
+entity.noxcrew.kp:arrow_trap_projectile.name=Flechas de Mil Gansos	###
+entity.noxcrew.kp:rotating_trap.name=Manopla dos Guerreiros de Madeira	###
+entity.noxcrew.kp:fire_trap.name=Campo da Morte Flamejante	###
+entity.noxcrew.kp:gongmen_brazier.name=Braseiro de Fogo	###
+entity.noxcrew.kp:customers.name=Clientes	###
+entity.noxcrew.kp:boiling_station.name=Estação de Fervura	###
+entity.noxcrew.kp:steaming_station.name=Estação Fumegante	###
+entity.noxcrew.kp:work_station.name=Estação de Trabalho	###
+entity.noxcrew.kp:serving_station.name=Estação de Atendimento	###
+entity.noxcrew.kp:restaurant_seat.name=Cadeira de Mesa de Jantar	###
+entity.noxcrew.kp:bin_station.name=Cesta de Lixo	###
+entity.noxcrew.kp:daikon_crate.name=Caixote de Rabanete Daikon	###
+entity.noxcrew.kp:pakchoi_sack.name=Saco de Pak-Choi	###
+entity.noxcrew.kp:redradish_crate.name=Caixote de Rabanete Vermelho	###
+entity.noxcrew.kp:bamboo_sack.name=Saco de Brotos de Bambu	###
+entity.noxcrew.kp:dragondance_suit.name=Traje de Dança do Dragão	###
+entity.noxcrew.kp:sheep.name=Ovelha	###
+entity.noxcrew.kp:wolf_munchable.name=Guerreiro Lobo	###
+entity.noxcrew.kp:wolf_collector.name=Lobo Coletor	###
+entity.noxcrew.kp:arrow_volley.name=Saraivada de Flechas	###
+entity.noxcrew.kp:arrow_flare.name=Saraivada de Flechas	###
+entity.noxcrew.kp:tree_sling.name=Estilingue de Árvore	###
+entity.noxcrew.kp:dragon_warrior_dumpling.name=Bolinho do Guerreiro Dragão	###
+entity.noxcrew.kp:komodo_warrior.name=Guerreiro Komodo	###
+entity.noxcrew.kp:komodo_warrior<>.name=Guerreiro Komodo	###
+entity.noxcrew.kp:komodo_spear.name=Lança de Komodo	###
+entity.noxcrew.kp:komodo_spear_ground.name=Lança de Komodo	###
+entity.noxcrew.kp:game_scroll.name=Pergaminho do Jogo	###
+entity.noxcrew.kp:teleport_scroll.name=Pergaminho de Viagem	###
+entity.noxcrew.kp:outfit_change.name=Tela de Mudança de Traje	###
+entity.noxcrew.kp:outfit_screen.name=Mude seu traje!	###
+entity.noxcrew.kp:flag_academy.name=Bandeira da Academia Lee Da de Kung Fu	###
+entity.noxcrew.kp:flag_ttos.name=Bandeira da Torre da Chama Sagrada	###
+entity.noxcrew.kp:collect_sacred_hammer.name=Martelo de Guerra Sagrado	###
+entity.noxcrew.kp:collect_sacred_dragon_scroll.name=O Pergaminho do Dragão	###
+entity.noxcrew.kp:collect_battle_helmets.name=Capacetes de Batalha do Mestre Rato	###
+entity.noxcrew.kp:collect_crossbow.name=Besta do Mestre Carneiro	###
+entity.noxcrew.kp:collect_dolphin_armor.name=Armadura à Prova d'Água do Mestre Golfinho	###
+entity.noxcrew.kp:collect_rhino_armor.name=Armadura do Mestre Rinoceronte Voador	###
+entity.noxcrew.kp:collect_SoH.name=Espada dos Heróis	###
+entity.noxcrew.kp:collect_golden_spear.name=A Lança Dourada	###
+entity.noxcrew.kp:collect_rickshaw.name=Riquixá de Batalha do Imperador Falcão	###
+entity.noxcrew.kp:collect_ring_blades.name=Os Chakrams	###
+entity.noxcrew.kp:collect_tea_set.name=Conjunto de Chá da Mestre Gazela	###
+entity.noxcrew.kp:collect_trident.name=Tridente Invisível do Destino	###
+entity.noxcrew.kp:collect_egg.name=Ovo Perfurante	###
+entity.noxcrew.kp:collect_fan.name=Leque da Senhora Canção do Vento	###
+entity.noxcrew.kp:collect_iron_fist.name=Punho de Ferro da Justiça	###
+entity.noxcrew.kp:collect_shield.name=Escudo Dourado	###
+entity.noxcrew.kp:collect_urn.name=Urna dos Guerreiros Sussurrantes	###
+entity.noxcrew.kp:collect_dagger.name=Adaga de Deng Wa	###
+entity.noxcrew.kp:collect_ninja_weapons.name=Armas Ninja do Mestre Cão	###
+entity.noxcrew.kp:collect_ostrich.name=Ovo do Mestre Avestruz	###
+entity.noxcrew.kp:collect_pangolin.name=Martelo de Corrente Indestrutível do Mestre Pangolim	###
+entity.noxcrew.kp:collect_.name=Martelo de Guerra do Mestre Esquilo	###
+##MESSAGES
+
+txt.announce.1=Kung Fu Panda	###
+txt.announce.2=por §cNoxcrew	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Titles
+
+txt.title.jade_palace=Palácio de Jade	###
+txt.title.valley_of_peace=Vale da Paz	###
+txt.title.gongmen_city=Cidade de Gongmen	###
+txt.title.panda_village=Vila dos Pandas	###
+txt.title.harbor=Cidade de Juniper	###
+txt.title.spirit_realm=O Reino dos Espíritos	###
+txt.title.academy=Academia Lee Da de Kung Fu	###
+txt.title.tai_lung=Tai Lung	###
+txt.title.lord_shen=Lorde Shen	###
+txt.title.general_kai=Kai, O Coletor	###
+txt.title.chameleon=O Camaleão	###
+txt.title.teleport_scroll=Pergaminho de Viagem	###
+##Reserved
+
+txt.res.msg0=§6----------------	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg1=[§6§l!§r]: §Atenção!§r Troca de Modo de Jogo Detectada.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg2=[§6§l!§r]: §2º Este mapa foi feito para o modo Aventura, alguns recursos podem não funcionar da maneira esperada.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg3=[§6§l!§r]: §6Você voltou para o modo Aventura.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg4=[§6§l!§r]: §6Você entrou no Modo Criativo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg5=[§6§l!§r] §4Você está saindo da área de jogo! Volte!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.res.msg6=[§6§l!§r]: §6 Você retornou à área de jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Game State
+
+txt.gs.msg1=[§6§l!§r]: §6Metade do seu tempo acabou! Você tem 2 minutos e 30 segundos para derrotar os lobos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg2=[§6§l!§r]: §6Você tem 30 segundos restantes!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg3=Próxima Onda: %s - Metal Restante: %s	### **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.gs.msg4=[§6§l!§r]: §6Aguardando a liderança escolher a ação...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg5=[§6§l!§r]: §6Fale com o Instrutor da Academia	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg6=[§6§l!§r]: §6Use o Pergaminho de Viagem quando estiver com tudo pronto para sair	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.msg7=[§6§l!§r]: §aA sua melhor pontuação!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.peace=[§6§l!§r]: §eVocê coletou todos os artefatos no Vale da Paz!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.gongmen=[§6§l!§r]: §eVocê coletou todos os artefatos na Cidade de Gongmen!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.panda=[§6§l!§r]: §eVocê coletou todos os artefatos na Vila dos Pandas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.harbor=[§6§l!§r]: §eVocê coletou todos os artefatos na Cidade de Juniper!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.palace=[§6§l!§r]: §eVocê coletou todos os artefatos no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gs.all=[§6§l!§r]: §eVocê coletou e devolveu todos os artefatos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Error Messages
+
+txt.error.msg1=[§6§l!§r]: §6O macarrão ainda não ferveu.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg2=[§6§l!§r]: §6Os bolinhos ainda estão fumegantes.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg3=[§6§l!§r]: §6Estes vegetais precisam ser picados antes de serem adicionados ao Macarrão	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg4=[§6§l!§r]: §6Estes vegetais precisam ser picados antes de serem adicionados aos Bolinhos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg5=[§6§l!§r]: §6§oVocê não pode colocar isso aqui.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.error.msg6=[§6§l!§r]: §6§oVocê não pode usar isso no momento.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+##Collectables (Printed in chat)
+
+txt.co.sacred_hammer=§aMartelo de Guerra Sagrado coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.sacred_dragon_scroll=§aPergaminho do Dragão coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.battle_helmets=§aCapacetes de Batalha do Mestre Rato coletados!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.crossbow=§aBesta do Mestre Carneiro coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.dolphin_armor=§aArmadura Impermeável do Mestre Golfinho coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.rhino_armor=§aArmadura do Mestre Rinoceronte Voador coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.soh=§aEspada dos Heróis coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.golden_spear=§aLança Dourada coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.rickshaw=§aRiquixá de Batalha do Imperador Falcão coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ring_blades=§aLâminas de Anel coletadas!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.tea_set=§aConjunto de Chá da Mestre Gazela coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.trident=§aTridente Invisível do Destino coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.egg=§aOvo com Espinhos coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.fan=§aLeque da Senhora Canção do Vento coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.iron_fist=§aPunho de Ferro da Justiça coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.shield=§aEscudo Dourado coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.urn=§aUrna dos Guerreiros Sussurrantes coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.dagger=§aAdaga de Deng Wa coletada!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ninja_weapons=§aArmas Ninja do Mestre Cão coletadas!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.ostrich=§aOvo do Mestre Avestruz coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.pangolin=§aMartelo de Corrente do Mestre Pangolim coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co.warhammer=§aMartelo de Guerra do Mestre Esquilo coletado!§r §oVeja no Salão dos Guerreiros no Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Collectables (Printed in the Actionbar)
+
+txt.co_ab.sacred_hammer=§6Martelo de Guerra Sagrado coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.sacred_dragon_scroll=§6Pergaminho do Dragão coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.battle_helmets=§6Capacetes de Batalha do Mestre Rato coletados!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.crossbow=§6Besta do Mestre Carneiro coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.dolphin_armor=§6Armadura Impermeável do Mestre Golfinho coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.rhino_armor=§6Armadura do Mestre Rinoceronte Voador coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.soh=§6Espada dos Heróis coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.golden_spear=§6Lança Dourada coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.rickshaw=§6Riquixá de Batalha do Imperador Falcão coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ring_blades=§6Lâminas de Anel coletadas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.tea_set=§6Conjunto de Chá da Mestre Gazela coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.trident=§6Tridente Invisível do Destino coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.egg=§6Ovo com Espinhos coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.fan=§6Leque da Senhora Canção do Vento coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.iron_fist=§6Punho de Ferro da Justiça coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.shield=§6Escudo Dourado coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.urn=§6Urna dos Guerreiros Sussurrantes coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.dagger=§6Adaga de Deng Wa coletada!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ninja_weapons=§6Armas Ninja do Mestre Cão coletadas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.ostrich=§6Ovo do Mestre Avestruz coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.pangolin=§6Martelo de Corrente do Mestre Pangolim coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.co_ab.warhammer=§6O Martelo de Guerra do Mestre Esquilo coletado!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Tutorial
+
+txt.tut.msg0=[§6§l!§r]: §6Fale com o Instrutor da Academia!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg1=[§6§l!§r]: Boas-vindas ao Palácio de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg2=[§6§l!§r]: Liderado pelo nosso grande Líder Espiritual, Po!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg3=[§6§l!§r]: Aprenda tudo sobre Kung Fu com atividades	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg4=[§6§l!§r]: Mude seu estilo de moda no Quartel dos Estudantes	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg5=[§6§l!§r]: Recupere os artefatos desaparecidos para o Salão dos Heróis	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg6=[§6§l!§r]: Viaje com facilidade usando os Pergaminhos de Viagem	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tut.msg7=[§6§l!§r]: Explore o mundo de Kung Fu Panda!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Boss Fights
+
+##Tai Lung
+
+txt.boss_tai.ab1=[§6§l!§r]: §6Expulse Tai Lung do Palácio!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.ab2=[§6§l!§r]: §6Derrote Tai Lung!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.context1=[§6§l!§r]: Tai Lung profanou a santidade do Templo do Palácio de Jade na busca pelo Pergaminho do Dragão. Impeça-o!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_tai.context2=[§6§l!§r]: Derrote Tai Lung e mostre a ele o significado de um Guerreiro Dragão.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.tai_lung.end=Tai Lung Derrotado!	###
+##Shen
+
+txt.boss_shen.ab1=[§6§l!§r]: §6Arremesse machados e liberte os Cinco Furiosos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.ab2=[§6§l!§r]: §6Destrua os barcos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.ab3=[§6§l!§r]: §6Derrote o Lorde Shen	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context1=[§6§l!§r]: O Lorde Shen capturou os Cinco Furiosos e montou uma frota de navios de guerra! Liberte os cinco e pare essa frota!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context2=[§6§l!§r]: Os Cinco estão livres, mas a frota permanece. Destrua esses navios antes que eles lancem uma campanha de invasão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.context3=[§6§l!§r]: Só restou o Lorde Shen... Derrote-o!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_shen.fail=Você não conseguiu impedir a frota do Lorde Shen...	###
+txt.lord_shen.end=Lorde Shen derrotado!	###
+txt.boss_shen.warning1=[§6§l!§r]: §6Liberte os Cinco Furiosos um machado em seu barco!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.boss_shen.warning2=[§6§l!§r]: §6Destrua os barcos atirando machados neles!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+##Kai
+
+txt.boss_kai.ab1=[§6§l!§r]: §6Derrote os Zumbis de Jade!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab2=[§6§l!§r]: §6Derrote Kai, o Coletor!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab3=[§6§l!§r]: §aEsquadrão Rolinho Primavera chegando!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab4=[§6§l!§r]: §aDiversão pronto para abraçar!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.ab5=[§6§l!§r]: §aEsquadrão das Bombinhas pronto para estourar!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.context1=[§6§l!§r]: Kai, o Coletor atacou a Vila dos Pandas para roubar seu chi! Impeça seus Zumbis de Jade de destruir a vila!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_kai.context2=[§6§l!§r]: Você mandou Kai para o Reino dos Espíritos... Derrote-o aqui para que ele não fuja de novo!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.general_kai.end=Kai, o Coletor derrotado!	###
+##Chameleon
+
+txt.boss_cham.ab1=[§6§l!§r]: §6Derrote as transformações da Camaleão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.ab2=[§6§l!§r]: §6Derrote a Camaleão-Dragão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.ab3=[§6§l!§r]: §6Derrote a Camaleão-Po!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context1=[§6§l!§r]: A Camaleão roubou o chi dos seus maiores arqui-inimigos! Derrote-a antes que ela fique ainda mais poderosa!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context2=[§6§l!§r]: A Camaleão se transformou em um grande monstro! Derrube-a com os escombros e pedras!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.boss_cham.context3=[§6§l!§r]: A Camaleão se transformou em... você? Derrote-se!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.chameleon.end=O Camaleão Derrotado!	###
+##Activities
+
+##Parkour
+
+txt.activity_parkour.tut1=§eBoas-vindas ao Parkour de Bolinhos	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut2=[§6§l!§r]: Corra pelos bolinhos e pegue o máximo que puder!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut3=[§6§l!§r]: Você tem 2 minutos e 30 segundos	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tut4=[§6§l!§r]: Cuidado com os bolinhos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier0=[§6§l!§r]: Você não coletou nenhum bolinho...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier0_1=[§6§l!§r]: Você não coletou bolinhos suficientes para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier1=[§6§l!§r]: §eColecionador de Bolinhos com Medalha de Bronze!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier2=[§6§l!§r]: §eColecionador de Bolinhos de Medalha de Prata!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.tier3=[§6§l!§r]: §eColecionador de Bolinhos com Medalha de Ouro!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_parkour.counter=[§6§l!§r]: Bolinhos: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Cooking Dumplings
+
+txt.activity_dumplings.tut1=§eCozinhando Bolinhos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut2=[§6§l!§r]: Cozinhe e sirva bolinhos aos clientes!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut3=[§6§l!§r]: Você pode fazer bolinhos na cozinha!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut4=[§6§l!§r]: Cozinhe os bolinhos no vapor!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut5=[§6§l!§r]: Corte os legumes!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut6=[§6§l!§r]: Veja o que o cliente deseja...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut7=[§6§l!§r]: Misture o pedido na estação de serviço	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut8=[§6§l!§r]: Em seguida, atenda o cliente	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut9=[§6§l!§r]: Faça rápido, senão eles ficarão com raiva	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tut10=[§6§l!§r]: Atenda o máximo de clientes que puder!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier0=[§6§l!§r]: Você não serviu nenhum bolinho...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier0_1=[§6§l!§r]: Você não serviu bolinhos suficientes para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier1=[§6§l!§r]: §eCozinheiro de Bolinhos com Medalha de Bronze!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier2=[§6§l!§r]: §eCozinheiro de Bolinhos de Medalha de Prata!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.tier3=[§6§l!§r]: §eCozinheiro de Bolinhos com Medalha de Ouro!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dumplings.counter=[§6§l!§r]: Clientes atendidos: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Cooking Noodle
+
+txt.activity_noodle.tut1=§eCozinhando Macarrão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut2=[§6§l!§r]: Cozinhe e sirva macarrão aos clientes	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut3=[§6§l!§r]: Você pode cozinhar macarrão na cozinha	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut4=[§6§l!§r]: Ferva o macarrão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut5=[§6§l!§r]: Corte os legumes!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut6=[§6§l!§r]: Veja o que o cliente deseja...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut7=[§6§l!§r]: Misture o pedido na estação de serviço	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut8=[§6§l!§r]: Em seguida, atenda o cliente	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut9=[§6§l!§r]: Faça rápido, senão eles ficarão com raiva	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tut10=[§6§l!§r]: Atenda o máximo de clientes que puder!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier0=[§6§l!§r]: Você não serviu nenhum macarrão...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier0_1=[§6§l!§r]: Você não serviu macarrão suficientes para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier1=[§6§l!§r]: §eCozinheiro de Macarrão com Medalha de Bronze!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier2=[§6§l!§r]: §eCozinheiro de Macarrão de Medalha de Prata!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.tier3=[§6§l!§r]: §eCozinheiro de Macarrão com Medalha de Ouro!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_noodle.counter=[§6§l!§r]: Clientes atendidos: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##DRAGON_DANCE
+
+txt.activity_dragon_dance.tut1=§eMastigada de Dragão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut2=[§6§l!§r]: Ande nas ruas de Cidade de Gongmen e coma os lobos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut3=[§6§l!§r]: Coma o máximo de lobos que puder antes que o tempo acabe!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut4=[§6§l!§r]: Você tem 1 minuto e 30 segundos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tut5=[§6§l!§r]: Hora da mastigada dragão!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier0=[§6§l!§r]: Você não devorou nenhum lobo...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier0_1=[§6§l!§r]: Você não devorou lobos suficientes para ganhar uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier1=[§6§l!§r]: §eDragão Mastigador com Medalha de Bronze!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier2=[§6§l!§r]: §eDragão Mastigador com Medalha de Prata!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.tier3=[§6§l!§r]: §eDragão Mastigador com Medalha de Ouro!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_dragon_dance.counter=[§6§l!§r]: Lobos Devorados: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##Training
+
+txt.activity_training.tut1=§eUm Treino de Mestre!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut2=[§6§l!§r]: Dê socos nos bonecos de treinamento e evite as armadilhas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut3=[§6§l!§r]: Dê o máximo de socos que puder antes que o tempo acabe	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut4=[§6§l!§r]: Você tem 2 minutos e 30 segundos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tut5=[§6§l!§r]: Comece seu treinamento!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier0=[§6§l!§r]: Você não deu soco em nenhum boneco...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier0_1=[§6§l!§r]: Você não deu socos suficientes para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier1=[§6§l!§r]: §eMedalha de Bronze de Socos em Bonecos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier2=[§6§l!§r]: §eMedalha de Prata de Socos em Bonecos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.tier3=[§6§l!§r]: §eMedalha de Ouro de Socos em Bonecos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_training.counter=[§6§l!§r]: Bonecos atingidos: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##WOLF_GONGMEN
+
+txt.activity_wolf_gongmen.tut1=§ePare os Lobos Ladrões!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut2=[§6§l!§r]: Impeça os Coletores de roubar metal	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut3=[§6§l!§r]: Se eles roubarem todo o metal, o jogo acaba!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut4=[§6§l!§r]: Derrote os coletores até que o Chefe Lobo chegue	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut5=[§6§l!§r]: Não se esqueça de usar armas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tut6=[§6§l!§r]: Acabe com os Lobos Ladrões!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier0=[§6§l!§r]: Você não salvou nenhum metal...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier0_1=[§6§l!§r]: Você não salvou metal suficiente para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier1=[§6§l!§r]: §eMedalha de Bronze de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier2=[§6§l!§r]: §eMedalha de Prata de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.tier3=[§6§l!§r]: §eMedalha de Ouro de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_gongmen.counter=[§6§l!§r]: Metal restante: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##WOLF_PEACE
+
+txt.activity_wolf_peace.tut1=§ePare os Lobos Ladrões!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut2=[§6§l!§r]: Impeça os Coletores de roubar metal	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut3=[§6§l!§r]: Se eles roubarem todo o metal, o jogo acaba!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut4=[§6§l!§r]: Derrote os coletores até que o Chefe Lobo chegue	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut5=[§6§l!§r]: Não se esqueça de arremessar uns woks!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tut6=[§6§l!§r]: Acabe com os Lobos Ladrões!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier0=[§6§l!§r]: Você não salvou nenhum metal...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier0_1=[§6§l!§r]: Você não salvou metal suficiente para uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier1=[§6§l!§r]: §eMedalha de Bronze de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier2=[§6§l!§r]: §eMedalha de Prata de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.tier3=[§6§l!§r]: §eMedalha de Ouro de Defesa de Metal!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_wolf_peace.counter=[§6§l!§r]: Metal restante: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_wolf_boss=[§6§l!§r]: O Chefe Lobo apareceu!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+
+
+##KOMODO
+
+txt.activity_komodo.tut1=§eConfronto de Komodo!	###
+txt.activity_komodo.tut2=[§6§l!§r]: Sobreviva ao Confronto de Komodo!	###
+txt.activity_komodo.tut3=[§6§l!§r]: Derrote mais Komodos para obter uma pontuação mais alta!	###
+txt.activity_komodo.tut4=[§6§l!§r]: Não se esqueça de usar armas	###
+txt.activity_komodo.tut5=[§6§l!§r]: Use o kung fu nesses komodos!	###
+txt.activity_komodo.complete1=[§6§l!§r]: §eVocê sobreviveu §f%s §ee derrotou §f%s §eKomodos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.complete2=[§6§l!§r]: §eVocê sobreviveu ao Ataque Komodo e derrotou §f%s §eKomodos!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.ab1=Komodos Derrotados: %s	### **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.activity_komodo.tier0=[§6§l!§r]: Você não derrotou nenhum komodo...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier0_1=[§6§l!§r]: Você não derrotou komodos suficientes para ganhar uma medalha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier1=[§6§l!§r]: §eLutador de Komodo com Medalha de Bronze!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier2=[§6§l!§r]: §eLutador de Komodo com Medalha de Prata!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.tier3=[§6§l!§r]: §eLutador de Komodo com Medalha de Ouro!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.activity_komodo.counter=[§6§l!§r]: Komodos Derrotados: §e%s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+##BOOKS
+
+txt.bk.thank_you=Valeu por jogar o nosso mapa!	###
+##DIALOGUES
+
+##Titles
+
+txt.title.dia.start_button=Começar Jogo	###
+txt.title.dia.collectible_empty_peace=Sem Artefato!	###
+txt.title.dia.collectible_empty_gongmen=Sem Artefato!	###
+txt.title.dia.collectible_empty_panda=Sem Artefato!	###
+txt.title.dia.collectible_empty_harbor=Sem Artefato!	###
+txt.title.dia.collectible_empty_palace=Sem Artefato!	###
+txt.title.dia.collectible_battle_helmets=Capacetes de Batalha do Mestre Rato	###
+txt.title.dia.collectible_crossbow=Besta do Mestre Carneiro	###
+txt.title.dia.collectible_dolphin_armor=Armadura Impermeável do Mestre Golfinho	###
+txt.title.dia.collectible_rhino_armor=Armadura do Mestre Rinoceronte Voador	###
+txt.title.dia.collectible_SoH=Espada dos Heróis	###
+txt.title.dia.collectible_golden_spear=A Lança Dourada	###
+txt.title.dia.collectible_rickshaw=Riquixá de Batalha do Imperador Falcão	###
+txt.title.dia.collectible_ring_blades=Os Chakrams	###
+txt.title.dia.collectible_tea_set=Conjunto de Chá da Mestre Gazela	###
+txt.title.dia.collectible_trident=Tridente Invisível do Destino	###
+txt.title.dia.collectible_egg=Ovo Perfurante	###
+txt.title.dia.collectible_fan=Leque da Senhora Canção do Vento	###
+txt.title.dia.collectible_iron_fist=Punho de Ferro da Justiça	###
+txt.title.dia.collectible_shield=Escudo Dourado	###
+txt.title.dia.collectible_urn=Urna dos Guerreiros Sussurrantes	###
+txt.title.dia.collectible_dagger=Adaga de Deng Wa	###
+txt.title.dia.collectible_ninja_weapons=Armas Ninja do Mestre Cão	###
+txt.title.dia.collectible_ostrich=Ovo do Mestre Avestruz	###
+txt.title.dia.collectible_pangolin=Martelo de Corrente do Mestre Pangolim	###
+txt.title.dia.collectible_warhammer=Martelo de Guerra do Mestre Esquilo	###
+txt.title.dia.collectible_sacred_hammer=Martelo de Guerra Sagrado	###
+txt.title.dia.collectible_sacred_dragon_scroll=O Pergaminho do Dragão	###
+txt.title.dia.area_palace=O Palácio de Jade	###
+txt.title.dia.area_peace=O Vale da Paz	###
+txt.title.dia.area_gongmen=Cidade de Gongmen	###
+txt.title.dia.area_village=A Vila dos Pandas	###
+txt.title.dia.area_harbor=Porto da Cidade de Juniper	###
+txt.title.dia.area_castle=Castelo da Cidade de Juniper	###
+txt.title.dia.activity_cooking_dumplings=Cozinhando Bolinhos!	###
+txt.title.dia.activity_cooking_noodles=Cozinhando Macarrão!	###
+txt.title.dia.activity_dragon_dance=Mastigada de Dragão!	###
+txt.title.dia.activity_parkour=Parkour de Bolinhos!	###
+txt.title.dia.activity_wolf_gongmen=Parem os Lobos Ladrões!	###
+txt.title.dia.activity_wolf_peace=Parem os Lobos Ladrões!	###
+txt.title.dia.activity_training=Treino de Mestre	###
+txt.title.dia.activity_komodo=Fuja dos Komodos	###
+txt.title.dia.activity_boss_tai=Confronto: Tai Lung	###
+txt.title.dia.activity_boss_shen=Confronto: Lord Shen	###
+txt.title.dia.activity_boss_kai=Confronto: Kai, o Coletor	###
+txt.title.dia.activity_boss_chameleon=Confronto: O Camaleão	###
+txt.title.dia.boss_tai=Confronto: Tai Lung	###
+txt.title.dia.boss_shen=Confronto: Lord Shen	###
+txt.title.dia.boss_kai=Confronto: Kai, o Coletor	###
+txt.title.dia.boss_chameleon=Confronto: O Camaleão	###
+txt.title.dia.character_po=Po	###
+txt.title.dia.character_tigress=Tigresa	###
+txt.title.dia.character_mantis=Louva-a-deus	###
+txt.title.dia.character_viper=Viper	###
+txt.title.dia.character_monkey=Macaco	###
+txt.title.dia.character_crane=Guindaste	###
+txt.title.dia.character_shifu=Mestre Shifu	###
+txt.title.dia.character_ping=Sr. Ping	###
+txt.title.dia.character_oogway=Mestre Oogway	###
+txt.title.dia.character_soothsayer=Fala Macia	###
+txt.title.dia.character_master_ox=Mestre Boi	###
+txt.title.dia.character_master_croc=Mestre Crocodilo	###
+txt.title.dia.character_li_shan=Li Shan	###
+txt.title.dia.character_big_fun=Diversão	###
+txt.title.dia.character_grandma_panda=Vovó Panda	###
+txt.title.dia.character_mei_mei=Mei Mei	###
+txt.title.dia.character_dim=Apagar	###
+txt.title.dia.character_sum=Soma	###
+txt.title.dia.character_lei_lei=Lei Lei	###
+txt.title.dia.character_bao=Bao	###
+txt.title.dia.character_zhen=Zhen	###
+txt.title.dia.character_han=Han	###
+txt.title.dia.character_triplet_rabbit=Os Coelhos Cruéis	###
+txt.title.dia.character_instructor=Instrutor da Academia	###
+txt.title.dia.character_palace_guard=Guarda do Palácio	###
+txt.title.dia.character_student=Estudante	###
+##Buttons
+
+txt.button.ok=OK	###
+txt.button.yes=Sim	###
+txt.button.no=Não	###
+txt.button.back=Voltar	###
+txt.button.exit=Sair	###
+txt.button.close=Fechar	###
+txt.button.random=Aleatória	###
+txt.button.choice_1=1	###
+txt.button.choice_2=2	###
+txt.button.choice_3=3	###
+txt.button.choice_4=4	###
+txt.button.choice_5=5	###
+txt.button.outfit_1=Traje 1	###
+txt.button.outfit_2=Traje 2	###
+txt.button.outfit_3=Traje 3	###
+txt.button.outfit_4=Traje 4	###
+txt.button.outfit_5=Traje 5	###
+txt.button.bye=Adeus	###
+txt.button.how_to=Como	###
+txt.button.travel=Viajar	###
+txt.button.kungfu_q=Kung Fu?	###
+txt.button.dodge=Desviar	###
+txt.button.weapons=Armas	###
+txt.button.fighting=Lutando	###
+txt.button.jump=Pular	###
+txt.button.way_q=Caminho?	###
+txt.button.symbols_q=Símbolos?	###
+txt.button.artifacts_q=Artefatos?	###
+txt.button.start_game=Começar Jogo	###
+txt.button.start=Começar Jogo	###
+##Character Select
+
+txt.title.dia.character_select=Alterar Aparência	###
+txt.c_select.1_0.dia1=Gostaria de alterar sua aparência?	###
+txt.c_select.2_0.dia1=Qual tipo você gostaria?	###
+txt.c_select.3_0.dia1=Qual traje você gostaria?	###
+txt.c_select.4_0.dia1=Qual acessório você gostaria?	###
+txt.button.char.1_1=Tipo de Corpo	###
+txt.button.char.1_2=Roupas	###
+txt.button.char.1_3=Acessório	###
+##Start Button
+
+txt.start_button.dia1=Pressione o botão abaixo para iniciar o jogo!	###
+##Game Warnings
+
+txt.gamemode_notice_npc.name=§6AVISO	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.gamemode_notice_npc.dia1=Troca de modo de jogo detectada!	###
+txt.gamemode_notice_npc.dia2=Este mapa foi desenvolvido para ser jogado no §lModo Aventura§r, alguns recursos podem não funcionar da maneira esperada em modos diferentes.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##UI Messages
+
+txt.ui.tp.choice1=Para onde você gostaria de viajar?	###
+txt.ui.tp.choice2=§oEscolha um botão abaixo!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.tp.confirm1=Tem certeza?	###
+txt.ui.tp.confirm2=Isso irá teleportar §otodo mundo§r para %s.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.tp.leave1=Quer mesmo sair?	###
+txt.ui.tp.leave2=Isso irá teleportar §otodo mundo§r para %s.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.wolf.actionbar=§c§lMETAL RESTANTE§r: %s	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!** **Contains important format specifiers (%s, %0, etc). Ensure they are kept in the translation within the correct position!**
+txt.ui.waiting.actionbar=§6Esperando o jogador principal fazer uma escolha...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+## Pre-Game Stasis
+
+txt.ui.stasis.btn.start=Início	###
+txt.ui.stasis.btn.cancel=Cancelar	###
+txt.ui.stasis.btn.tutorial=Tutorial	###
+txt.ui.stasis.cooking_dumplings.title=Cozinhando Bolinhos!	###
+txt.ui.stasis.cooking_noodles.title=Cozinhando Macarrão	###
+txt.ui.stasis.dragon_dance.title=Dragão Mastigando!	###
+txt.ui.stasis.parkour.title=Parkour de Bolinhos!	###
+txt.ui.stasis.wolf_gongmen.title=Parem os Lobos Ladrões!	###
+txt.ui.stasis.wolf_peace.title=Parem os Lobos Ladrões!	###
+txt.ui.stasis.training.title=Treino de Mestre	###
+txt.ui.stasis.komodo.title=Confronto de Komodo!	###
+txt.ui.stasis.boss_tai.title=Confronto: Tai Lung	###
+txt.ui.stasis.boss_shen.title=Confronto: Lord Shen	###
+txt.ui.stasis.boss_kai.title=Confronto: Kai, o Coletor	###
+txt.ui.stasis.boss_chameleon.title=Confronto: O Camaleão	###
+txt.ui.stasis.cooking_dumplings.body1=Cozinhe e sirva os clientes que entram no restaurante.	###
+txt.ui.stasis.cooking_dumplings.body2=Sirva o máximo de bolinhos possível para atingir a melhor pontuação!	###
+txt.ui.stasis.cooking_dumplings.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.cooking_noodles.body1=Cozinhe e sirva os clientes que entram no restaurante do Sr. Ping.	###
+txt.ui.stasis.cooking_noodles.body2=Sirva o máximo de macarrão possível para atingir a melhor pontuação!	###
+txt.ui.stasis.cooking_noodles.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.dragon_dance.body1=Acabe com os Guerreiros Lobos no seu traje de dragão!	###
+txt.ui.stasis.dragon_dance.body2=Passe por cima de quantos puder para atingir a melhor pontuação!	###
+txt.ui.stasis.dragon_dance.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.parkour.body1=Corra pelos telhados e colete o máximo de bolinhos possível.	###
+txt.ui.stasis.parkour.body2=Veja se consegue coletar todos antes que o tempo acabe!	###
+txt.ui.stasis.parkour.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.wolf_gongmen.body1=Persiga e derrote os Lobos Coletores antes que o tempo acabe.	###
+txt.ui.stasis.wolf_gongmen.body2=Não deixe que roubem nenhum metal para obter a melhor pontuação!	###
+txt.ui.stasis.wolf_gongmen.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.wolf_peace.body1=Persiga e derrote os Lobos Coletores antes que o tempo acabe.	###
+txt.ui.stasis.wolf_peace.body2=Não deixe que roubem nenhum metal para obter a melhor pontuação!	###
+txt.ui.stasis.wolf_peace.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.training.body1=Evite as armadilhas e dê socos no boneco de treinamento!	###
+txt.ui.stasis.training.body2=Bata o máximo que puder para obter a melhor pontuação!	###
+txt.ui.stasis.training.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.ui.stasis.komodo.body1=Sobreviva ao ataque de Komodo!	###
+txt.ui.stasis.komodo.body2=Derrote todos para ganhar a maior pontuação!	###
+txt.ui.stasis.komodo.body3=§oInicie o jogo ou assista a um tutorial rápido abaixo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Collectibles
+
+##Peace Valley Empty
+
+txt.collectible_peace.dia1=Você ainda não encontrou este artefato.	###
+txt.collectible_peace.dia2=Vá encontrá-lo no Vale da Paz!	###
+##Gongmen City Empty
+
+txt.collectible_gongmen.dia1=Você ainda não encontrou este artefato.	###
+txt.collectible_gongmen.dia2=Vá encontrá-lo na Cidade de Gongmen!	###
+##Panda Village Empty
+
+txt.collectible_panda.dia1=Você ainda não encontrou este artefato.	###
+txt.collectible_panda.dia2=Vá encontrá-lo na Vila dos Panda!	###
+##Harbor Empty
+
+txt.collectible_harbor.dia1=Você ainda não encontrou este artefato.	###
+txt.collectible_harbor.dia2=Vá encontrá-lo na Cidade de Juniper!	###
+##Jade Palace Empty
+
+txt.collectible_palace.dia1=Você ainda não encontrou este artefato.	###
+txt.collectible_palace.dia2=Vá encontrá-lo no Palácio de Jade!	###
+##Master Rat's Battle Helmets
+
+txt.collectible_battle_helmets.dia1=Esses capacetes foram feitos especificamente para o Exército de Ratos e eles os usaram em muitas batalhas.	###
+txt.collectible_battle_helmets.dia2=Na famosa Batalha na Ponte do Desfiladeiro Dourado, o Exército dos Ratos usou seus capacetes para refletir o sol nos olhos de seus inimigos, os deixando atordoados e cegos enquanto os Ratos avançavam.	###
+##Master Ram's Crossbow
+
+txt.collectible_crossbow.dia1=Também conhecida como Destruidor de Portão Infinito, esta besta foi feita especificamente para o Master Carneiro.	###
+txt.collectible_crossbow.dia2=Foi encomendado pela primeira vez por Mestre Carneiro quando eles foram forçados a cercar um acampamento de bandidos extremamente bem defendido, com cinco portões fortificados.	###
+txt.collectible_crossbow.dia3=Incapaz de romper suas defesas, o Mestre Carneiro teve a ideia e mandou fazê-la por um artesão extremamente habilidoso.	###
+txt.collectible_crossbow.dia4=Feito isso, o Mestre Carneiro usou esta besta para destruir cada um dos cinco portões fortificados que protegiam os bandidos.	###
+##Master Dolphin's Waterproof Armor
+
+txt.collectible_dolphin_armor.dia1=Um conjunto de armadura dourada à prova d'água, modelada para o Mestre Golfinho após a derrota de um lendário monstro marinho.	###
+txt.collectible_dolphin_armor.dia2=A lenda diz que um enorme monstro marisco aterrorizou aldeias costeiras, roubando e comendo os seus suprimentos, criando maremotos com a abertura e o fechamento da sua concha.	###
+txt.collectible_dolphin_armor.dia3=O Mestre Golfinho conseguiu derrotar o monstro fazendo um mergulho giratório quando ele abriu seu mexilhão.	###
+##Master Flying Rhino's Armor
+
+txt.collectible_rhino_armor.dia1=Dizem que foi usado apenas uma vez na batalha mais sangrenta contra os guerreiros da província de Guangdong.	###
+txt.collectible_rhino_armor.dia2=A armadura do lendário Mestre Rino Trovão carrega as cicatrizes das facas borboletas giratórias dos assassinos lagartos furtivos (eles foram os únicos guerreiros a se aproximar o suficiente para deixar uma marca).	###
+##Sword of Heroes
+
+txt.collectible_SoH.dia1=Uma espada feita por um dos quatro irmãos, que trabalhava como ferreiro. Os outros três irmãos defenderam a sua vila de todos os perigos e se gabaram da sua bravura, zombando do irmão, até que um dia três terríveis gigantes da montanha apareceram e invadiram a vila e roubaram seus suprimentos.	###
+txt.collectible_SoH.dia2=Os três irmãos foram lutar contra os gigantes, mas todos falharam e ficaram gravemente feridos.	###
+txt.collectible_SoH.dia3=O irmão ferreiro então se trancou por dias e começou a trabalhar fazendo uma nova arma que combinava cada uma das forças e armas de seus irmãos. Uma espada larga, uma adaga e uma alabarda.	###
+txt.collectible_SoH.dia4=Quando ele emergiu, ele carregava uma arma poderosa que o mundo nunca havia sido visto antes. As três armas foram transformadas em uma espada, mas podiam ser divididas em uma espada curta e uma adaga, ou transformadas em uma alabarda de lâmina dupla.	###
+txt.collectible_SoH.dia5=Os irmãos feridos treinaram então o ferreiro no uso de suas armas e quando os gigantes retornaram, ele estava pronto e esperando por eles. Alternando entre as três formas das armas, ele matou cada um dos gigantes.	###
+txt.collectible_SoH.dia6=A vila comemorou a vitória dos irmãos e chamou-o de herói, o maior e mais valente guerreiro de todos.	###
+txt.collectible_SoH.dia7=A fantástica arma passou a ser conhecida como ''Espada dos Heróis'' e cada um dos três irmãos aprendeu a usá-la e a defender sua vila. Nunca mais zombaram do irmão, que voltou a ser ferreiro e viveu feliz para sempre.	###
+##The Golden Spear
+
+txt.collectible_golden_spear.dia1=É dito que esta arma mística foi forjada nas chamas da Montanha do Dragão.	###
+txt.collectible_golden_spear.dia2=Sua lâmina reflete a chama congelada do sopro do Dragão e é considerada capaz de buscar o mal nos corações de qualquer guerreiro.	###
+txt.collectible_golden_spear.dia3=Somente os mais puros e corajosos podem empunhar esta lâmina, e qualquer pessoa considerada indigna será queimada por ela.	###
+##Battle Rickshaw of Emperor Hawk
+
+txt.collectible_rickshaw.dia1=Um carrinho de guerra uma vez usado pelo Imperador Falcão, ele montaria o carrinho para a batalha e causaria grande medo em seus inimigos.	###
+txt.collectible_rickshaw.dia2=Dizia-se que o grito de guerra do Imperador Falcão era tão alto, que a carroça amplificou o grito e paralisou seus inimigos.	###
+##The Ring Blades
+
+txt.collectible_ring_blades.dia1=As armas lendárias carregadas pelos Grão-Mestres Gêmeos Fuinha, essas lâminas formidáveis eram conhecidas por cortar qualquer armadura ou pedra.	###
+txt.collectible_ring_blades.dia2=A fúria impressionante de sua reputação era tamanha que as batalhas eram decididas antes mesmo de começarem, pois um simples vislumbre dessas chamas curvas fariam os inimigos fugirem aterrorizados.	###
+##Master Gazelle’s Tea Set
+
+txt.collectible_tea_set.dia1=Um jogo de chá finamente elaborado que uma vez ajudou a Mestra Gazela a resolver a fúria entre os líderes de dois clãs.	###
+txt.collectible_tea_set.dia2=Desde a infância, os dois líderes estavam sempre em desacordo, discutindo sobre pequenas coisas, mas essas brigas mesquinhas logo levaram a uma batalha feroz.	###
+txt.collectible_tea_set.dia3=Antes que pudesse piorar, Mestra Gazela interveio e manteve uma conversa entre os dois líderes, servindo-lhes chá.	###
+txt.collectible_tea_set.dia4=À medida que os senhores da guerra bebiam o chá e conversaram, sua fúria se acalmou e virou amizade.	###
+##Invisible Trident of Destiny
+
+txt.collectible_trident.dia1=Pouco se sabe sobre esse tridente além de ser, de fato, invisível.	###
+txt.collectible_trident.dia2=Não se sabe de onde veio, por que é invisível ou como faz parte do destino, mas ainda assim um grande poder emana do tridente.	###
+txt.collectible_trident.dia3=§o''Muitas vezes o seu destino encontra-se no caminho que toma para evitá-lo.'' - Mestre Oogway	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Spiked Egg
+
+txt.collectible_egg.dia1=Um ovo misterioso encontrado em uma antiga vila.	###
+txt.collectible_egg.dia2=Ninguém conhece sua história. Nenhum bilhete foi deixado com o ovo.	###
+txt.collectible_egg.dia3=Apenas uma sensação de grande poder que um dia será liberado, caso choque.	###
+##Lady Wind Song's Fan
+
+txt.collectible_fan.dia1=A Senhora Canção do Vento, da Cidade da Fragrância Divina, era uma beldade famosa que escondia sua modéstia atrás de um leque enquanto cantava canções de amor não correspondido.	###
+txt.collectible_fan.dia2=De dia, ela era elegante e despojada. À noite, ela era a Sombra da Lua, uma guerreira misteriosa corrigindo erros e lutando contra a injustiça com seu leque prateado como sua única arma.	###
+txt.collectible_fan.dia3=O leque era feito de um metal misterioso e considerado afiado o suficiente para cortar pedra.	###
+txt.collectible_fan.dia4=Senhora Canção do Vento manteve a paz na Cidade da Fragrância Divina por sessenta anos. Quando ela morreu, na noite de lua cheia, as ruas de sua cidade ficaram cheias do perfume da flor de lótus.	###
+##Iron Fist of Justice
+
+txt.collectible_iron_fist.dia1=Jin Hu, o boi ferreiro da aldeia à beira do Rio das Flores, perdeu a mão direita tentando defender sua família dos bandidos saqueadores da província de Hajin.	###
+txt.collectible_iron_fist.dia2=Ele derreteu suas ferramentas de trabalho e forjou uma mão de metal que soldou em seu braço.	###
+txt.collectible_iron_fist.dia3=Quando os bandidos voltaram, Jin Hu sozinho derrotou os invasores com seu Punho de Ferro da Justiça e os levou para as terras devastadas.	###
+txt.collectible_iron_fist.dia4=Jin Hu, sua família e a aldeia à beira do Rio das Flores nunca mais foram incomodados por bandidos.	###
+##Golden Shield
+
+txt.collectible_shield.dia1=Este escudo dourado foi o único resquício da lendária Batalha do Desfiladeiro do Macaco de Fogo.	###
+txt.collectible_shield.dia2=A batalha em si era mero rumor, não havendo sobreviventes para testemunhar a ferocidade da luta épica, ninguém para lembrar por que ela foi travada ou quem pode ter travado uma batalha escaldante.	###
+txt.collectible_shield.dia3=Tudo o que se sabe é que as montanhas tremeram para o clã de aço para uma lua cheia antes de silene reassentar sobre a terra.	###
+##Urn of Whispering Warriors
+
+txt.collectible_urn.dia1=Os 500 Guerreiros de Tenshu foram chamados para defender uma aldeia isolada de ceramistas pacíficos do ataque de 10.000 demônios da Lua Escarlate.	###
+txt.collectible_urn.dia2=Embora em desvantagem numérica por 20 a 1, os valentes guerreiros seguraram a horda sombria por 100 dias, lutando ombro a ombro em formação e sussurrando uns aos outros ''resistam, irmãos, resistam'' para manter sua coragem.	###
+txt.collectible_urn.dia3=Eles lutaram até o último suspiro e conseguiram expulsar os assassinos. A grata aldeia trabalhou em conjunto para fazer o vaso de cerâmica mais perfeito que já haviam criado, moldado a partir do barro do campo de batalha e umedecido com suas lágrimas.	###
+txt.collectible_urn.dia4=Diz-se que as almas dos nobres guerreiros de Tenshu vivem dentro do vaso, esperando para serem chamadas novamente em um momento de necessidade. Se você ficar em silêncio, consegue ouvi-los sussurrando ''resistam, irmãos, resistam...''	###
+##Dagger of Deng Wa
+
+txt.collectible_dagger.dia1=A Adaga de Deng Wa é uma espada lendária que já foi empunhada pelo grande guerreiro ''Deng Wa''.	###
+txt.collectible_dagger.dia2=Dizem que Deng Wa era um guerreiro que queria levar uma vida pacífica, mas quando sua aldeia foi atacada por um senhor da guerra em busca de conquista, Deng Wa assumiu o papel de guerreiro mais uma vez.	###
+txt.collectible_dagger.dia3=Em uma única noite, Deng Wa derrotou todos os guerreiros do senhor da guerra e então exigiu um duelo com o senhor da guerra, que, por fim, ele também derrotou.	###
+##Master Dog's Ninja Weapons
+
+txt.collectible_ninja_weapons.dia1=Essas espadas cintilantes de ação dupla foram presenteadas ao grande Mestre Cão por seu papel no resgate da adorável Senhora Flor de Lótus.	###
+txt.collectible_ninja_weapons.dia2=Foi sussurrado que seu pai, um ferreiro viajante habilidoso além da medida em seu ofício artesanal, chorou no metal derretido em gratidão durante a forja destas lâminas.	###
+##Master Ostrich's Egg
+
+txt.collectible_ostrich.dia1=Um ovo cerimonial dado ao estimado Mestre Avestruz, para ajudar a derrotar os senhores do crime da Cidade de Jasmine.	###
+txt.collectible_ostrich.dia2=A cidade havia sofrido nas mãos dos criminosos por algum tempo, até que Mestre Avestruz encontrou seu esconderijo e os derrotou.	###
+txt.collectible_ostrich.dia3=A prefeitura mandou os melhores metalúrgicos e joalheiros da cidade criarem o ovo em sua homenagem.	###
+##Master Pangolin's Chain Hammer
+
+txt.collectible_pangolin.dia1=Um Martelo de Corrente longo e indestrutível feito do metal encontrado em um meteorito.	###
+txt.collectible_pangolin.dia2=O Mestre Pangolim recebeu o martelo enquanto viajava por uma aldeia na base de uma montanha. Pernoitou na casa dos ferreiros da aldeia, precisando consertar suas armas.	###
+txt.collectible_pangolin.dia3=Enquanto tomavam chá com o Ferreiro, eles trocaram histórias. O Ferreiro disse que Mestre Pangolim era um guerreiro honrado e disse-lhe para retornar em 3 dias, quando criaria uma arma digna de sua honra.	###
+txt.collectible_pangolin.dia4=3 dias depois e presenteou o Martelo de Corrente Indestrutível. Quando Pangolin perguntou o porquê, o ferreiro disse simplesmente: ''Estava esperando a pessoa certa''.	###
+##The Warhammer of Master Chipmunk
+
+txt.collectible_warhammer.dia1=Um pequeno Martelo de Guerra forjado para o Mestre Esquilo.	###
+txt.collectible_warhammer.dia2=De tamanho pequeno, é feito do melhor metal, e há rumores de que a cabeça do martelo de bolota é infundida com a seiva e o espírito de uma grande árvore.	###
+txt.collectible_warhammer.dia3=§o''O inimigo mais poderoso pode cair nas mãos do melhor guerreiro, não importa seu tamanho.'' - Mestre Esquilo	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Sacred Warhammer
+
+txt.collectible_sacred_hammer.dia1=Um martelo perigoso capaz de grande destruição. Uma batida no chão pode obliterar edifícios, colinas ou até montanhas.	###
+txt.collectible_sacred_hammer.dia2=Já foi usado para causar horrores em nome de criminosos notórios, até que foram derrotados pelos Cinco Furiosos.	###
+txt.collectible_sacred_hammer.dia3=Mestre Shifu descobriu que este martelo é falso, e que o verdadeiro Martelo de Guerra Sagrado deve ter sido escondido antes que os criminosos fossem punidos pela justiça.	###
+##The Dragon Scroll
+
+txt.collectible_sacred_dragon_scroll.dia1=Dizem que ele é fonte de poder ilimitado, e que apenas o Guerreiro Dragão é digno o suficiente para entendê-lo e desvendar seu segredo.	###
+txt.collectible_sacred_dragon_scroll.dia2=O segredo finalmente foi revelado por Po quando ele recebeu o pergaminho do Dragão e se tornou o Guerreiro Dragão.	###
+txt.collectible_sacred_dragon_scroll.dia3=§o ''Não tem ingrediente secreto. É só você.'' - Po	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Activity NPCs
+
+##Dumpling Cooking
+
+##activity.cooking.dumpling.enter
+
+txt.activity_cooking_dumplings_start.dia1=Experimente cozinhar e servir bolinhos!	###
+txt.activity_cooking_dumplings_start.dia2=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.cooking.dumpling.help
+
+txt.activity_cooking_dumplings_help.dia1=Está tendo problemas com seus bolinhos?	###
+txt.activity_cooking_dumplings_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.cooking.dumpling.exit
+
+txt.activity_cooking_dumplings_exit.dia1=Você quer sair do jogo Cozinhando Bolinhos?	###
+txt.activity_cooking_dumplings_exit.dia2=§oIsso retornará todos os jogadores à Vila dos Pandas.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Noodle CookingCooking Noodles
+
+##activity.cooking.noodle.enter
+
+txt.activity_cooking_noodles_start.dia1=Experimente cozinhar e servir macarrão!	###
+txt.activity_cooking_noodles_start.dia2=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.cooking.noodle.help
+
+txt.activity_cooking_noodles_help.dia1=Precisa de ajuda para cozinhar macarrão?	###
+txt.activity_cooking_noodles_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.cooking.noodle.exit
+
+txt.activity_cooking_noodles_exit.dia1=Você quer sair do jogo Cozinhando Macarrão?	###
+txt.activity_cooking_noodles_exit.dia2=§oIsso retornará todos os jogadores ao Vale da Paz.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Dragon Munching Dragon Munching!
+
+##activity.dragon.enter
+
+txt.activity_dragon_dance_start.dia1=Retorne às Ruas da Cidade de Gongmen sob o governo de Lorde Shen!	###
+txt.activity_dragon_dance_start.dia2=Vista uma roupa de dragão e devore os Lobos Guerreiros de Shen!	###
+txt.activity_dragon_dance_start.dia3=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.dragon.help
+
+txt.activity_dragon_dance_help.dia1=Precisa de ajuda para devorar todos aqueles Guerreiros Lobos?	###
+txt.activity_dragon_dance_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.dragon.exit
+
+txt.activity_dragon_dance_exit.dia1=Você quer sair do jogo Mastigada de Dragão?	###
+txt.activity_dragon_dance_exit.dia2=§oIsso retornará todos os jogadores às ruas da cidade de Gongmen.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Dumpling ParkourDumpling Parkour!
+
+##activity.parkour.enter
+
+txt.activity_parkour_start.dia1=É hora de treinar o seu kung fu no Parkour de Bolinhos!	###
+txt.activity_parkour_start.dia2=Pule e dê saltos mortais pelos telhados coletando bolinhos!	###
+txt.activity_parkour_start.dia3=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.parkour.help
+
+txt.activity_parkour_help.dia1=Está com problemas para pegar todos os bolinhos?	###
+txt.activity_parkour_help.dia2=Não se preocupe, Po também estava!	###
+txt.activity_parkour_help.dia3=Confira este rápido tutorial abaixo!	###
+##activity.parkour.exit
+
+txt.activity_parkour_exit.dia1=Quer sair do jogo Parkour de Bolinhos?	###
+txt.activity_parkour_exit.dia2=§oTodos os jogadores retornarão à Vila dos Pandas.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Wolf Thieves - GongmenStop the Wolf Thieves!
+
+##activity.thieves.gong.enter
+
+txt.activity_wolf_gongmen_start.dia1=Retorne às Ruas da Cidade de Gongmen sob o governo de Lorde Shen!	###
+txt.activity_wolf_gongmen_start.dia2=Lobos Ladrões estão roubando o metal dos cidadãos de Gongmen e cabe a você detê-los!	###
+txt.activity_wolf_gongmen_start.dia3=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.thieves.gong.help
+
+txt.activity_wolf_gongmen_help.dia1=Não consegue pegar os ladrões?	###
+txt.activity_wolf_gongmen_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.thieves.gong.exit
+
+txt.activity_wolf_gongmen_exit.dia1=Quer sair do jogo Lobos Ladrões?	###
+txt.activity_wolf_gongmen_exit.dia2=§oTodos os jogadores retornarão às ruas da Cidade de Gongmen.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Wolf Thieves - ValleyStop the Wolf Thieves!
+
+##activity.thieves.valley.enter
+
+txt.activity_wolf_peace_start.dia1=Volte para o Vale da Paz sob ameaça do Lorde Shen!	###
+txt.activity_wolf_peace_start.dia2=Lobos Ladrões estão roubando o metal dos cidadãos do Vale e cabe a você detê-los!	###
+txt.activity_wolf_peace_start.dia3=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.thieves.valley.help
+
+txt.activity_wolf_peace_help.dia1=Não consegue pegar os ladrões?	###
+txt.activity_wolf_peace_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.thieves.valley.exit
+
+txt.activity_wolf_peace_exit.dia1=Quer sair do jogo Lobos Ladrões?	###
+txt.activity_wolf_peace_exit.dia2=§oTodos os jogadores retornarão às ruas do Vale da Paz.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Training HallA Master's Training
+
+##activity.training.enter
+
+txt.activity_training_start.dia1=Treine kung fu nos salões onde Po começou sua jornada!	###
+txt.activity_training_start.dia2=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.training.help
+
+txt.activity_training_help.dia1=Está com dificuldades no nível Zero?	###
+txt.activity_training_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.training.exit
+
+txt.activity_training_exit.dia1=Quer sair do jogo Salão de Treinamento?	###
+txt.activity_training_exit.dia2=§oTodos os jogadores retornarão ao Palácio de Jade.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Komodo ClashKomodo Clash
+
+##activity.komodo.enter
+
+txt.activity_komodo_start.dia1=Volte para a Cidade de Juniper sob o domínio do Camaleão!	###
+txt.activity_komodo_start.dia2=Veja através dos olhos de Po e derrote os Guerreiros Komodo!	###
+txt.activity_komodo_start.dia3=§oPressione o botão abaixo para carregar o jogo.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##activity.komodo.help
+
+txt.activity_komodo_help.dia1=Não consegue derrotar os Komodos?	###
+txt.activity_komodo_help.dia2=Confira este rápido tutorial abaixo!	###
+##activity.komodo.exit
+
+txt.activity_komodo_exit.dia1=Você quer sair do jogo Confronto de Komodo?	###
+txt.activity_komodo_exit.dia2=§oIsso retornará todos os jogadores às ruas da Cidade de Juniper.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##Boss Fight NPCs
+
+##Showdown: Tai Lung
+
+txt.activity_boss_tai_start.dia1=Revisite o passado e enfrente o temível Tai Lung!	###
+txt.activity_boss_tai_start.dia2=Lute com ele como Po fez uma vez e aprenda através da experiência de Po o que significava se tornar o guerreiro dragão.	###
+##Showdown: Lord Shen
+
+txt.activity_boss_shen_start.dia1=Revisite o passado e derrote o vilão Lorde Shen!	###
+txt.activity_boss_shen_start.dia2=Reviva o resgate dos Cinco Furiosos por Po da frota de canhoneiras de Shen e seu confronto final no navio de Shen!	###
+##Showdown: Kai the Collector
+
+txt.activity_boss_kai_start.dia1=Revisite o passado e derrote o grande Kai, o Colecionador!	###
+txt.activity_boss_kai_start.dia2=Veja através dos olhos de Po, derrote o grupo de Zumbis de Jade, e invoque o poder do Guerreiro Dragão no Reino dos Espíritos.	###
+##Showdown: The Chameleon
+
+txt.activity_boss_chameleon_start.dia1=Revisite o passado e derrote o poderoso feiticeiro, o Camaleão!	###
+txt.activity_boss_chameleon_start.dia2=Experimente o confronto de Po contra as formas metamorfoseadas de todos os seus maiores inimigos!	###
+##Po Dialogues
+
+##po.AREA.generics
+
+##po.AREA.kungfu
+
+txt.po_kungfu.dia1=Você quer dicas e truques, né?	###
+txt.po_kungfu.dia2=Bem, você veio ao lugar certo!	###
+txt.po_kungfu.dia3=O que você quer saber?	###
+##po.AREA.dodge
+
+txt.po_dodge.dia1=Todo mestre kung fu precisa esquivar, basta usar §1Agachar§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_dodge.dia2=Você fará uma esquiva rápida na direção que estava olhando.	###
+##po.AREA.weapons
+
+txt.po_weapons.dia1=Um mestre kung fu faz uso de tudo o que está à mão!	###
+txt.po_weapons.dia2=Procure por pilhas de armas, como machados, espadas ou até mesmo woks!	###
+txt.po_weapons.dia3=Você pode pegá-los, depois §1Interagir§r para arremessá-los.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##po.AREA.fighting
+
+txt.po_fighting.dia1=Um mestre de kung fu luta quando necessário.	###
+txt.po_fighting.dia2=É só entrar, socar, chutar e IYAHH!	###
+##po.AREA.jump
+
+txt.po_jump.dia1=Todos os mestres de kung fu têm muita agilidade.	###
+txt.po_jump.dia2=Toque §1Pular§r§o duas vezes para dar um salto duplo!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_jump.dia3=Você consegue alcançar até 3,5 blocos de altura!	###
+##po.palace
+
+txt.po_palace.dia1=Opa! Uma pessoa nova!	###
+txt.po_palace.dia2=Sou Po, obviamente, você me conhece... LENDA do Kung Fu!	###
+txt.po_palace.dia3=De qualquer forma, eu sou seu novo mestre, então me deixe §ote mostrar o caminho...§r	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##po.palace.way
+
+txt.po_palace_way.dia1=Todo mestre tem uma jornada e eu vou te mostrar a minha.	###
+txt.po_palace_way.dia2=Vou mostrar minhas batalhas mais famosas e até as desconhecidas.	###
+txt.po_palace_way.dia3=Você tem que §oconquistar§r o caminho, saia e encontre-o!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_palace_way.dia4=Procure meus símbolos!	###
+##po.palace.symbols_q
+
+txt.po_palace_symbols.dia1=Sim, eu mandei alguns pergaminhos e têm símbolos neles.	###
+txt.po_palace_symbols.dia2=Cada um é uma parte diferente da minha jornada para se tornar um mestre kung fu.	###
+txt.po_palace_symbols.dia3=Tem um por perto, no Salão de Treinamento!	###
+txt.po_palace_symbols.dia4=Procure os pergaminhos!	###
+##po.palace.artifacts_q
+
+txt.po_palace_artifacts.dia1=Você tem talento!	###
+txt.po_palace_artifacts.dia2=Eu escondi a essência de chi de todos os artefatos no Salão dos Heróis e você tem que encontrá-los!	###
+txt.po_palace_artifacts.dia3=Aprenda sobre como eles são §olegais§r e §oincríveis§r!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.po_palace_artifacts.dia4=Tem dois deles aqui em algum lugar...	###
+##po.peace
+
+txt.po_peace.dia1=Boas-vindas ao Vale da Paz!	###
+txt.po_peace.dia2=Eu cresci aqui. Muito legal, sabe. Sem problemas. Um panda muito popular...	###
+txt.po_peace.dia3=Você deveria conferir o restaurante do meu pai! Ótimo macarrão.	###
+##po.peace.artifacts_q
+
+txt.po_peace_artifacts.dia1=Onde estão os artefatos?	###
+txt.po_peace_artifacts.dia2=Eles estão aqui. Em algum lugar, sabe. Pelo menos 5 deles.	###
+txt.po_peace_artifacts.dia3=Não vou contar.	###
+##po.peace.symbols_q
+
+txt.po_peace_symbols.dia1=Você quer saber sobre os pergaminhos de símbolos aqui?	###
+txt.po_peace_symbols.dia2=Bem, um é minha famosa luta com o temível Tai Lung!	###
+txt.po_peace_symbols.dia3=Outro foi ajudando no meu Restaurante de Macarrão do meu Pai, muito importante.	###
+txt.po_peace_symbols.dia4=E quando eu impedi os lobos do Lorde Shen de roubar nossas coisas!	###
+##po.gongmen
+
+txt.po_gongmen.dia1=Boas-vindas à Cidade de Gongmen!	###
+txt.po_gongmen.dia2=Dá uma olhada na Torre da Chama Sagrada reconstruída e neste mercado superincrível.	###
+txt.po_gongmen.dia3=Além disso, fique de olho nos meus pergaminhos de símbolos.	###
+##po.gongmen.artifacts_q
+
+txt.po_gongmen_artifacts.dia1=Onde estão os artefatos?	###
+txt.po_gongmen_artifacts.dia2=Nos becos, nos telhados! Você terá que procurar 5 deles.	###
+txt.po_gongmen_artifacts.dia3=Porque de mim você não vai tirar nadica de nada!	###
+##po.gongmen.symbols_q
+
+txt.po_gongmen_symbols.dia1=Procurando os pergaminhos de símbolo? Eu te ajudo!	###
+txt.po_gongmen_symbols.dia2=Uma foi de quando eu detive o enlouquecido Lorde Shen e sua frota de embarcações!	###
+txt.po_gongmen_symbols.dia3=Também daquela vez eu e os Cinco Furiosos nos escondemos em um traje de dragão...	###
+txt.po_gongmen_symbols.dia4=E quando lutamos contra os lobos do Lorde Shen que roubaram nossas coisas!	###
+##po.panda
+
+txt.po_panda.dia1=Boas-vindas à Vila dos Pandas!	###
+txt.po_panda.dia2=É aqui que o meu pai panda vive... Você tem que ir lá dar um oi!	###
+txt.po_panda.dia3=Eles sabem como relaxar aqui. Não esqueça de experimentar os bolinhos!	###
+##po.panda.artifacts_q
+
+txt.po_panda_artifacts.dia1=Onde estão os artefatos?	###
+txt.po_panda_artifacts.dia2=Debaixo das árvores, perto das ondas, quem sabe?! Você vai precisar procurar os cinco.	###
+txt.po_panda_artifacts.dia3=Quer dizer, eu entendo... Mas não vou contar.	###
+##po.gongmen.symbols_q
+
+txt.po_panda_symbols.dia1=Tem uns pergaminhos de símbolos ótimos aqui!	###
+txt.po_panda_symbols.dia2=Um é que, quando eu mandei Kai, o Coletor, de volta para o Reino dos Espíritos, eu invoquei um dragão de chi!	###
+txt.po_panda_symbols.dia3=E tem o meu preferido, Cozinhando Bolinhos!	###
+txt.po_panda_symbols.dia4=Uuuh! Uuuh! E também tem o Parkour de Bolinhos! Tem que pegar todos os bolinhos!	###
+##po.harbor
+
+txt.po_harbor.dia1=Boas-vindas à Cidade de Juniper!	###
+txt.po_harbor.dia2=Da última vez que estive aqui, minha cara estava em cartazes de procurados!	###
+txt.po_harbor.dia3=Haha!	###
+##po.harbor.artifacts_q
+
+txt.po_harbor_artifacts.dia1=Onde estão os artefatos?	###
+txt.po_harbor_artifacts.dia2=Você vai ter que vasculhar as ruas da cidade de Juniper...	###
+txt.po_harbor_artifacts.dia3=Porque eu é que não vou te contar.	###
+####po.harbor.symbols_q
+
+txt.po_harbor_symbols.dia1=Não consegue encontrar os pergaminhos de símbolos, né? Sem problemas!	###
+txt.po_harbor_symbols.dia2=Bem no topo do castelo, foi quando lutei contra a poderoso feiticeira, a Camaleão!	###
+txt.po_harbor_symbols.dia3=Outro foi quando lutei contra seus guerreiros de Komodo, enquanto escapava desse mesmo castelo.	###
+##Character NPCS
+
+##character_tigress
+
+txt.character_tigress.dia1=Treine bastante, jovem aprendiz. Seu corpo deve ser tão resistente quanto sua alma.	###
+txt.character_tigress.dia2=Eu costumava socar as árvores de pau-ferro do palácio para treinar	###
+txt.character_tigress.dia3=Agora eu não sinto nada.	###
+##character_mantis
+
+txt.character_mantis.dia1=Regra número um do kung fu: não julgue um guerreiro com base em seu tamanho!	###
+txt.character_mantis.dia2=Digo... olhe para mim!	###
+txt.character_mantis.dia3=Na verdade, pode ser o terceiro. Foi o quarto?	###
+##character_viper
+
+txt.character_viper.dia1=Você é da Academia?	###
+txt.character_viper.dia2=É importante manter contato com a família.	###
+txt.character_viper.dia3=Eu adorava cozinhar com minhas irmãs.	###
+##character_monkey
+
+txt.character_monkey.dia1=Ah, oi.	###
+txt.character_monkey.dia2=Você já viu meus Biscoitos de Amêndoa?	###
+txt.character_monkey.dia3=Acho que Po deve ter encontrado eles de novo.	###
+##character_crane
+
+txt.character_crane.dia1=Asas da Justiça provavelmente é minha manobra favorita.	###
+txt.character_crane.dia2=Você ganha justiça, você ganha enormes rajadas de vento...	###
+txt.character_crane.dia3=E é muito flexível.	###
+##character_shifu
+
+txt.character_shifu.dia1=Ah, você deve ser iniciante.	###
+txt.character_shifu.dia2=Tenha cuidado durante seu treinamento e lembre-se de meditar.	###
+txt.character_shifu.dia3=Paz Interior... Paz Interior...	###
+##character_ping
+
+txt.character_ping.dia1=Você está aqui para ver o Dragão Guerreiro?!	###
+txt.character_ping.dia2=Esse é meu filho Po, mas agora ele é o Líder Espiritual de todo o vale!	###
+txt.character_ping.dia3=Eu tenho muito orgulho.	###
+txt.character_ping.dia4=Quer um pouco de macarrão?	###
+##character_oogway
+
+txt.character_oogway.dia1=Estudante iniciante, hmm...?	###
+txt.character_oogway.dia2=Lembre-se, não existem acidentes...	###
+txt.character_oogway.dia3=E tinha outra coisa... eu devo ter esquecido. Pois bem!	###
+##character_soothsayer
+
+txt.character_soothsayer.dia1=Você deve fazer aula com Po.	###
+txt.character_soothsayer.dia2=Vejo no seu futuro, uma grande quantidade de... de estresse e dor...	###
+txt.character_soothsayer.dia3=De... um manequim de treinamento de Wing Chun? Não, isso não pode estar certo...	###
+##character_master_ox
+
+txt.character_master_ox.dia1=Estudante de kung fu, né?	###
+txt.character_master_ox.dia2=Lembro-me de quando eu ainda estudava... treinado pelo Mestre Rino Trovão.	###
+txt.character_master_ox.dia3=Ele me encontrou depois que entrei no Palácio Real... me transformou no Boi que sou hoje.	###
+##character_master_croc
+
+txt.character_master_croc.dia1=Um grande mestre pode vir de qualquer lugar.	###
+txt.character_master_croc.dia2=Minha vida passada foi... §otravessa§r... com os Crocodilos Bandidos Que Roubam Lã...	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+txt.character_master_croc.dia3=Mas o Mestre Rino Trovão me mostrou um caminho melhor. E agora aqui estou eu!	###
+##character_li_shan
+
+txt.character_li_shan.dia1=Oi! Você deve conhecer meu filho, Po!	###
+txt.character_li_shan.dia2=Na verdade, eu me reconectei com ele há alguns anos, bem no Vale da Paz!	###
+txt.character_li_shan.dia3=Ele é o pacote completo. Feroz, forte e com grande apetite! Ele quase consegue comer tantos bolinhos quanto eu.	###
+##character_big_fun
+
+txt.character_big_fun.dia1=Você gosta de abraços?	###
+txt.character_big_fun.dia2=Eu gosto de abraços.	###
+##character_grandma_panda
+
+txt.character_grandma_panda.dia1=Minha nossa! Você é grande.	###
+txt.character_grandma_panda.dia2=Você deve ser capaz de comer muitos bolinhos!	###
+##character_mei_mei
+
+txt.character_mei_mei.dia1=Eu... sou Mei Mei...	###
+txt.character_mei_mei1.dia2=Melhor dançarina de fita do mundo.	###
+txt.character_mei_mei1.dia3=Eu danço... com o perigo!	###
+
+##character_dim
+
+txt.character_dim.dia1=Ei! Você conhece meu primo Po?	###
+txt.character_dim.dia2=Ele é realmente incrível...	###
+txt.character_dim.dia3=Ei, você sabe quando o jantar fica pronto?	###
+##character_sum
+
+txt.character_sum.dia1=Ei! Você deve conhecer meu primo Po!	###
+txt.character_sum.dia2=Ele é um superguerreiro panda mestre de kung fu...	###
+txt.character_sum.dia3=Ei, você quer alguns dos meus brotos de bambu?	###
+##character_lei_lei4083 126 167
+
+txt.character_lei_lei.dia1=Olá!	###
+txt.character_lei_lei.dia2=Você parece comigo, só que grande.	###
+txt.character_lei_lei.dia3=Um dia, vou ser tão grande quanto você!	###
+##character_bao
+
+txt.character_bao.dia1=Eles me chamam de Bombinha Bao! Porque eu sou o mestre das bombinhas no kung fu...	###
+txt.character_bao.dia2=Tá, eu não sou o mestre das bombinhas no kung fu...	###
+txt.character_bao.dia3=Mas você quase me acertou!	###
+##character_zhen
+
+txt.character_zhen.dia1=E aí, Pandão!	###
+txt.character_zhen.dia2=Curtiu minha foto? Você pode levar uma se quiser.	###
+txt.character_zhen.dia3=Estão por toda a cidade!	###
+##character_han
+
+txt.character_han.dia1=Você perdeu pandão?	###
+txt.character_han.dia2=Fazemos as coisas de duas maneiras aqui embaixo...	###
+txt.character_han.dia3=Rápido e indolor, ou... lento e doloroso...	###
+##character_triplet_rabbit
+
+txt.character_triplet_rabbit.dia1=A violência faz a nossa barriga formigar!	###
+##character_instructor
+
+txt.character_instructor.dia1=Chegou a hora! Convocações chegaram do Templo do Palácio de Jade para continuar seu treinamento!	###
+txt.character_instructor.dia2=Certifique-se de treinar antes de sair e esteja com tudo preparado!	###
+txt.character_instructor.dia3=§oUse o Pergaminho de Viagem para viajar para o Palácio de Jade.	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard1
+
+txt.character_palace_guard1.dia1=Eu já fui estudante de kung fu, mas nunca soube me esquivar.	###
+txt.character_palace_guard1.dia2=§oUse §1Agachar§r§o para se esquivar rapidamente de ataques!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard2
+
+txt.character_palace_guard2.dia1=Você já esteve no Salão dos Heróis?	###
+txt.character_palace_guard2.dia2=Eu fui lá uma vez para entregar uma mensagem... foi incrível!	###
+##character_palace_guard3
+
+txt.character_palace_guard3.dia1=Mais um estudante de Kung fu?	###
+txt.character_palace_guard3.dia2=Fico muito feliz por você estar aqui para ajudar a proteger o vale.	###
+##character_palace_guard4
+
+txt.character_palace_guard4.dia1=Uma vez, o Guerreiro Dragão disse que eu estava fazendo um bom trabalho.	###
+txt.character_palace_guard4.dia2=Foi o melhor dia da minha vida.	###
+##character_palace_guard5
+
+txt.character_palace_guard5.dia1=Eu gostaria de poder pular como vocês estudantes e mestres de kung fu. Você consegue voar!	###
+txt.character_palace_guard5.dia2=§oToque §1Pular§r§o duas vezes para dar um salto duplo!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_palace_guard6
+
+txt.character_palace_guard6.dia1=Hã?	###
+txt.character_palace_guard6.dia2=Eu não estava dormindo, estava apenas descansando meus olhos.	###
+##character_palace_guard7
+
+txt.character_palace_guard7.dia1=É uma honra servir ao Palácio de Jade.	###
+##character_palace_guard8
+
+txt.character_palace_guard8.dia1=Eu vim da Cidade de Gongmen, mas é tão longe para viajar de volta para ver meus pais.	###
+txt.character_palace_guard8.dia2=§oVocê pode usar o Pergaminho de Viagem para viajar rapidamente entre áreas!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student1
+
+txt.character_student1.dia1=Certifique-se de desviar de qualquer ataque inimigo!	###
+txt.character_student1.dia2=§oUse §oAgachar§1§r para se esquivar rapidamente de ataques!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student2
+
+txt.character_student2.dia1=Hoje de manhã acordei à noite para começar meu treinamento! Ou ainda estava de manhã?	###
+txt.character_student2.dia2=O Mestre disse que preciso descansar, então estou descansando agora. Mas amanhã vou acordar antes de dormir para correr atrás do prejuízo!	###
+##character_student3
+
+txt.character_student3.dia1=Você está indo para o Palácio de Jade?	###
+txt.character_student3.dia2=Ouvi dizer que tem um macarrão muito bom lá no Vale.	###
+##character_student4
+
+txt.character_student4.dia1=Agilidade é importante. Tenha sempre leveza nos pés.	###
+txt.character_student4.dia2=§oToque §1Pular§r§o duas vezes para dar um salto duplo!	### **Contains Minecraft formatting codes (§ followed by one character). Ensure they are kept in the translation!**
+##character_student5
+
+txt.character_student5.dia1=Com muito trabalho e dedicação, um dia serei um mestre de kung fu também!	###
+##character_student6
+
+txt.character_student6.dia1=Quando eu me tornar um mestre, vou me juntar a uma equipe de mestres.	###
+txt.character_student6.dia2=Seremos chamados de ''Super Sete''! Ou seis? Depende de quantos formos...	###
+##character_student7
+
+txt.character_student7.dia1=Kung fu é não só usar seus punhos para socar ou pés para chutar.	###
+txt.character_student7.dia2=Use seus arredores! Até um wok pode ser uma arma...	###
+##character_student8
+
+txt.character_student8.dia1=Cuidado com as armas dos inimigos.	###
+txt.character_student8.dia2=Na minha última luta, usei a arma do meu oponente contra ele! Ele tinha deixado ela largada no suporte de armas!	###

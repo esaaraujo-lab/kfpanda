@@ -1,0 +1,47 @@
+// The materials in this file are assumed to exist by the entity wizard
+// Edit at your own risk!
+{
+  "materials": {
+    "version": "1.0.0",
+	"noxcrew_invisible:entity_alphatest": {},
+    "noxcrew_base:entity": {},
+    "noxcrew_alpha:entity_alphatest": {},
+    "noxcrew_emissive_alpha:entity_emissive_alpha": {},
+    "noxcrew_player:entity_alphatest": {},
+	"noxcrew_trans:entity": {
+      "+states": [ "Blending" ]
+    },
+    "noxcrew_anim:entity_alphatest": {
+      "+defines": [ "USE_UV_ANIM" ],
+      "+states": [ "Blending" ],
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureWrap": "Repeat"
+        }
+      ]
+    },
+	"noxcrew_masked:entity_multitexture_masked": {
+      "depthFunc": "LessEqual",
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureWrap": "Clamp"
+        },
+        {
+          "samplerIndex": 1,
+          "textureWrap": "Clamp"
+        }
+      ],
+      "+defines": [
+        "MASKED_MULTITEXTURE",
+		"ALPHA_TEST" 
+		]
+    },
+	"noxcrew_highlight:entity": { 
+		"-states": ["DisableCulling"], 
+    	"+defines": [ "ALPHA_TEST", "USE_EMISSIVE"],
+		"depthFunc": "Always" 
+	}
+   }
+} 
