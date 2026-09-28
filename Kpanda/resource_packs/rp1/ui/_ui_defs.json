@@ -1,0 +1,14 @@
+{
+	// Alphabetical order please :)
+	"ui_defs": [
+		"ui/titles/area_intro.json",
+		"ui/titles/area_intro_academy.json",
+		"ui/titles/brand.json",
+		"ui/titles/boss_intro.json",
+		"ui/titles/boss_outro.json",
+		"ui/titles/boss_title.json",
+		"ui/titles/letter_box.json",
+		"ui/titles/map.json",
+		"ui/titles/pop_ups.json"
+	]
+}

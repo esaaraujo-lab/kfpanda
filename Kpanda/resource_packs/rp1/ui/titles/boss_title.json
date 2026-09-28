@@ -1,0 +1,539 @@
+{
+	"namespace": "nox_boss_title",
+	"factory": {
+		"type": "panel",
+		"factory": {
+			"name": "hud_title_text_factory",
+			"control_ids": {
+				"hud_title_text": "boss_title@nox_boss_title.root_panel"
+			}
+		}
+	},
+	"root_panel": {
+		"type": "panel",
+		"$is_visible|default": false,
+		"visible": "$is_visible",
+		"variables": [
+			{
+				"requires": "((not ($title_text - 'nox:boss_title' = $title_text)))",
+				"$is_visible": true
+			}
+		],
+		"controls": [
+			{
+				"background@background_panel": {}
+			},
+			{
+				"character@char_panel": {}
+			}
+		]
+	},
+	"safe_background": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/letterbox/black",
+		"keep_ratio": false,
+		"size": ["300%", "300%"],
+		"layer": 1000
+	},
+	"boss_title_background": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/background",
+		"keep_ratio": false,
+		"layer": 1100
+	},
+	"boss_title_vs": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/vs",
+		"size": ["100%", "100%"],
+		"layer": 1101
+	},
+	"boss_title_chameleon": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/chameleon",
+		"size": ["50%", "50%"],
+		"layer": 1111
+	},
+	"boss_title_chameleon_effect": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/chameleon_effect",
+		"size": ["50%", "50%"],
+		"layer": 1112
+	},
+	"boss_title_kai": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/kai",
+		"size": ["80%", "80%"],
+		"layer": 1111
+	},
+	"boss_title_kai_effect_a": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/kai_effect_a",
+		"size": ["80%", "80%"],
+		"layer": 1110
+	},
+	"boss_title_kai_effect_b": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/kai_effect_b",
+		"size": ["80%", "80%"],
+		"layer": 1112
+	},
+	"boss_title_po": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/po",
+		"size": ["80%", "80%"],
+		"layer": 1111
+	},
+	"boss_title_po_effect": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/po_effect",
+		"size": ["70%", "70%"],
+		"layer": 1110
+	},
+	"boss_title_shen": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/shen",
+		"size": ["60%", "60%"],
+		"layer": 1111
+	},
+	"boss_title_shen_effect": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/shen_effect",
+		"size": ["60%", "60%"],
+		"layer": 1110
+	},
+	"boss_title_tai": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/tai",
+		"size": ["50%", "50%"],
+		"layer": 1111
+	},
+	"boss_title_tai_effect_a": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/tai_effect_a",
+		"size": ["50%", "50%"],
+		"layer": 1110
+	},
+	"boss_title_tai_effect_b": {
+		"type": "image",
+		"texture": "textures/ui/noxcrew/boss_title/tai_effect_b",
+		"size": ["50%", "50%"],
+		"layer": 1112
+	},
+	"char_panel": {
+		"type": "panel",
+		"anchor_from": "center",
+		"anchor_to": "center",
+		"controls": [
+			{
+				"po@boss_title_po": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_po_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"po_effect@boss_title_po_effect": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_po_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"tai@boss_title_tai": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_tai' = $title_text)))",
+							"$start_offset": "($effect_offset)",
+							"$anim": "nox_boss_title.char_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"tai_effect_a@boss_title_tai_effect_a": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_tai' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"tai_effect_b@boss_title_tai_effect_b": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_tai' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"shen@boss_title_shen": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_shen' = $title_text)))",
+							"$start_offset": "($effect_offset)",
+							"$anim": "nox_boss_title.char_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"shen_effect@boss_title_shen_effect": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_shen' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"kai@boss_title_kai": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_kai' = $title_text)))",
+							"$start_offset": "($effect_offset)",
+							"$anim": "nox_boss_title.char_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"kai_effect_a@boss_title_kai_effect_a": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_kai' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"kai_effect_b@boss_title_kai_effect_b": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_kai' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"chameleon@boss_title_chameleon": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_chameleon' = $title_text)))",
+							"$start_offset": "($effect_offset)",
+							"$anim": "nox_boss_title.char_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"chameleon_effect@boss_title_chameleon_effect": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_chameleon' = $title_text)))",
+							"$start_offset": "($char_offset)",
+							"$anim": "nox_boss_title.char_effect_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	"background_panel": {
+		"type": "panel",
+		"anchor_from": "center",
+		"anchor_to": "center",
+		"controls": [
+			{
+				"safe_back@safe_background": {
+					"alpha": 0,
+					"$anim|default": "nox_map.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'boss_title_' = $title_text)))",
+							"$anim": "nox_boss_title.anim_background_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"boss_title_back@boss_title_background": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_' = $title_text)))",
+							"$anim": "nox_boss_title.anim_background_in"
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			},
+			{
+				"versus@boss_title_vs": {
+					"alpha": 0,
+					"$anim|default": "nox_boss_title.anim_none",
+					"variables": [
+						{
+							"requires": "((not ($title_text - 'nox:boss_title_' = $title_text)))",
+							"$anim": "nox_boss_title.anim_vs_in" //update
+						}
+					],
+					"anims": ["@$anim"]
+				}
+			}
+		]
+	},
+	// anims
+	"anim_none": {
+		"anim_type": "wait",
+		"duration": 0
+	},
+	// Background
+	"anim_background_in": {
+		"anim_type": "wait",
+		"duration": 0,
+		"next": "@nox_boss_title.anim_background_fade"
+	},
+	"anim_background_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0.5,
+		"next": "@nox_boss_title.anim_background_wait"
+	},
+	"anim_background_wait": {
+		"anim_type": "wait",
+		"duration": 11,
+		"next": "@nox_boss_title.anim_background_out"
+	},
+	"anim_background_out": {
+		"anim_type": "alpha",
+		"from": 1,
+		"to": 0,
+		"duration": 1
+	},
+	// versus
+	"anim_vs_in": {
+		"anim_type": "size",
+		"from": ["0%", "0%"],
+		"to": ["0%", "0%"],
+		"duration": 5.7,
+		"next": "@nox_boss_title.anim_vs_alpha"
+	},
+	"anim_vs_alpha": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss_title.anim_vs_scale"
+	},
+	"anim_vs_scale": {
+		"anim_type": "size",
+		"from": ["0%", "0%"],
+		"to": ["20%", "20%"],
+		"easing": "in_",
+		"duration": 0.4,
+		"next": "@nox_boss_title.anim_vs_wait"
+	},
+	"anim_vs_wait": {
+		"anim_type": "wait",
+		"duration": 4.9,
+		"next": "@nox_boss_title.anim_vs_out"
+	},
+	"anim_vs_out": {
+		"anim_type": "alpha",
+		"from": 1,
+		"to": 0,
+		"duration": 0.2
+	},
+	// Po
+	"char_po_in": {
+		"anim_type": "wait",
+		"duration": 3,
+		"next": "@nox_boss_title.char_po_set_pos"
+	},
+	"char_po_set_pos": {
+		"anim_type": "offset",
+		"from": ["-50%", "20%"],
+		"to": ["-50%", "0%"],
+		"duration": 0,
+		"next": "@nox_boss_title.char_po_in_fade"
+	},
+	"char_po_in_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss_title.char_po_move"
+	},
+	"char_po_move": {
+		"anim_type": "offset",
+		"easing": "out_quart",
+		"from": ["-50%", "20%"],
+		"to": ["-30%", "0%"],
+		"duration": 2,
+		"next": "@nox_boss_title.char_po_wait"
+	},
+	"char_po_effect_in": {
+		"anim_type": "wait",
+		"duration": 3,
+		"next": "@nox_boss_title.char_po_effect_set_pos"
+	},
+	"char_po_effect_set_pos": {
+		"anim_type": "offset",
+		"from": ["-50%", "20%"],
+		"to": ["-50%", "0%"],
+		"duration": 0,
+		"next": "@nox_boss_title.char_po_effect_in_fade"
+	},
+	"char_po_effect_in_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss_title.char_po_effect_move"
+	},
+	"char_po_effect_move": {
+		"anim_type": "offset",
+		"easing": "out_quart",
+		"from": ["-50%", "20%"],
+		"to": ["-35%", "0%"],
+		"duration": 2,
+		"next": "@nox_boss_title.char_po_wait"
+	},
+	"char_po_wait": {
+		"anim_type": "wait",
+		"duration": 6,
+		"next": "@nox_boss_title.char_po_out"
+	},
+	"char_po_out": {
+		"anim_type": "alpha",
+		"from": 1,
+		"to": 0,
+		"duration": 0.2
+	},
+
+	//char
+	"char_in": {
+		"anim_type": "wait",
+		"duration": 7,
+		"next": "@nox_boss_title.char_in_set_pos"
+	},
+	"char_in_set_pos": {
+		"anim_type": "offset",
+		"from": ["50%", "-20%"],
+		"to": ["50%", "0%"],
+		"duration": 0,
+		"next": "@nox_boss_title.char_in_fade"
+	},
+	"char_in_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss_title.char_in_move"
+	},
+	"char_in_move": {
+		"anim_type": "offset",
+		"easing": "out_quart",
+		"from": ["50%", "-20%"],
+		"to": ["30%", "0%"],
+		"duration": 1.5,
+		"next": "@nox_boss_title.char_in_wait"
+	},
+	"char_effect_in": {
+		"anim_type": "wait",
+		"duration": 7,
+		"next": "@nox_boss_title.char_effect_in_set_pos"
+	},
+	"char_effect_in_set_pos": {
+		"anim_type": "offset",
+		"from": ["53%", "-20%"],
+		"to": ["53%", "0%"],
+		"duration": 0,
+		"next": "@nox_boss_title.char_effect_in_fade"
+	},
+	"char_effect_in_fade": {
+		"anim_type": "alpha",
+		"from": 0,
+		"to": 1,
+		"duration": 0,
+		"next": "@nox_boss_title.char_effect_in_move"
+	},
+	"char_effect_in_move": {
+		"anim_type": "offset",
+		"easing": "out_quart",
+		"from": ["53%", "-20%"],
+		"to": ["30%", "0%"],
+		"duration": 1.5,
+		"next": "@nox_boss_title.char_in_wait"
+	},
+	"char_in_wait": {
+		"anim_type": "wait",
+		"duration": 2.5,
+		"next": "@nox_boss_title.char_in_out"
+	},
+	"char_in_out": {
+		"anim_type": "alpha",
+		"from": 1,
+		"to": 0,
+		"duration": 0.2
+	}
+}
